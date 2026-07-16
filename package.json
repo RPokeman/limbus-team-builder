@@ -8,7 +8,6 @@
     "typecheck": "pnpm -r typecheck",
     "lint": "pnpm -r lint",
     "scrape": "pnpm -C packages/scraper scrape",
-    "api": "pnpm -C apps/api dev",
     "web": "pnpm -C apps/web dev"
   },
   "devDependencies": {
