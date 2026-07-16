@@ -1,0 +1,419 @@
+{
+  "identityOrdinal": {
+    "Yi Sang": {
+      "LCB_Sinner_Yi_Sang": 1,
+      "Seven_Assoc._South_Section_6_Yi_Sang": 2,
+      "Blade_Lineage_Salsu_Yi_Sang": 3,
+      "Effloresced_E.G.O::Spicebush_Yi_Sang": 4,
+      "Molar_Office_Fixer_Yi_Sang": 5,
+      "W_Corp._L3_Cleanup_Agent_Yi_Sang": 6,
+      "The_Pequod_First_Mate_Yi_Sang": 7,
+      "Dieci_Assoc._South_Section_4_Yi_Sang": 8,
+      "The_Ring_Pointillist_Student_Yi_Sang": 9,
+      "Lobotomy_E.G.O::Solemn_Lament_Yi_Sang": 10,
+      "LCE_E.G.O::Lantern_Yi_Sang": 11,
+      "Liu_Assoc._South_Section_3_Yi_Sang": 12,
+      "N_Corp._E.G.O::Fell_Bullet_Yi_Sang": 13,
+      "Heishou_Pack_-_Wu_Branch_Adept_Yi_Sang": 14
+    },
+    "Faust": {
+      "LCB_Sinner_Faust": 1,
+      "Lobotomy_Corp._Remnant_Faust": 2,
+      "W_Corp._L2_Cleanup_Agent_Faust": 3,
+      "The_One_Who_Grips_Faust": 4,
+      "Zwei_Assoc._South_Section_4_Faust": 5,
+      "Seven_Assoc._South_Section_4_Faust": 6,
+      "Lobotomy_E.G.O::Regret_Faust": 7,
+      "Blade_Lineage_Salsu_Faust": 8,
+      "Wuthering_Heights_Butler_Faust": 9,
+      "MultiCrack_Office_Rep_Faust": 10,
+      "LCE_E.G.O::Ardor_Blossom_Star_Faust": 11,
+      "Heishou_Pack_-_Mao_Branch_Adept_Faust": 12,
+      "Shi_Assoc._East_Section_3_Faust": 13,
+      "The_Index_Proselyte:【Paper_Slip】Faust": 14
+    },
+    "Don Quixote": {
+      "LCB_Sinner_Don_Quixote": 1,
+      "Shi_Assoc._South_Section_5_Director_Don_Quixote": 2,
+      "W_Corp._L3_Cleanup_Agent_Don_Quixote": 3,
+      "N_Corp._Mittelhammer_Don_Quixote": 4,
+      "Cinq_Assoc._South_Section_5_Director_Don_Quixote": 5,
+      "The_Middle_Little_Sister_Don_Quixote": 6,
+      "Lobotomy_E.G.O::Lantern_Don_Quixote": 7,
+      "Blade_Lineage_Salsu_Don_Quixote": 8,
+      "T_Corp._Class_3_Collection_Staff_Don_Quixote": 9,
+      "The_Manager_of_La_Manchaland_Don_Quixote": 10,
+      "Cinq_Assoc._East_Section_3_Don_Quixote": 11,
+      "Lobotomy_E.G.O::In_the_Name_of_Love_and_Hate_Don_Quixote": 12,
+      "Heishou_Pack_-_Wei_Branch_Don_Quixote": 13,
+      "The_Index_Proxy_-_Effloresced_E.G.O::Procuration_Don_Quixote": 14
+    },
+    "Ryōshū": {
+      "LCB_Sinner_Ryōshū": 1,
+      "Seven_Assoc._South_Section_6_Ryōshū": 2,
+      "Kurokumo_Clan_Wakashu_Ryōshū": 3,
+      "R.B._Chef_de_Cuisine_Ryōshū": 4,
+      "W_Corp._L3_Cleanup_Agent_Ryōshū": 5,
+      "LCCB_Assistant_Manager_Ryōshū": 6,
+      "Liu_Assoc._South_Section_4_Ryōshū": 7,
+      "Edgar_Family_Chief_Butler_Ryōshū": 8,
+      "District_20_Yurodivy_Ryōshū": 9,
+      "Lobotomy_E.G.O::Red_Eyes_&_Penitence_Ryōshū": 10,
+      "Heishou_Pack_-_Mao_Branch_Ryōshū": 11,
+      "N_Corp._E.G.O::Contempt,_Awe_Ryōshū": 12,
+      "Drifting_Blade_of_Hongyuan_Ryōshū": 13
+    },
+    "Meursault": {
+      "LCB_Sinner_Meursault": 1,
+      "Liu_Assoc._South_Section_6_Meursault": 2,
+      "W_Corp._L2_Cleanup_Agent_Meursault": 3,
+      "N_Corp._Großhammer_Meursault": 4,
+      "Rosespanner_Workshop_Fixer_Meursault": 5,
+      "R_Corp._4th_Pack_Rhino_Meursault": 6,
+      "The_Middle_Little_Brother_Meursault": 7,
+      "Blade_Lineage_Mentor_Meursault": 8,
+      "Dead_Rabbits_Boss_Meursault": 9,
+      "Dieci_Assoc._South_Section_4_Director_Meursault": 10,
+      "Cinq_Assoc._West_Section_3_Meursault": 11,
+      "The_Thumb_East_Capo_IIII_Meursault": 12,
+      "The_Prince_of_La_Manchaland_Meursault": 13
+    },
+    "Hong Lu": {
+      "LCB_Sinner_Hong_Lu": 1,
+      "Kurokumo_Clan_Wakashu_Hong_Lu": 2,
+      "Tingtang_Gang_Gangleader_Hong_Lu": 3,
+      "Liu_Assoc._South_Section_5_Hong_Lu": 4,
+      "K_Corp._Class_3_Excision_Staff_Hong_Lu": 5,
+      "W_Corp._L2_Cleanup_Agent_Hong_Lu": 6,
+      "Hook_Office_Fixer_Hong_Lu": 7,
+      "Dieci_Assoc._South_Section_4_Hong_Lu": 8,
+      "District_20_Yurodivy_Hong_Lu": 9,
+      "Fanghunt_Office_Fixer_Hong_Lu": 10,
+      "Full-Stop_Office_Rep_Hong_Lu": 11,
+      "R_Corp._4th_Pack_Reindeer_Hong_Lu": 12,
+      "The_Lord_of_Hongyuan_Hong_Lu": 13
+    },
+    "Heathcliff": {
+      "LCB_Sinner_Heathcliff": 1,
+      "Shi_Assoc._South_Section_5_Heathcliff": 2,
+      "R_Corp._4th_Pack_Rabbit_Heathcliff": 3,
+      "N_Corp._Kleinhammer_Heathcliff": 4,
+      "Lobotomy_E.G.O::Sunshower_Heathcliff": 5,
+      "Seven_Assoc._South_Section_4_Heathcliff": 6,
+      "The_Pequod_Harpooneer_Heathcliff": 7,
+      "Öufi_Assoc._South_Section_3_Heathcliff": 8,
+      "MultiCrack_Office_Fixer_Heathcliff": 9,
+      "Wild_Hunt_Heathcliff": 10,
+      "Full-Stop_Office_Fixer_Heathcliff": 11,
+      "Kurokumo_Clan_Wakashu_Heathcliff": 12,
+      "W_Corp._L4_Cleanup_Agent_-_CCA_Heathcliff": 13,
+      "Heishou_Pack_-_You_Branch_Adept_Heathcliff": 14
+    },
+    "Ishmael": {
+      "LCB_Sinner_Ishmael": 1,
+      "LCCB_Assistant_Manager_Ishmael": 2,
+      "Shi_Assoc._South_Section_5_Ishmael": 3,
+      "R_Corp._4th_Pack_Reindeer_Ishmael": 4,
+      "Lobotomy_E.G.O::Sloshing_Ishmael": 5,
+      "Liu_Assoc._South_Section_4_Ishmael": 6,
+      "Molar_Boatworks_Fixer_Ishmael": 7,
+      "The_Pequod_Captain_Ishmael": 8,
+      "Edgar_Family_Butler_Ishmael": 9,
+      "Zwei_Assoc._West_Section_3_Ishmael": 10,
+      "Kurokumo_Clan_Captain_Ishmael": 11,
+      "Family_Hierarch_Candidate_Ishmael": 12,
+      "Jeong's_Office_Rep_Ishmael": 13,
+      "The_House_of_Spiders:_The_Middle_Apprentice_Ishmael": 14
+    },
+    "Rodion": {
+      "LCB_Sinner_Rodion": 1,
+      "LCCB_Assistant_Manager_Rodion": 2,
+      "Kurokumo_Clan_Wakashu_Rodion": 3,
+      "N_Corp._Mittelhammer_Rodion": 4,
+      "Rosespanner_Workshop_Rep_Rodion": 5,
+      "Zwei_Assoc._South_Section_5_Rodion": 6,
+      "Dieci_Assoc._South_Section_4_Rodion": 7,
+      "Liu_Assoc._South_Section_4_Director_Rodion": 8,
+      "T_Corp._Class_2_Collection_Staff_Rodion": 9,
+      "Devyat'_Assoc._North_Section_3_Rodion": 10,
+      "The_Princess_of_La_Manchaland_Rodion": 11,
+      "Heishou_Pack_-_Si_Branch_Rodion": 12,
+      "Lobotomy_E.G.O::The_Sword_Sharpened_with_Tears_Rodion": 13,
+      "R_Corp._4th_Pack_Reindeer_Rodion": 14
+    },
+    "Sinclair": {
+      "LCB_Sinner_Sinclair": 1,
+      "Los_Mariachis_Jefe_Sinclair": 2,
+      "Zwei_Assoc._South_Section_6_Sinclair": 3,
+      "Blade_Lineage_Salsu_Sinclair": 4,
+      "The_One_Who_Shall_Grip_Sinclair": 5,
+      "Lobotomy_E.G.O::Red_Sheet_Sinclair": 6,
+      "Molar_Boatworks_Fixer_Sinclair": 7,
+      "Cinq_Assoc._South_Section_4_Director_Sinclair": 8,
+      "Dawn_Office_Fixer_Sinclair": 9,
+      "Zwei_Assoc._West_Section_3_Sinclair": 10,
+      "Devyat'_Assoc._North_Section_3_Sinclair": 11,
+      "The_Middle_Little_Brother_Sinclair": 12,
+      "The_Thumb_East_Soldato_II_Sinclair": 13,
+      "Heishou_Pack_-_You_Branch_Sinclair": 14
+    },
+    "Outis": {
+      "LCB_Sinner_Outis": 1,
+      "Blade_Lineage_Salsu_Outis": 2,
+      "G_Corp._Head_Manager_Outis": 3,
+      "Seven_Assoc._South_Section_6_Director_Outis": 4,
+      "Molar_Office_Fixer_Outis": 5,
+      "Cinq_Assoc._South_Section_4_Outis": 6,
+      "Lobotomy_E.G.O::Magic_Bullet_Outis": 7,
+      "Wuthering_Heights_Chief_Butler_Outis": 8,
+      "The_Ring_Pointillist_Student_Outis": 9,
+      "W_Corp._L3_Cleanup_Captain_Outis": 10,
+      "The_Barber_of_La_Manchaland_Outis": 11,
+      "Heishou_Pack_-_Mao_Branch_Outis": 12,
+      "T_Corp._Class_3_VDCU_Staff_Outis": 13,
+      "LCA_Udjat_Vanguard_Team_3_Leader_Outis": 14
+    },
+    "Gregor": {
+      "LCB_Sinner_Gregor": 1,
+      "Liu_Assoc._South_Section_6_Gregor": 2,
+      "G_Corp._Manager_Corporal_Gregor": 3,
+      "R.B._Sous-chef_Gregor": 4,
+      "Rosespanner_Workshop_Fixer_Gregor": 5,
+      "Zwei_Assoc._South_Section_4_Gregor": 6,
+      "Twinhook_Pirates_First_Mate_Gregor": 7,
+      "Kurokumo_Clan_Captain_Gregor": 8,
+      "Edgar_Family_Heir_Gregor": 9,
+      "The_Priest_of_La_Manchaland_Gregor": 10,
+      "Firefist_Office_Survivor_Gregor": 11,
+      "Heishou_Pack_-_Si_Branch_Gregor": 12,
+      "Night_Awls_Capitano_Gregor": 13
+    }
+  },
+  "egoOrdinal": {
+    "Yi Sang": {
+      "ZAYIN": {
+        "Crow's_Eye_View_Yi_Sang": 1,
+        "Bygone_Days_Yi_Sang": 2
+      },
+      "TETH": {
+        "4th_Match_Flame_Yi_Sang": 1,
+        "Wishing_Cairn_Yi_Sang": 2
+      },
+      "HE": {
+        "Dimension_Shredder_Yi_Sang": 1,
+        "Fell_Bullet_Yi_Sang": 2
+      },
+      "WAW": {
+        "Sunshower_Yi_Sang": 1,
+        "Great_Trichiliocosm_三千大世界_Yi_Sang": 2
+      }
+    },
+    "Faust": {
+      "ZAYIN": {
+        "Representation_Emitter_Faust": 1
+      },
+      "TETH": {
+        "Hex_Nail_Faust": 1,
+        "9:2_Faust": 2,
+        "Lasso_Faust": 3
+      },
+      "HE": {
+        "Fluid_Sac_Faust": 1,
+        "Telepole_Faust": 2,
+        "Thoracalgia_Faust": 3,
+        "Command_:_Meltdown_Faust": 4
+      },
+      "WAW": {
+        "Everlasting_Faust": 1
+      }
+    },
+    "Don Quixote": {
+      "ZAYIN": {
+        "La_Sangre_de_Sancho_Don_Quixote": 1
+      },
+      "TETH": {
+        "Lifetime_Stew_Don_Quixote": 1,
+        "Wishing_Cairn_Don_Quixote": 2,
+        "Electric_Screaming_Don_Quixote": 3
+      },
+      "HE": {
+        "Fluid_Sac_Don_Quixote": 1,
+        "Telepole_Don_Quixote": 2,
+        "Red_Sheet_Don_Quixote": 3
+      },
+      "WAW": {
+        "Yearning-Mircalla_Don_Quixote": 1,
+        "In_the_Name_of_Love_and_Hate_Don_Quixote": 2
+      }
+    },
+    "Ryōshū": {
+      "ZAYIN": {
+        "Forest_for_the_Flames_Ryōshū": 1,
+        "Soda_Ryōshū": 2
+      },
+      "TETH": {
+        "Red_Eyes_Ryōshū": 1,
+        "Blind_Obsession_Ryōshū": 2
+      },
+      "HE": {
+        "4th_Match_Flame_Ryōshū": 1,
+        "Red_Eyes_(Open)_Ryōshū": 2,
+        "Thoracalgia_Ryōshū": 3
+      },
+      "WAW": {
+        "Contempt,_Awe_Ryōshū": 1,
+        "Great_Trichiliocosm_三千大世界_Ryōshū": 2
+      }
+    },
+    "Meursault": {
+      "ZAYIN": {
+        "Chains_of_Others_Meursault": 1
+      },
+      "TETH": {
+        "Screwloose_Wallop_Meursault": 1,
+        "Regret_Meursault": 2,
+        "Electric_Screaming_Meursault": 3
+      },
+      "HE": {
+        "Pursuance_Meursault": 1,
+        "Capote_Meursault": 2
+      },
+      "WAW": {
+        "Yearning-Mircalla_Meursault": 1,
+        "Crushbound_Past_Meursault": 2
+      }
+    },
+    "Hong Lu": {
+      "ZAYIN": {
+        "Land_of_Illusion_Hong_Lu": 1
+      },
+      "TETH": {
+        "Roseate_Desire_Hong_Lu": 1,
+        "Soda_Hong_Lu": 2,
+        "Cavernous_Wailing_Hong_Lu": 3,
+        "Lasso_Hong_Lu": 4
+      },
+      "HE": {
+        "Dimension_Shredder_Hong_Lu": 1,
+        "Effervescent_Corrosion_Hong_Lu": 2,
+        "To_Remain_Oneself_宁作吾_Hong_Lu": 3
+      },
+      "WAW": {
+        "Tears_of_the_Tarnished_Blood_汚血泣淚_Hong_Lu": 1
+      }
+    },
+    "Heathcliff": {
+      "ZAYIN": {
+        "Bodysack_Heathcliff": 1,
+        "Holiday_Heathcliff": 2
+      },
+      "TETH": {
+        "AEDD_Heathcliff": 1,
+        "Fell_Bullet_Heathcliff": 2,
+        "Move-in_Reg._Heathcliff": 3
+      },
+      "HE": {
+        "Telepole_Heathcliff": 1,
+        "Ya_Śūnyatā_Tad_Rūpam_Heathcliff": 2,
+        "Asymmetrical_Inertia_Heathcliff": 3
+      },
+      "WAW": {
+        "Binds_Heathcliff": 1
+      }
+    },
+    "Ishmael": {
+      "ZAYIN": {
+        "Snagharpoon_Ishmael": 1,
+        "Hundred-Footed_Death_Maggot_蝍蛆殺_Ishmael": 2
+      },
+      "TETH": {
+        "Roseate_Desire_Ishmael": 1,
+        "Capote_Ishmael": 2,
+        "Bygone_Days_Ishmael": 3
+      },
+      "HE": {
+        "Ardor_Blossom_Star_Ishmael": 1,
+        "Wingbeat_Ishmael": 2,
+        "Christmas_Nightmare_Ishmael": 3,
+        "Tidal_Elegy_Ishmael": 4
+      },
+      "WAW": {
+        "Blind_Obsession_Ishmael": 1
+      }
+    },
+    "Rodion": {
+      "ZAYIN": {
+        "What_is_Cast_Rodion": 1
+      },
+      "TETH": {
+        "Rime_Shank_Rodion": 1,
+        "Effervescent_Corrosion_Rodion": 2
+      },
+      "HE": {
+        "4th_Match_Flame_Rodion": 1,
+        "Pursuance_Rodion": 2,
+        "Hex_Nail_Rodion": 3
+      },
+      "WAW": {
+        "Sanguine_Desire_Rodion": 1,
+        "Indicant's_Trial_Rodion": 2
+      }
+    },
+    "Sinclair": {
+      "ZAYIN": {
+        "Branch_of_Knowledge_Sinclair": 1,
+        "Cavernous_Wailing_Sinclair": 2
+      },
+      "TETH": {
+        "Impending_Day_Sinclair": 1,
+        "Lifetime_Stew_Sinclair": 2,
+        "Hex_Nail_Sinclair": 3
+      },
+      "HE": {
+        "Lantern_Sinclair": 1,
+        "9:2_Sinclair": 2
+      },
+      "WAW": {
+        "Tears_of_the_Tarnished_Blood_汚血泣淚_Sinclair": 1
+      }
+    },
+    "Outis": {
+      "ZAYIN": {
+        "To_Páthos_Máthos_Outis": 1,
+        "I'll_Go_fer_Scissors._How_'Bout_You?_Outis": 2
+      },
+      "TETH": {
+        "Ya_Śūnyatā_Tad_Rūpam_Outis": 1,
+        "Sunshower_Outis": 2
+      },
+      "HE": {
+        "Ebony_Stem_Outis": 1,
+        "Holiday_Outis": 2,
+        "Dimension_Shredder_Outis": 3,
+        "Magic_Bullet_Outis": 4
+      },
+      "WAW": {
+        "Binds_Outis": 1
+      }
+    },
+    "Gregor": {
+      "ZAYIN": {
+        "Suddenly,_One_Day_Gregor": 1,
+        "Legerdemain_Gregor": 2
+      },
+      "TETH": {
+        "Lantern_Gregor": 1,
+        "Bygone_Days_Gregor": 2
+      },
+      "HE": {
+        "AEDD_Gregor": 1,
+        "Solemn_Lament_Gregor": 2,
+        "Christmas_Nightmare_Gregor": 3
+      },
+      "WAW": {
+        "Garden_of_Thorns_Gregor": 1,
+        "Unbrilliant_Glory_Gregor": 2
+      }
+    }
+  }
+}

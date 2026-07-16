@@ -1,0 +1,2427 @@
+[
+  {
+    "page": "Crow's_Eye_View_Yi_Sang",
+    "name": "Crow's Eye View Yi Sang",
+    "sinner": "Yi Sang",
+    "tier": "ZAYIN",
+    "releaseDate": null,
+    "isDefault": true,
+    "affinity": "sloth",
+    "type": "pierce",
+    "cost": {
+      "wrath": 1,
+      "lust": 0,
+      "sloth": 3,
+      "gluttony": 0,
+      "gloom": 0,
+      "pride": 0,
+      "envy": 0
+    },
+    "statusTags": [],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Crow's_Eye_View_Yi_Sang.png/130px-Crow's_Eye_View_Yi_Sang.png"
+  },
+  {
+    "page": "Bygone_Days_Yi_Sang",
+    "name": "Bygone Days Yi Sang",
+    "sinner": "Yi Sang",
+    "tier": "ZAYIN",
+    "releaseDate": "2024-04-04",
+    "isDefault": false,
+    "affinity": "gloom",
+    "type": "pierce",
+    "cost": {
+      "wrath": 0,
+      "lust": 0,
+      "sloth": 3,
+      "gluttony": 0,
+      "gloom": 3,
+      "pride": 0,
+      "envy": 0
+    },
+    "statusTags": [
+      "sinking"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Bygone_Days_Yi_Sang.png/130px-Bygone_Days_Yi_Sang.png"
+  },
+  {
+    "page": "4th_Match_Flame_Yi_Sang",
+    "name": "4th Match Flame Yi Sang",
+    "sinner": "Yi Sang",
+    "tier": "TETH",
+    "releaseDate": "2023-02-27",
+    "isDefault": false,
+    "affinity": "wrath",
+    "type": "slash",
+    "cost": {
+      "wrath": 5,
+      "lust": 0,
+      "sloth": 1,
+      "gluttony": 1,
+      "gloom": 0,
+      "pride": 0,
+      "envy": 0
+    },
+    "statusTags": [
+      "burn"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/4th_Match_Flame_Yi_Sang.png/130px-4th_Match_Flame_Yi_Sang.png"
+  },
+  {
+    "page": "Wishing_Cairn_Yi_Sang",
+    "name": "Wishing Cairn Yi Sang",
+    "sinner": "Yi Sang",
+    "tier": "TETH",
+    "releaseDate": "2023-02-27",
+    "isDefault": false,
+    "affinity": "sloth",
+    "type": "pierce",
+    "cost": {
+      "wrath": 0,
+      "lust": 0,
+      "sloth": 4,
+      "gluttony": 0,
+      "gloom": 1,
+      "pride": 0,
+      "envy": 0
+    },
+    "statusTags": [],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Wishing_Cairn_Yi_Sang.png/130px-Wishing_Cairn_Yi_Sang.png"
+  },
+  {
+    "page": "Dimension_Shredder_Yi_Sang",
+    "name": "Dimension Shredder Yi Sang",
+    "sinner": "Yi Sang",
+    "tier": "HE",
+    "releaseDate": "2023-05-18",
+    "isDefault": false,
+    "affinity": "pride",
+    "type": "pierce",
+    "cost": {
+      "wrath": 0,
+      "lust": 0,
+      "sloth": 3,
+      "gluttony": 3,
+      "gloom": 0,
+      "pride": 0,
+      "envy": 0
+    },
+    "statusTags": [
+      "charge",
+      "rupture"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Dimension_Shredder_Yi_Sang.png/130px-Dimension_Shredder_Yi_Sang.png"
+  },
+  {
+    "page": "Fell_Bullet_Yi_Sang",
+    "name": "Fell Bullet Yi Sang",
+    "sinner": "Yi Sang",
+    "tier": "HE",
+    "releaseDate": "2024-11-14",
+    "isDefault": false,
+    "affinity": "pride",
+    "type": "pierce",
+    "cost": {
+      "wrath": 2,
+      "lust": 0,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 0,
+      "pride": 6,
+      "envy": 0
+    },
+    "statusTags": [
+      "poise",
+      "bleed"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Fell_Bullet_Yi_Sang.png/130px-Fell_Bullet_Yi_Sang.png"
+  },
+  {
+    "page": "Sunshower_Yi_Sang",
+    "name": "Sunshower Yi Sang",
+    "sinner": "Yi Sang",
+    "tier": "WAW",
+    "releaseDate": "2023-06-16",
+    "isDefault": false,
+    "affinity": "sloth",
+    "type": "pierce",
+    "cost": {
+      "wrath": 0,
+      "lust": 0,
+      "sloth": 4,
+      "gluttony": 2,
+      "gloom": 2,
+      "pride": 2,
+      "envy": 0
+    },
+    "statusTags": [],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Sunshower_Yi_Sang.png/130px-Sunshower_Yi_Sang.png"
+  },
+  {
+    "page": "Great_Trichiliocosm_三千大世界_Yi_Sang",
+    "name": "Great Trichiliocosm 三千大世界 Yi Sang",
+    "sinner": "Yi Sang",
+    "tier": "WAW",
+    "releaseDate": "2026-01-15",
+    "isDefault": false,
+    "affinity": "wrath",
+    "type": "pierce",
+    "cost": {
+      "wrath": 4,
+      "lust": 0,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 2,
+      "pride": 2,
+      "envy": 4
+    },
+    "statusTags": [
+      "burn",
+      "sinking",
+      "poise"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Great_Trichiliocosm_%E4%B8%89%E5%8D%83%E5%A4%A7%E4%B8%96%E7%95%8C_Yi_Sang.png/130px-Great_Trichiliocosm_%E4%B8%89%E5%8D%83%E5%A4%A7%E4%B8%96%E7%95%8C_Yi_Sang.png"
+  },
+  {
+    "page": "Representation_Emitter_Faust",
+    "name": "Representation Emitter Faust",
+    "sinner": "Faust",
+    "tier": "ZAYIN",
+    "releaseDate": null,
+    "isDefault": true,
+    "affinity": "pride",
+    "type": "blunt",
+    "cost": {
+      "wrath": 0,
+      "lust": 0,
+      "sloth": 0,
+      "gluttony": 2,
+      "gloom": 0,
+      "pride": 4,
+      "envy": 0
+    },
+    "statusTags": [],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Representation_Emitter_Faust.png/130px-Representation_Emitter_Faust.png"
+  },
+  {
+    "page": "Hex_Nail_Faust",
+    "name": "Hex Nail Faust",
+    "sinner": "Faust",
+    "tier": "TETH",
+    "releaseDate": "2023-02-27",
+    "isDefault": false,
+    "affinity": "envy",
+    "type": "pierce",
+    "cost": {
+      "wrath": 0,
+      "lust": 0,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 0,
+      "pride": 0,
+      "envy": 6
+    },
+    "statusTags": [],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Hex_Nail_Faust.png/130px-Hex_Nail_Faust.png"
+  },
+  {
+    "page": "9:2_Faust",
+    "name": "9:2 Faust",
+    "sinner": "Faust",
+    "tier": "TETH",
+    "releaseDate": "2023-11-23",
+    "isDefault": false,
+    "affinity": "lust",
+    "type": "slash",
+    "cost": {
+      "wrath": 0,
+      "lust": 1,
+      "sloth": 0,
+      "gluttony": 3,
+      "gloom": 0,
+      "pride": 1,
+      "envy": 0
+    },
+    "statusTags": [
+      "burn"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/9-2_Faust.png/130px-9-2_Faust.png"
+  },
+  {
+    "page": "Lasso_Faust",
+    "name": "Lasso Faust",
+    "sinner": "Faust",
+    "tier": "TETH",
+    "releaseDate": "2024-10-17",
+    "isDefault": false,
+    "affinity": "gluttony",
+    "type": "slash",
+    "cost": {
+      "wrath": 0,
+      "lust": 1,
+      "sloth": 0,
+      "gluttony": 3,
+      "gloom": 0,
+      "pride": 0,
+      "envy": 2
+    },
+    "statusTags": [
+      "rupture"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Lasso_Faust.png/130px-Lasso_Faust.png"
+  },
+  {
+    "page": "Fluid_Sac_Faust",
+    "name": "Fluid Sac Faust",
+    "sinner": "Faust",
+    "tier": "HE",
+    "releaseDate": "2023-02-27",
+    "isDefault": false,
+    "affinity": "gloom",
+    "type": "blunt",
+    "cost": {
+      "wrath": 0,
+      "lust": 2,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 4,
+      "pride": 0,
+      "envy": 3
+    },
+    "statusTags": [],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Fluid_Sac_Faust.png/130px-Fluid_Sac_Faust.png"
+  },
+  {
+    "page": "Telepole_Faust",
+    "name": "Telepole Faust",
+    "sinner": "Faust",
+    "tier": "HE",
+    "releaseDate": "2023-04-06",
+    "isDefault": false,
+    "affinity": "envy",
+    "type": "pierce",
+    "cost": {
+      "wrath": 1,
+      "lust": 3,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 0,
+      "pride": 0,
+      "envy": 2
+    },
+    "statusTags": [
+      "charge"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Telepole_Faust.png/130px-Telepole_Faust.png"
+  },
+  {
+    "page": "Thoracalgia_Faust",
+    "name": "Thoracalgia Faust",
+    "sinner": "Faust",
+    "tier": "HE",
+    "releaseDate": "2025-02-20",
+    "isDefault": false,
+    "affinity": "pride",
+    "type": "pierce",
+    "cost": {
+      "wrath": 0,
+      "lust": 0,
+      "sloth": 1,
+      "gluttony": 0,
+      "gloom": 1,
+      "pride": 5,
+      "envy": 0
+    },
+    "statusTags": [
+      "poise"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Thoracalgia_Faust.png/130px-Thoracalgia_Faust.png"
+  },
+  {
+    "page": "Command_:_Meltdown_Faust",
+    "name": "Command : Meltdown Faust",
+    "sinner": "Faust",
+    "tier": "HE",
+    "releaseDate": "2025-09-25",
+    "isDefault": false,
+    "affinity": "gluttony",
+    "type": "pierce",
+    "cost": {
+      "wrath": 0,
+      "lust": 0,
+      "sloth": 1,
+      "gluttony": 5,
+      "gloom": 0,
+      "pride": 2,
+      "envy": 0
+    },
+    "statusTags": [
+      "rupture",
+      "burn"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Command_-_Meltdown_Faust.png/130px-Command_-_Meltdown_Faust.png"
+  },
+  {
+    "page": "Everlasting_Faust",
+    "name": "Everlasting Faust",
+    "sinner": "Faust",
+    "tier": "WAW",
+    "releaseDate": "2024-06-13",
+    "isDefault": false,
+    "affinity": "sloth",
+    "type": "blunt",
+    "cost": {
+      "wrath": 0,
+      "lust": 2,
+      "sloth": 4,
+      "gluttony": 0,
+      "gloom": 2,
+      "pride": 3,
+      "envy": 0
+    },
+    "statusTags": [
+      "tremor"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Everlasting_Faust.png/130px-Everlasting_Faust.png"
+  },
+  {
+    "page": "La_Sangre_de_Sancho_Don_Quixote",
+    "name": "La Sangre de Sancho Don Quixote",
+    "sinner": "Don Quixote",
+    "tier": "ZAYIN",
+    "releaseDate": null,
+    "isDefault": true,
+    "affinity": "lust",
+    "type": "pierce",
+    "cost": {
+      "wrath": 0,
+      "lust": 2,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 0,
+      "pride": 2,
+      "envy": 0
+    },
+    "statusTags": [
+      "bleed"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/La_Sangre_de_Sancho_Don_Quixote.png/130px-La_Sangre_de_Sancho_Don_Quixote.png"
+  },
+  {
+    "page": "Lifetime_Stew_Don_Quixote",
+    "name": "Lifetime Stew Don Quixote",
+    "sinner": "Don Quixote",
+    "tier": "TETH",
+    "releaseDate": "2023-04-20",
+    "isDefault": false,
+    "affinity": "lust",
+    "type": "blunt",
+    "cost": {
+      "wrath": 0,
+      "lust": 5,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 0,
+      "pride": 0,
+      "envy": 0
+    },
+    "statusTags": [
+      "burn"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Lifetime_Stew_Don_Quixote.png/130px-Lifetime_Stew_Don_Quixote.png"
+  },
+  {
+    "page": "Wishing_Cairn_Don_Quixote",
+    "name": "Wishing Cairn Don Quixote",
+    "sinner": "Don Quixote",
+    "tier": "TETH",
+    "releaseDate": "2024-02-15",
+    "isDefault": false,
+    "affinity": "sloth",
+    "type": "blunt",
+    "cost": {
+      "wrath": 2,
+      "lust": 0,
+      "sloth": 2,
+      "gluttony": 0,
+      "gloom": 0,
+      "pride": 1,
+      "envy": 0
+    },
+    "statusTags": [
+      "bleed",
+      "tremor",
+      "poise"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Wishing_Cairn_Don_Quixote.png/130px-Wishing_Cairn_Don_Quixote.png"
+  },
+  {
+    "page": "Electric_Screaming_Don_Quixote",
+    "name": "Electric Screaming Don Quixote",
+    "sinner": "Don Quixote",
+    "tier": "TETH",
+    "releaseDate": "2024-04-11",
+    "isDefault": false,
+    "affinity": "envy",
+    "type": "pierce",
+    "cost": {
+      "wrath": 0,
+      "lust": 0,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 0,
+      "pride": 2,
+      "envy": 4
+    },
+    "statusTags": [
+      "charge"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Electric_Screaming_Don_Quixote.png/130px-Electric_Screaming_Don_Quixote.png"
+  },
+  {
+    "page": "Fluid_Sac_Don_Quixote",
+    "name": "Fluid Sac Don Quixote",
+    "sinner": "Don Quixote",
+    "tier": "HE",
+    "releaseDate": "2023-02-27",
+    "isDefault": false,
+    "affinity": "gloom",
+    "type": "blunt",
+    "cost": {
+      "wrath": 0,
+      "lust": 1,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 4,
+      "pride": 2,
+      "envy": 0
+    },
+    "statusTags": [
+      "sinking",
+      "tremor"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Fluid_Sac_Don_Quixote.png/130px-Fluid_Sac_Don_Quixote.png"
+  },
+  {
+    "page": "Telepole_Don_Quixote",
+    "name": "Telepole Don Quixote",
+    "sinner": "Don Quixote",
+    "tier": "HE",
+    "releaseDate": "2023-03-30",
+    "isDefault": false,
+    "affinity": "envy",
+    "type": "pierce",
+    "cost": {
+      "wrath": 1,
+      "lust": 0,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 2,
+      "pride": 0,
+      "envy": 2
+    },
+    "statusTags": [
+      "charge",
+      "rupture"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Telepole_Don_Quixote.png/130px-Telepole_Don_Quixote.png"
+  },
+  {
+    "page": "Red_Sheet_Don_Quixote",
+    "name": "Red Sheet Don Quixote",
+    "sinner": "Don Quixote",
+    "tier": "HE",
+    "releaseDate": "2025-05-22",
+    "isDefault": false,
+    "affinity": "gluttony",
+    "type": "slash",
+    "cost": {
+      "wrath": 0,
+      "lust": 1,
+      "sloth": 0,
+      "gluttony": 5,
+      "gloom": 2,
+      "pride": 1,
+      "envy": 0
+    },
+    "statusTags": [
+      "rupture"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Red_Sheet_Don_Quixote.png/130px-Red_Sheet_Don_Quixote.png"
+  },
+  {
+    "page": "Yearning-Mircalla_Don_Quixote",
+    "name": "Yearning-Mircalla Don Quixote",
+    "sinner": "Don Quixote",
+    "tier": "WAW",
+    "releaseDate": "2024-10-24",
+    "isDefault": false,
+    "affinity": "lust",
+    "type": "pierce",
+    "cost": {
+      "wrath": 0,
+      "lust": 5,
+      "sloth": 0,
+      "gluttony": 3,
+      "gloom": 0,
+      "pride": 2,
+      "envy": 2
+    },
+    "statusTags": [
+      "bleed"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Yearning-Mircalla_Don_Quixote.png/130px-Yearning-Mircalla_Don_Quixote.png"
+  },
+  {
+    "page": "In_the_Name_of_Love_and_Hate_Don_Quixote",
+    "name": "In the Name of Love and Hate Don Quixote",
+    "sinner": "Don Quixote",
+    "tier": "WAW",
+    "releaseDate": "2025-07-17",
+    "isDefault": false,
+    "affinity": "envy",
+    "type": "blunt",
+    "cost": {
+      "wrath": 2,
+      "lust": 0,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 2,
+      "pride": 2,
+      "envy": 6
+    },
+    "statusTags": [
+      "charge",
+      "rupture",
+      "sinking"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/In_the_Name_of_Love_and_Hate_Don_Quixote.png/130px-In_the_Name_of_Love_and_Hate_Don_Quixote.png"
+  },
+  {
+    "page": "Forest_for_the_Flames_Ryōshū",
+    "name": "Forest for the Flames Ryōshū",
+    "sinner": "Ryōshū",
+    "tier": "ZAYIN",
+    "releaseDate": null,
+    "isDefault": true,
+    "affinity": "lust",
+    "type": "slash",
+    "cost": {
+      "wrath": 2,
+      "lust": 2,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 0,
+      "pride": 0,
+      "envy": 0
+    },
+    "statusTags": [
+      "burn"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Forest_for_the_Flames_Ryoshu.png/130px-Forest_for_the_Flames_Ryoshu.png"
+  },
+  {
+    "page": "Soda_Ryōshū",
+    "name": "Soda Ryōshū",
+    "sinner": "Ryōshū",
+    "tier": "ZAYIN",
+    "releaseDate": "2023-07-27",
+    "isDefault": false,
+    "affinity": "gloom",
+    "type": "pierce",
+    "cost": {
+      "wrath": 0,
+      "lust": 0,
+      "sloth": 0,
+      "gluttony": 2,
+      "gloom": 0,
+      "pride": 2,
+      "envy": 2
+    },
+    "statusTags": [
+      "sinking"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Soda_Ry%C5%8Dsh%C5%AB.png/130px-Soda_Ry%C5%8Dsh%C5%AB.png"
+  },
+  {
+    "page": "Red_Eyes_Ryōshū",
+    "name": "Red Eyes Ryōshū",
+    "sinner": "Ryōshū",
+    "tier": "TETH",
+    "releaseDate": "2023-06-29",
+    "isDefault": false,
+    "affinity": "lust",
+    "type": "slash",
+    "cost": {
+      "wrath": 0,
+      "lust": 2,
+      "sloth": 0,
+      "gluttony": 2,
+      "gloom": 0,
+      "pride": 0,
+      "envy": 1
+    },
+    "statusTags": [],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Red_Eyes_Ry%C5%8Dsh%C5%AB.png/130px-Red_Eyes_Ry%C5%8Dsh%C5%AB.png"
+  },
+  {
+    "page": "Blind_Obsession_Ryōshū",
+    "name": "Blind Obsession Ryōshū",
+    "sinner": "Ryōshū",
+    "tier": "TETH",
+    "releaseDate": "2023-11-30",
+    "isDefault": false,
+    "affinity": "pride",
+    "type": "slash",
+    "cost": {
+      "wrath": 0,
+      "lust": 0,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 2,
+      "pride": 2,
+      "envy": 2
+    },
+    "statusTags": [
+      "poise",
+      "charge"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Blind_Obsession_Ry%C5%8Dsh%C5%AB.png/130px-Blind_Obsession_Ry%C5%8Dsh%C5%AB.png"
+  },
+  {
+    "page": "4th_Match_Flame_Ryōshū",
+    "name": "4th Match Flame Ryōshū",
+    "sinner": "Ryōshū",
+    "tier": "HE",
+    "releaseDate": "2023-02-27",
+    "isDefault": false,
+    "affinity": "wrath",
+    "type": "slash",
+    "cost": {
+      "wrath": 4,
+      "lust": 0,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 0,
+      "pride": 2,
+      "envy": 0
+    },
+    "statusTags": [
+      "burn"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/4th_Match_Flame_Ry%C5%8Dsh%C5%AB.png/130px-4th_Match_Flame_Ry%C5%8Dsh%C5%AB.png"
+  },
+  {
+    "page": "Red_Eyes_(Open)_Ryōshū",
+    "name": "Red Eyes (Open) Ryōshū",
+    "sinner": "Ryōshū",
+    "tier": "HE",
+    "releaseDate": "2023-06-29",
+    "isDefault": false,
+    "affinity": "envy",
+    "type": "slash",
+    "cost": {
+      "wrath": 2,
+      "lust": 2,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 0,
+      "pride": 0,
+      "envy": 3
+    },
+    "statusTags": [],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Red_Eyes_(Open)_Ry%C5%8Dsh%C5%AB.png/130px-Red_Eyes_(Open)_Ry%C5%8Dsh%C5%AB.png"
+  },
+  {
+    "page": "Thoracalgia_Ryōshū",
+    "name": "Thoracalgia Ryōshū",
+    "sinner": "Ryōshū",
+    "tier": "HE",
+    "releaseDate": "2025-01-23",
+    "isDefault": false,
+    "affinity": "pride",
+    "type": "slash",
+    "cost": {
+      "wrath": 1,
+      "lust": 1,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 0,
+      "pride": 5,
+      "envy": 0
+    },
+    "statusTags": [
+      "poise"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Thoracalgia_Ry%C5%8Dsh%C5%AB.png/130px-Thoracalgia_Ry%C5%8Dsh%C5%AB.png"
+  },
+  {
+    "page": "Contempt,_Awe_Ryōshū",
+    "name": "Contempt, Awe Ryōshū",
+    "sinner": "Ryōshū",
+    "tier": "WAW",
+    "releaseDate": "2024-07-11",
+    "isDefault": false,
+    "affinity": "lust",
+    "type": "slash",
+    "cost": {
+      "wrath": 3,
+      "lust": 4,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 0,
+      "pride": 4,
+      "envy": 3
+    },
+    "statusTags": [
+      "bleed"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Contempt%2C_Awe_Ry%C5%8Dsh%C5%AB.png/130px-Contempt%2C_Awe_Ry%C5%8Dsh%C5%AB.png"
+  },
+  {
+    "page": "Great_Trichiliocosm_三千大世界_Ryōshū",
+    "name": "Great Trichiliocosm 三千大世界 Ryōshū",
+    "sinner": "Ryōshū",
+    "tier": "WAW",
+    "releaseDate": "2026-01-15",
+    "isDefault": false,
+    "affinity": "wrath",
+    "type": "slash",
+    "cost": {
+      "wrath": 4,
+      "lust": 4,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 0,
+      "pride": 4,
+      "envy": 0
+    },
+    "statusTags": [
+      "burn",
+      "bleed",
+      "poise"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Great_Trichiliocosm_%E4%B8%89%E5%8D%83%E5%A4%A7%E4%B8%96%E7%95%8C_Ry%C5%8Dsh%C5%AB.png/130px-Great_Trichiliocosm_%E4%B8%89%E5%8D%83%E5%A4%A7%E4%B8%96%E7%95%8C_Ry%C5%8Dsh%C5%AB.png"
+  },
+  {
+    "page": "Chains_of_Others_Meursault",
+    "name": "Chains of Others Meursault",
+    "sinner": "Meursault",
+    "tier": "ZAYIN",
+    "releaseDate": null,
+    "isDefault": true,
+    "affinity": "pride",
+    "type": "blunt",
+    "cost": {
+      "wrath": 0,
+      "lust": 0,
+      "sloth": 1,
+      "gluttony": 0,
+      "gloom": 1,
+      "pride": 0,
+      "envy": 2
+    },
+    "statusTags": [],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Chains_of_Others_Meursault.png/130px-Chains_of_Others_Meursault.png"
+  },
+  {
+    "page": "Screwloose_Wallop_Meursault",
+    "name": "Screwloose Wallop Meursault",
+    "sinner": "Meursault",
+    "tier": "TETH",
+    "releaseDate": "2023-02-27",
+    "isDefault": false,
+    "affinity": "envy",
+    "type": "blunt",
+    "cost": {
+      "wrath": 0,
+      "lust": 0,
+      "sloth": 2,
+      "gluttony": 0,
+      "gloom": 0,
+      "pride": 1,
+      "envy": 2
+    },
+    "statusTags": [],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Screwloose_Wallop_Meursault.png/130px-Screwloose_Wallop_Meursault.png"
+  },
+  {
+    "page": "Regret_Meursault",
+    "name": "Regret Meursault",
+    "sinner": "Meursault",
+    "tier": "TETH",
+    "releaseDate": "2023-10-26",
+    "isDefault": false,
+    "affinity": "wrath",
+    "type": "blunt",
+    "cost": {
+      "wrath": 3,
+      "lust": 0,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 0,
+      "pride": 2,
+      "envy": 0
+    },
+    "statusTags": [
+      "tremor"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Regret_Meursault.png/130px-Regret_Meursault.png"
+  },
+  {
+    "page": "Electric_Screaming_Meursault",
+    "name": "Electric Screaming Meursault",
+    "sinner": "Meursault",
+    "tier": "TETH",
+    "releaseDate": "2024-04-11",
+    "isDefault": false,
+    "affinity": "envy",
+    "type": "pierce",
+    "cost": {
+      "wrath": 1,
+      "lust": 0,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 0,
+      "pride": 0,
+      "envy": 4
+    },
+    "statusTags": [
+      "charge",
+      "rupture"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Electric_Screaming_Meursault.png/130px-Electric_Screaming_Meursault.png"
+  },
+  {
+    "page": "Pursuance_Meursault",
+    "name": "Pursuance Meursault",
+    "sinner": "Meursault",
+    "tier": "HE",
+    "releaseDate": "2023-02-27",
+    "isDefault": false,
+    "affinity": "sloth",
+    "type": "blunt",
+    "cost": {
+      "wrath": 0,
+      "lust": 0,
+      "sloth": 4,
+      "gluttony": 0,
+      "gloom": 1,
+      "pride": 2,
+      "envy": 0
+    },
+    "statusTags": [],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Pursuance_Meursault.png/130px-Pursuance_Meursault.png"
+  },
+  {
+    "page": "Capote_Meursault",
+    "name": "Capote Meursault",
+    "sinner": "Meursault",
+    "tier": "HE",
+    "releaseDate": "2023-06-01",
+    "isDefault": false,
+    "affinity": "wrath",
+    "type": "blunt",
+    "cost": {
+      "wrath": 2,
+      "lust": 1,
+      "sloth": 2,
+      "gluttony": 0,
+      "gloom": 0,
+      "pride": 0,
+      "envy": 0
+    },
+    "statusTags": [
+      "burn",
+      "tremor"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Capote_Meursault.png/130px-Capote_Meursault.png"
+  },
+  {
+    "page": "Yearning-Mircalla_Meursault",
+    "name": "Yearning-Mircalla Meursault",
+    "sinner": "Meursault",
+    "tier": "WAW",
+    "releaseDate": "2024-10-24",
+    "isDefault": false,
+    "affinity": "lust",
+    "type": "pierce",
+    "cost": {
+      "wrath": 0,
+      "lust": 4,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 0,
+      "pride": 3,
+      "envy": 4
+    },
+    "statusTags": [
+      "bleed"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Yearning-Mircalla_Meursault.png/130px-Yearning-Mircalla_Meursault.png"
+  },
+  {
+    "page": "Crushbound_Past_Meursault",
+    "name": "Crushbound Past Meursault",
+    "sinner": "Meursault",
+    "tier": "WAW",
+    "releaseDate": "2025-07-31",
+    "isDefault": false,
+    "affinity": "sloth",
+    "type": "blunt",
+    "cost": {
+      "wrath": 2,
+      "lust": 2,
+      "sloth": 6,
+      "gluttony": 0,
+      "gloom": 0,
+      "pride": 0,
+      "envy": 1
+    },
+    "statusTags": [
+      "tremor"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Crushbound_Past_Meursault.png/130px-Crushbound_Past_Meursault.png"
+  },
+  {
+    "page": "Land_of_Illusion_Hong_Lu",
+    "name": "Land of Illusion Hong Lu",
+    "sinner": "Hong Lu",
+    "tier": "ZAYIN",
+    "releaseDate": null,
+    "isDefault": true,
+    "affinity": "gloom",
+    "type": "blunt",
+    "cost": {
+      "wrath": 0,
+      "lust": 1,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 5,
+      "pride": 0,
+      "envy": 0
+    },
+    "statusTags": [
+      "sinking"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Land_of_Illusion_Hong_Lu.png/130px-Land_of_Illusion_Hong_Lu.png"
+  },
+  {
+    "page": "Roseate_Desire_Hong_Lu",
+    "name": "Roseate Desire Hong Lu",
+    "sinner": "Hong Lu",
+    "tier": "TETH",
+    "releaseDate": "2023-02-27",
+    "isDefault": false,
+    "affinity": "lust",
+    "type": "pierce",
+    "cost": {
+      "wrath": 0,
+      "lust": 4,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 0,
+      "pride": 0,
+      "envy": 2
+    },
+    "statusTags": [],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Roseate_Desire_Hong_Lu.png/130px-Roseate_Desire_Hong_Lu.png"
+  },
+  {
+    "page": "Soda_Hong_Lu",
+    "name": "Soda Hong Lu",
+    "sinner": "Hong Lu",
+    "tier": "TETH",
+    "releaseDate": "2023-07-27",
+    "isDefault": false,
+    "affinity": "envy",
+    "type": "blunt",
+    "cost": {
+      "wrath": 0,
+      "lust": 0,
+      "sloth": 0,
+      "gluttony": 3,
+      "gloom": 2,
+      "pride": 0,
+      "envy": 2
+    },
+    "statusTags": [
+      "tremor"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Soda_Hong_Lu.png/130px-Soda_Hong_Lu.png"
+  },
+  {
+    "page": "Cavernous_Wailing_Hong_Lu",
+    "name": "Cavernous Wailing Hong Lu",
+    "sinner": "Hong Lu",
+    "tier": "TETH",
+    "releaseDate": "2024-05-30",
+    "isDefault": false,
+    "affinity": "sloth",
+    "type": "blunt",
+    "cost": {
+      "wrath": 0,
+      "lust": 0,
+      "sloth": 3,
+      "gluttony": 0,
+      "gloom": 3,
+      "pride": 2,
+      "envy": 0
+    },
+    "statusTags": [
+      "tremor"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Cavernous_Wailing_Hong_Lu.png/130px-Cavernous_Wailing_Hong_Lu.png"
+  },
+  {
+    "page": "Lasso_Hong_Lu",
+    "name": "Lasso Hong Lu",
+    "sinner": "Hong Lu",
+    "tier": "TETH",
+    "releaseDate": "2024-10-17",
+    "isDefault": false,
+    "affinity": "gluttony",
+    "type": "blunt",
+    "cost": {
+      "wrath": 0,
+      "lust": 1,
+      "sloth": 0,
+      "gluttony": 4,
+      "gloom": 0,
+      "pride": 1,
+      "envy": 0
+    },
+    "statusTags": [
+      "rupture",
+      "bleed"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Lasso_Hong_Lu.png/130px-Lasso_Hong_Lu.png"
+  },
+  {
+    "page": "Dimension_Shredder_Hong_Lu",
+    "name": "Dimension Shredder Hong Lu",
+    "sinner": "Hong Lu",
+    "tier": "HE",
+    "releaseDate": "2023-05-18",
+    "isDefault": false,
+    "affinity": "pride",
+    "type": "slash",
+    "cost": {
+      "wrath": 0,
+      "lust": 0,
+      "sloth": 0,
+      "gluttony": 3,
+      "gloom": 0,
+      "pride": 3,
+      "envy": 0
+    },
+    "statusTags": [
+      "charge"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Dimension_Shredder_Hong_Lu.png/130px-Dimension_Shredder_Hong_Lu.png"
+  },
+  {
+    "page": "Effervescent_Corrosion_Hong_Lu",
+    "name": "Effervescent Corrosion Hong Lu",
+    "sinner": "Hong Lu",
+    "tier": "HE",
+    "releaseDate": "2023-11-23",
+    "isDefault": false,
+    "affinity": "gluttony",
+    "type": "pierce",
+    "cost": {
+      "wrath": 0,
+      "lust": 0,
+      "sloth": 0,
+      "gluttony": 6,
+      "gloom": 1,
+      "pride": 0,
+      "envy": 0
+    },
+    "statusTags": [
+      "rupture"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Effervescent_Corrosion_Hong_Lu.png/130px-Effervescent_Corrosion_Hong_Lu.png"
+  },
+  {
+    "page": "To_Remain_Oneself_宁作吾_Hong_Lu",
+    "name": "To Remain Oneself 宁作吾 Hong Lu",
+    "sinner": "Hong Lu",
+    "tier": "HE",
+    "releaseDate": "2025-09-25",
+    "isDefault": false,
+    "affinity": "pride",
+    "type": "slash",
+    "cost": {
+      "wrath": 0,
+      "lust": 0,
+      "sloth": 1,
+      "gluttony": 0,
+      "gloom": 2,
+      "pride": 4,
+      "envy": 0
+    },
+    "statusTags": [
+      "poise",
+      "sinking"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/To_Remain_Oneself_%E5%AE%81%E4%BD%9C%E5%90%BE_Hong_Lu.png/130px-To_Remain_Oneself_%E5%AE%81%E4%BD%9C%E5%90%BE_Hong_Lu.png"
+  },
+  {
+    "page": "Tears_of_the_Tarnished_Blood_汚血泣淚_Hong_Lu",
+    "name": "Tears of the Tarnished Blood 汚血泣淚 Hong Lu",
+    "sinner": "Hong Lu",
+    "tier": "WAW",
+    "releaseDate": "2025-05-29",
+    "isDefault": false,
+    "affinity": "gluttony",
+    "type": "pierce",
+    "cost": {
+      "wrath": 0,
+      "lust": 0,
+      "sloth": 0,
+      "gluttony": 5,
+      "gloom": 1,
+      "pride": 0,
+      "envy": 1
+    },
+    "statusTags": [
+      "rupture"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Tears_of_the_Tarnished_Blood_%E6%B1%9A%E8%A1%80%E6%B3%A3%E6%B7%9A_Hong_Lu.png/130px-Tears_of_the_Tarnished_Blood_%E6%B1%9A%E8%A1%80%E6%B3%A3%E6%B7%9A_Hong_Lu.png"
+  },
+  {
+    "page": "Bodysack_Heathcliff",
+    "name": "Bodysack Heathcliff",
+    "sinner": "Heathcliff",
+    "tier": "ZAYIN",
+    "releaseDate": null,
+    "isDefault": true,
+    "affinity": "envy",
+    "type": "blunt",
+    "cost": {
+      "wrath": 0,
+      "lust": 2,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 0,
+      "pride": 0,
+      "envy": 2
+    },
+    "statusTags": [],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Bodysack_Heathcliff.png/130px-Bodysack_Heathcliff.png"
+  },
+  {
+    "page": "Holiday_Heathcliff",
+    "name": "Holiday Heathcliff",
+    "sinner": "Heathcliff",
+    "tier": "ZAYIN",
+    "releaseDate": "2023-12-28",
+    "isDefault": false,
+    "affinity": "gluttony",
+    "type": "blunt",
+    "cost": {
+      "wrath": 0,
+      "lust": 0,
+      "sloth": 0,
+      "gluttony": 3,
+      "gloom": 0,
+      "pride": 0,
+      "envy": 2
+    },
+    "statusTags": [
+      "burn",
+      "bleed",
+      "tremor",
+      "rupture",
+      "sinking",
+      "poise",
+      "charge"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Holiday_Heathcliff.png/130px-Holiday_Heathcliff.png"
+  },
+  {
+    "page": "AEDD_Heathcliff",
+    "name": "AEDD Heathcliff",
+    "sinner": "Heathcliff",
+    "tier": "TETH",
+    "releaseDate": "2023-06-08",
+    "isDefault": false,
+    "affinity": "gloom",
+    "type": "blunt",
+    "cost": {
+      "wrath": 0,
+      "lust": 0,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 3,
+      "pride": 0,
+      "envy": 2
+    },
+    "statusTags": [
+      "charge"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/AEDD_Heathcliff.png/130px-AEDD_Heathcliff.png"
+  },
+  {
+    "page": "Fell_Bullet_Heathcliff",
+    "name": "Fell Bullet Heathcliff",
+    "sinner": "Heathcliff",
+    "tier": "TETH",
+    "releaseDate": "2024-07-25",
+    "isDefault": false,
+    "affinity": "pride",
+    "type": "pierce",
+    "cost": {
+      "wrath": 1,
+      "lust": 0,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 0,
+      "pride": 3,
+      "envy": 2
+    },
+    "statusTags": [
+      "poise",
+      "bleed",
+      "sinking"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Fell_Bullet_Heathcliff.png/130px-Fell_Bullet_Heathcliff.png"
+  },
+  {
+    "page": "Move-in_Reg._Heathcliff",
+    "name": "Move-in Reg. Heathcliff",
+    "sinner": "Heathcliff",
+    "tier": "TETH",
+    "releaseDate": "2026-01-08",
+    "isDefault": false,
+    "affinity": "envy",
+    "type": "blunt",
+    "cost": {
+      "wrath": 2,
+      "lust": 0,
+      "sloth": 0,
+      "gluttony": 1,
+      "gloom": 0,
+      "pride": 0,
+      "envy": 3
+    },
+    "statusTags": [
+      "burn",
+      "charge"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Move-in_Reg._Heathcliff.png/130px-Move-in_Reg._Heathcliff.png"
+  },
+  {
+    "page": "Telepole_Heathcliff",
+    "name": "Telepole Heathcliff",
+    "sinner": "Heathcliff",
+    "tier": "HE",
+    "releaseDate": "2023-02-27",
+    "isDefault": false,
+    "affinity": "envy",
+    "type": "pierce",
+    "cost": {
+      "wrath": 3,
+      "lust": 2,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 0,
+      "pride": 0,
+      "envy": 3
+    },
+    "statusTags": [
+      "charge"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Telepole_Heathcliff.png/130px-Telepole_Heathcliff.png"
+  },
+  {
+    "page": "Ya_Śūnyatā_Tad_Rūpam_Heathcliff",
+    "name": "Ya Śūnyatā Tad Rūpam Heathcliff",
+    "sinner": "Heathcliff",
+    "tier": "HE",
+    "releaseDate": "2023-10-12",
+    "isDefault": false,
+    "affinity": "lust",
+    "type": "blunt",
+    "cost": {
+      "wrath": 2,
+      "lust": 2,
+      "sloth": 2,
+      "gluttony": 0,
+      "gloom": 2,
+      "pride": 0,
+      "envy": 0
+    },
+    "statusTags": [],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Ya_%C5%9A%C5%ABnyat%C4%81_Tad_R%C5%ABpam_Heathcliff.png/130px-Ya_%C5%9A%C5%ABnyat%C4%81_Tad_R%C5%ABpam_Heathcliff.png"
+  },
+  {
+    "page": "Asymmetrical_Inertia_Heathcliff",
+    "name": "Asymmetrical Inertia Heathcliff",
+    "sinner": "Heathcliff",
+    "tier": "HE",
+    "releaseDate": "2024-11-28",
+    "isDefault": false,
+    "affinity": "sloth",
+    "type": "blunt",
+    "cost": {
+      "wrath": 0,
+      "lust": 0,
+      "sloth": 2,
+      "gluttony": 0,
+      "gloom": 1,
+      "pride": 2,
+      "envy": 2
+    },
+    "statusTags": [
+      "tremor"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Asymmetrical_Inertia_Heathcliff.png/130px-Asymmetrical_Inertia_Heathcliff.png"
+  },
+  {
+    "page": "Binds_Heathcliff",
+    "name": "Binds Heathcliff",
+    "sinner": "Heathcliff",
+    "tier": "WAW",
+    "releaseDate": "2024-04-11",
+    "isDefault": false,
+    "affinity": "gloom",
+    "type": "blunt",
+    "cost": {
+      "wrath": 0,
+      "lust": 2,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 4,
+      "pride": 2,
+      "envy": 3
+    },
+    "statusTags": [
+      "sinking",
+      "tremor"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Binds_Heathcliff.png/130px-Binds_Heathcliff.png"
+  },
+  {
+    "page": "Snagharpoon_Ishmael",
+    "name": "Snagharpoon Ishmael",
+    "sinner": "Ishmael",
+    "tier": "ZAYIN",
+    "releaseDate": null,
+    "isDefault": true,
+    "affinity": "gloom",
+    "type": "blunt",
+    "cost": {
+      "wrath": 2,
+      "lust": 0,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 2,
+      "pride": 0,
+      "envy": 0
+    },
+    "statusTags": [
+      "tremor"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Snagharpoon_Ishmael.png/130px-Snagharpoon_Ishmael.png"
+  },
+  {
+    "page": "Hundred-Footed_Death_Maggot_蝍蛆殺_Ishmael",
+    "name": "Hundred-Footed Death Maggot 蝍蛆殺 Ishmael",
+    "sinner": "Ishmael",
+    "tier": "ZAYIN",
+    "releaseDate": "2025-05-22",
+    "isDefault": false,
+    "affinity": "gloom",
+    "type": "blunt",
+    "cost": {
+      "wrath": 0,
+      "lust": 0,
+      "sloth": 2,
+      "gluttony": 0,
+      "gloom": 0,
+      "pride": 2,
+      "envy": 0
+    },
+    "statusTags": [
+      "sinking",
+      "rupture"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Hundred-Footed_Death_Maggot_%E8%9D%8D%E8%9B%86%E6%AE%BA_Ishmael.png/130px-Hundred-Footed_Death_Maggot_%E8%9D%8D%E8%9B%86%E6%AE%BA_Ishmael.png"
+  },
+  {
+    "page": "Roseate_Desire_Ishmael",
+    "name": "Roseate Desire Ishmael",
+    "sinner": "Ishmael",
+    "tier": "TETH",
+    "releaseDate": "2023-02-27",
+    "isDefault": false,
+    "affinity": "lust",
+    "type": "pierce",
+    "cost": {
+      "wrath": 1,
+      "lust": 4,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 0,
+      "pride": 0,
+      "envy": 0
+    },
+    "statusTags": [],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Roseate_Desire_Ishmael.png/130px-Roseate_Desire_Ishmael.png"
+  },
+  {
+    "page": "Capote_Ishmael",
+    "name": "Capote Ishmael",
+    "sinner": "Ishmael",
+    "tier": "TETH",
+    "releaseDate": "2023-06-01",
+    "isDefault": false,
+    "affinity": "wrath",
+    "type": "blunt",
+    "cost": {
+      "wrath": 2,
+      "lust": 2,
+      "sloth": 1,
+      "gluttony": 0,
+      "gloom": 0,
+      "pride": 0,
+      "envy": 0
+    },
+    "statusTags": [
+      "burn"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Capote_Ishmael.png/130px-Capote_Ishmael.png"
+  },
+  {
+    "page": "Bygone_Days_Ishmael",
+    "name": "Bygone Days Ishmael",
+    "sinner": "Ishmael",
+    "tier": "TETH",
+    "releaseDate": "2024-09-19",
+    "isDefault": false,
+    "affinity": "gloom",
+    "type": "slash",
+    "cost": {
+      "wrath": 0,
+      "lust": 2,
+      "sloth": 1,
+      "gluttony": 0,
+      "gloom": 3,
+      "pride": 0,
+      "envy": 0
+    },
+    "statusTags": [
+      "sinking"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Bygone_Days_Ishmael.png/130px-Bygone_Days_Ishmael.png"
+  },
+  {
+    "page": "Ardor_Blossom_Star_Ishmael",
+    "name": "Ardor Blossom Star Ishmael",
+    "sinner": "Ishmael",
+    "tier": "HE",
+    "releaseDate": "2023-02-27",
+    "isDefault": false,
+    "affinity": "wrath",
+    "type": "pierce",
+    "cost": {
+      "wrath": 4,
+      "lust": 2,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 0,
+      "pride": 0,
+      "envy": 1
+    },
+    "statusTags": [
+      "burn"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Ardor_Blossom_Star_Ishmael.png/130px-Ardor_Blossom_Star_Ishmael.png"
+  },
+  {
+    "page": "Wingbeat_Ishmael",
+    "name": "Wingbeat Ishmael",
+    "sinner": "Ishmael",
+    "tier": "HE",
+    "releaseDate": "2024-05-02",
+    "isDefault": false,
+    "affinity": "gluttony",
+    "type": "slash",
+    "cost": {
+      "wrath": 0,
+      "lust": 1,
+      "sloth": 0,
+      "gluttony": 3,
+      "gloom": 0,
+      "pride": 2,
+      "envy": 0
+    },
+    "statusTags": [
+      "bleed"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Wingbeat_Ishmael.png/130px-Wingbeat_Ishmael.png"
+  },
+  {
+    "page": "Christmas_Nightmare_Ishmael",
+    "name": "Christmas Nightmare Ishmael",
+    "sinner": "Ishmael",
+    "tier": "HE",
+    "releaseDate": "2024-12-26",
+    "isDefault": false,
+    "affinity": "sloth",
+    "type": "blunt",
+    "cost": {
+      "wrath": 0,
+      "lust": 0,
+      "sloth": 4,
+      "gluttony": 1,
+      "gloom": 0,
+      "pride": 2,
+      "envy": 0
+    },
+    "statusTags": [
+      "tremor",
+      "sinking"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Christmas_Nightmare_Ishmael.png/130px-Christmas_Nightmare_Ishmael.png"
+  },
+  {
+    "page": "Tidal_Elegy_Ishmael",
+    "name": "Tidal Elegy Ishmael",
+    "sinner": "Ishmael",
+    "tier": "HE",
+    "releaseDate": "2025-09-25",
+    "isDefault": false,
+    "affinity": "gloom",
+    "type": "blunt",
+    "cost": {
+      "wrath": 0,
+      "lust": 0,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 4,
+      "pride": 2,
+      "envy": 0
+    },
+    "statusTags": [
+      "sinking",
+      "tremor"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Tidal_Elegy_Ishmael.png/130px-Tidal_Elegy_Ishmael.png"
+  },
+  {
+    "page": "Blind_Obsession_Ishmael",
+    "name": "Blind Obsession Ishmael",
+    "sinner": "Ishmael",
+    "tier": "WAW",
+    "releaseDate": "2023-11-30",
+    "isDefault": false,
+    "affinity": "pride",
+    "type": "pierce",
+    "cost": {
+      "wrath": 2,
+      "lust": 0,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 3,
+      "pride": 3,
+      "envy": 3
+    },
+    "statusTags": [
+      "poise",
+      "charge",
+      "sinking"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Blind_Obsession_Ishmael.png/130px-Blind_Obsession_Ishmael.png"
+  },
+  {
+    "page": "What_is_Cast_Rodion",
+    "name": "What is Cast Rodion",
+    "sinner": "Rodion",
+    "tier": "ZAYIN",
+    "releaseDate": null,
+    "isDefault": true,
+    "affinity": "pride",
+    "type": "slash",
+    "cost": {
+      "wrath": 0,
+      "lust": 0,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 1,
+      "pride": 3,
+      "envy": 0
+    },
+    "statusTags": [
+      "bleed"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/What_is_Cast_Rodion.png/130px-What_is_Cast_Rodion.png"
+  },
+  {
+    "page": "Rime_Shank_Rodion",
+    "name": "Rime Shank Rodion",
+    "sinner": "Rodion",
+    "tier": "TETH",
+    "releaseDate": "2023-02-27",
+    "isDefault": false,
+    "affinity": "gloom",
+    "type": "blunt",
+    "cost": {
+      "wrath": 0,
+      "lust": 0,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 5,
+      "pride": 0,
+      "envy": 3
+    },
+    "statusTags": [
+      "sinking"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Rime_Shank_Rodion.png/130px-Rime_Shank_Rodion.png"
+  },
+  {
+    "page": "Effervescent_Corrosion_Rodion",
+    "name": "Effervescent Corrosion Rodion",
+    "sinner": "Rodion",
+    "tier": "TETH",
+    "releaseDate": "2023-11-30",
+    "isDefault": false,
+    "affinity": "gluttony",
+    "type": "blunt",
+    "cost": {
+      "wrath": 0,
+      "lust": 0,
+      "sloth": 2,
+      "gluttony": 0,
+      "gloom": 2,
+      "pride": 2,
+      "envy": 0
+    },
+    "statusTags": [
+      "tremor"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Effervescent_Corrosion_Rodion.png/130px-Effervescent_Corrosion_Rodion.png"
+  },
+  {
+    "page": "4th_Match_Flame_Rodion",
+    "name": "4th Match Flame Rodion",
+    "sinner": "Rodion",
+    "tier": "HE",
+    "releaseDate": "2023-02-27",
+    "isDefault": false,
+    "affinity": "wrath",
+    "type": "slash",
+    "cost": {
+      "wrath": 3,
+      "lust": 0,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 0,
+      "pride": 2,
+      "envy": 1
+    },
+    "statusTags": [
+      "burn"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/4th_Match_Flame_Rodion.png/130px-4th_Match_Flame_Rodion.png"
+  },
+  {
+    "page": "Pursuance_Rodion",
+    "name": "Pursuance Rodion",
+    "sinner": "Rodion",
+    "tier": "HE",
+    "releaseDate": "2023-12-14",
+    "isDefault": false,
+    "affinity": "sloth",
+    "type": "slash",
+    "cost": {
+      "wrath": 0,
+      "lust": 0,
+      "sloth": 4,
+      "gluttony": 0,
+      "gloom": 0,
+      "pride": 3,
+      "envy": 0
+    },
+    "statusTags": [],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Pursuance_Rodion.png/130px-Pursuance_Rodion.png"
+  },
+  {
+    "page": "Hex_Nail_Rodion",
+    "name": "Hex Nail Rodion",
+    "sinner": "Rodion",
+    "tier": "HE",
+    "releaseDate": "2024-10-24",
+    "isDefault": false,
+    "affinity": "envy",
+    "type": "slash",
+    "cost": {
+      "wrath": 0,
+      "lust": 2,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 0,
+      "pride": 1,
+      "envy": 4
+    },
+    "statusTags": [
+      "bleed"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Hex_Nail_Rodion.png/130px-Hex_Nail_Rodion.png"
+  },
+  {
+    "page": "Sanguine_Desire_Rodion",
+    "name": "Sanguine Desire Rodion",
+    "sinner": "Rodion",
+    "tier": "WAW",
+    "releaseDate": "2024-05-02",
+    "isDefault": false,
+    "affinity": "lust",
+    "type": "slash",
+    "cost": {
+      "wrath": 1,
+      "lust": 3,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 0,
+      "pride": 3,
+      "envy": 3
+    },
+    "statusTags": [
+      "bleed"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Sanguine_Desire_Rodion.png/130px-Sanguine_Desire_Rodion.png"
+  },
+  {
+    "page": "Indicant's_Trial_Rodion",
+    "name": "Indicant's Trial Rodion",
+    "sinner": "Rodion",
+    "tier": "WAW",
+    "releaseDate": "2025-04-17",
+    "isDefault": false,
+    "affinity": "wrath",
+    "type": "pierce",
+    "cost": {
+      "wrath": 7,
+      "lust": 0,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 0,
+      "pride": 3,
+      "envy": 0
+    },
+    "statusTags": [
+      "burn"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Indicant's_Trial_Rodion.png/130px-Indicant's_Trial_Rodion.png"
+  },
+  {
+    "page": "Branch_of_Knowledge_Sinclair",
+    "name": "Branch of Knowledge Sinclair",
+    "sinner": "Sinclair",
+    "tier": "ZAYIN",
+    "releaseDate": null,
+    "isDefault": true,
+    "affinity": "gluttony",
+    "type": "slash",
+    "cost": {
+      "wrath": 1,
+      "lust": 0,
+      "sloth": 0,
+      "gluttony": 3,
+      "gloom": 0,
+      "pride": 0,
+      "envy": 0
+    },
+    "statusTags": [
+      "rupture"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Branch_of_Knowledge_Sinclair.png/130px-Branch_of_Knowledge_Sinclair.png"
+  },
+  {
+    "page": "Cavernous_Wailing_Sinclair",
+    "name": "Cavernous Wailing Sinclair",
+    "sinner": "Sinclair",
+    "tier": "ZAYIN",
+    "releaseDate": "2024-05-30",
+    "isDefault": false,
+    "affinity": "gloom",
+    "type": "blunt",
+    "cost": {
+      "wrath": 0,
+      "lust": 1,
+      "sloth": 2,
+      "gluttony": 0,
+      "gloom": 3,
+      "pride": 0,
+      "envy": 0
+    },
+    "statusTags": [
+      "sinking"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Cavernous_Wailing_Sinclair.png/130px-Cavernous_Wailing_Sinclair.png"
+  },
+  {
+    "page": "Impending_Day_Sinclair",
+    "name": "Impending Day Sinclair",
+    "sinner": "Sinclair",
+    "tier": "TETH",
+    "releaseDate": "2023-02-27",
+    "isDefault": false,
+    "affinity": "wrath",
+    "type": "blunt",
+    "cost": {
+      "wrath": 3,
+      "lust": 2,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 0,
+      "pride": 0,
+      "envy": 0
+    },
+    "statusTags": [
+      "bleed"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Impending_Day_Sinclair.png/130px-Impending_Day_Sinclair.png"
+  },
+  {
+    "page": "Lifetime_Stew_Sinclair",
+    "name": "Lifetime Stew Sinclair",
+    "sinner": "Sinclair",
+    "tier": "TETH",
+    "releaseDate": "2023-04-20",
+    "isDefault": false,
+    "affinity": "lust",
+    "type": "blunt",
+    "cost": {
+      "wrath": 3,
+      "lust": 2,
+      "sloth": 0,
+      "gluttony": 1,
+      "gloom": 0,
+      "pride": 0,
+      "envy": 0
+    },
+    "statusTags": [
+      "burn"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Lifetime_Stew_Sinclair.png/130px-Lifetime_Stew_Sinclair.png"
+  },
+  {
+    "page": "Hex_Nail_Sinclair",
+    "name": "Hex Nail Sinclair",
+    "sinner": "Sinclair",
+    "tier": "TETH",
+    "releaseDate": "2024-10-24",
+    "isDefault": false,
+    "affinity": "envy",
+    "type": "pierce",
+    "cost": {
+      "wrath": 0,
+      "lust": 2,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 0,
+      "pride": 2,
+      "envy": 2
+    },
+    "statusTags": [
+      "bleed"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Hex_Nail_Sinclair.png/130px-Hex_Nail_Sinclair.png"
+  },
+  {
+    "page": "Lantern_Sinclair",
+    "name": "Lantern Sinclair",
+    "sinner": "Sinclair",
+    "tier": "HE",
+    "releaseDate": "2023-10-05",
+    "isDefault": false,
+    "affinity": "gluttony",
+    "type": "slash",
+    "cost": {
+      "wrath": 0,
+      "lust": 1,
+      "sloth": 0,
+      "gluttony": 4,
+      "gloom": 0,
+      "pride": 2,
+      "envy": 0
+    },
+    "statusTags": [
+      "rupture"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Lantern_Sinclair.png/130px-Lantern_Sinclair.png"
+  },
+  {
+    "page": "9:2_Sinclair",
+    "name": "9:2 Sinclair",
+    "sinner": "Sinclair",
+    "tier": "HE",
+    "releaseDate": "2023-11-30",
+    "isDefault": false,
+    "affinity": "lust",
+    "type": "blunt",
+    "cost": {
+      "wrath": 2,
+      "lust": 5,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 0,
+      "pride": 0,
+      "envy": 1
+    },
+    "statusTags": [
+      "burn"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/9-2_Sinclair.png/130px-9-2_Sinclair.png"
+  },
+  {
+    "page": "Tears_of_the_Tarnished_Blood_汚血泣淚_Sinclair",
+    "name": "Tears of the Tarnished Blood 汚血泣淚 Sinclair",
+    "sinner": "Sinclair",
+    "tier": "WAW",
+    "releaseDate": "2025-05-29",
+    "isDefault": false,
+    "affinity": "gluttony",
+    "type": "pierce",
+    "cost": {
+      "wrath": 0,
+      "lust": 2,
+      "sloth": 0,
+      "gluttony": 6,
+      "gloom": 0,
+      "pride": 2,
+      "envy": 0
+    },
+    "statusTags": [
+      "rupture"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Tears_of_the_Tarnished_Blood_%E6%B1%9A%E8%A1%80%E6%B3%A3%E6%B7%9A_Sinclair.png/130px-Tears_of_the_Tarnished_Blood_%E6%B1%9A%E8%A1%80%E6%B3%A3%E6%B7%9A_Sinclair.png"
+  },
+  {
+    "page": "To_Páthos_Máthos_Outis",
+    "name": "To Páthos Máthos Outis",
+    "sinner": "Outis",
+    "tier": "ZAYIN",
+    "releaseDate": null,
+    "isDefault": true,
+    "affinity": "pride",
+    "type": "pierce",
+    "cost": {
+      "wrath": 0,
+      "lust": 0,
+      "sloth": 2,
+      "gluttony": 0,
+      "gloom": 0,
+      "pride": 2,
+      "envy": 0
+    },
+    "statusTags": [
+      "rupture"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/To_P%C3%A1thos_M%C3%A1thos_Outis.png/130px-To_P%C3%A1thos_M%C3%A1thos_Outis.png"
+  },
+  {
+    "page": "I'll_Go_fer_Scissors._How_'Bout_You?_Outis",
+    "name": "I'll Go fer Scissors. How 'Bout You? Outis",
+    "sinner": "Outis",
+    "tier": "ZAYIN",
+    "releaseDate": "2026-01-08",
+    "isDefault": false,
+    "affinity": "envy",
+    "type": "slash",
+    "cost": {
+      "wrath": 0,
+      "lust": 1,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 0,
+      "pride": 0,
+      "envy": 3
+    },
+    "statusTags": [],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/I'll_Go_fer_Scissors._How_'Bout_You%3F_Outis.png/130px-I'll_Go_fer_Scissors._How_'Bout_You%3F_Outis.png"
+  },
+  {
+    "page": "Ya_Śūnyatā_Tad_Rūpam_Outis",
+    "name": "Ya Śūnyatā Tad Rūpam Outis",
+    "sinner": "Outis",
+    "tier": "TETH",
+    "releaseDate": "2023-02-27",
+    "isDefault": false,
+    "affinity": "lust",
+    "type": "slash",
+    "cost": {
+      "wrath": 0,
+      "lust": 2,
+      "sloth": 2,
+      "gluttony": 0,
+      "gloom": 0,
+      "pride": 2,
+      "envy": 0
+    },
+    "statusTags": [],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Ya_%C5%9A%C5%ABnyat%C4%81_Tad_R%C5%ABpam_Outis.png/130px-Ya_%C5%9A%C5%ABnyat%C4%81_Tad_R%C5%ABpam_Outis.png"
+  },
+  {
+    "page": "Sunshower_Outis",
+    "name": "Sunshower Outis",
+    "sinner": "Outis",
+    "tier": "TETH",
+    "releaseDate": "2023-06-08",
+    "isDefault": false,
+    "affinity": "gluttony",
+    "type": "pierce",
+    "cost": {
+      "wrath": 0,
+      "lust": 0,
+      "sloth": 2,
+      "gluttony": 2,
+      "gloom": 1,
+      "pride": 0,
+      "envy": 0
+    },
+    "statusTags": [
+      "sinking",
+      "poise"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Sunshower_Outis.png/130px-Sunshower_Outis.png"
+  },
+  {
+    "page": "Ebony_Stem_Outis",
+    "name": "Ebony Stem Outis",
+    "sinner": "Outis",
+    "tier": "HE",
+    "releaseDate": "2023-02-27",
+    "isDefault": false,
+    "affinity": "gluttony",
+    "type": "pierce",
+    "cost": {
+      "wrath": 0,
+      "lust": 2,
+      "sloth": 0,
+      "gluttony": 3,
+      "gloom": 1,
+      "pride": 4,
+      "envy": 0
+    },
+    "statusTags": [
+      "rupture",
+      "bleed"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Ebony_Stem_Outis.png/130px-Ebony_Stem_Outis.png"
+  },
+  {
+    "page": "Holiday_Outis",
+    "name": "Holiday Outis",
+    "sinner": "Outis",
+    "tier": "HE",
+    "releaseDate": "2023-12-28",
+    "isDefault": false,
+    "affinity": "wrath",
+    "type": "blunt",
+    "cost": {
+      "wrath": 0,
+      "lust": 2,
+      "sloth": 1,
+      "gluttony": 0,
+      "gloom": 0,
+      "pride": 3,
+      "envy": 2
+    },
+    "statusTags": [
+      "burn",
+      "bleed",
+      "tremor",
+      "rupture",
+      "sinking"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Holiday_Outis.png/130px-Holiday_Outis.png"
+  },
+  {
+    "page": "Dimension_Shredder_Outis",
+    "name": "Dimension Shredder Outis",
+    "sinner": "Outis",
+    "tier": "HE",
+    "releaseDate": "2024-08-08",
+    "isDefault": false,
+    "affinity": "envy",
+    "type": "slash",
+    "cost": {
+      "wrath": 1,
+      "lust": 0,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 3,
+      "pride": 1,
+      "envy": 4
+    },
+    "statusTags": [
+      "charge"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Dimension_Shredder_Outis.png/130px-Dimension_Shredder_Outis.png"
+  },
+  {
+    "page": "Magic_Bullet_Outis",
+    "name": "Magic Bullet Outis",
+    "sinner": "Outis",
+    "tier": "HE",
+    "releaseDate": "2025-01-09",
+    "isDefault": false,
+    "affinity": "pride",
+    "type": "pierce",
+    "cost": {
+      "wrath": 2,
+      "lust": 2,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 0,
+      "pride": 4,
+      "envy": 0
+    },
+    "statusTags": [
+      "burn"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Magic_Bullet_Outis.png/130px-Magic_Bullet_Outis.png"
+  },
+  {
+    "page": "Binds_Outis",
+    "name": "Binds Outis",
+    "sinner": "Outis",
+    "tier": "WAW",
+    "releaseDate": "2024-04-11",
+    "isDefault": false,
+    "affinity": "pride",
+    "type": "blunt",
+    "cost": {
+      "wrath": 1,
+      "lust": 1,
+      "sloth": 4,
+      "gluttony": 0,
+      "gloom": 0,
+      "pride": 4,
+      "envy": 0
+    },
+    "statusTags": [
+      "tremor"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Binds_Outis.png/130px-Binds_Outis.png"
+  },
+  {
+    "page": "Suddenly,_One_Day_Gregor",
+    "name": "Suddenly, One Day Gregor",
+    "sinner": "Gregor",
+    "tier": "ZAYIN",
+    "releaseDate": null,
+    "isDefault": true,
+    "affinity": "sloth",
+    "type": "blunt",
+    "cost": {
+      "wrath": 0,
+      "lust": 3,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 1,
+      "pride": 0,
+      "envy": 0
+    },
+    "statusTags": [
+      "burn",
+      "bleed",
+      "tremor",
+      "rupture",
+      "sinking"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Suddenly%2C_One_Day_Gregor.png/130px-Suddenly%2C_One_Day_Gregor.png"
+  },
+  {
+    "page": "Legerdemain_Gregor",
+    "name": "Legerdemain Gregor",
+    "sinner": "Gregor",
+    "tier": "ZAYIN",
+    "releaseDate": "2023-02-27",
+    "isDefault": false,
+    "affinity": "gluttony",
+    "type": "blunt",
+    "cost": {
+      "wrath": 0,
+      "lust": 0,
+      "sloth": 1,
+      "gluttony": 3,
+      "gloom": 0,
+      "pride": 0,
+      "envy": 0
+    },
+    "statusTags": [
+      "bleed",
+      "tremor"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Legerdemain_Gregor.png/130px-Legerdemain_Gregor.png"
+  },
+  {
+    "page": "Lantern_Gregor",
+    "name": "Lantern Gregor",
+    "sinner": "Gregor",
+    "tier": "TETH",
+    "releaseDate": "2023-02-27",
+    "isDefault": false,
+    "affinity": "gluttony",
+    "type": "pierce",
+    "cost": {
+      "wrath": 0,
+      "lust": 0,
+      "sloth": 1,
+      "gluttony": 4,
+      "gloom": 0,
+      "pride": 0,
+      "envy": 0
+    },
+    "statusTags": [
+      "rupture"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Lantern_Gregor.png/130px-Lantern_Gregor.png"
+  },
+  {
+    "page": "Bygone_Days_Gregor",
+    "name": "Bygone Days Gregor",
+    "sinner": "Gregor",
+    "tier": "TETH",
+    "releaseDate": "2024-04-04",
+    "isDefault": false,
+    "affinity": "gloom",
+    "type": "pierce",
+    "cost": {
+      "wrath": 0,
+      "lust": 2,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 4,
+      "pride": 0,
+      "envy": 0
+    },
+    "statusTags": [
+      "sinking"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Bygone_Days_Gregor.png/130px-Bygone_Days_Gregor.png"
+  },
+  {
+    "page": "AEDD_Gregor",
+    "name": "AEDD Gregor",
+    "sinner": "Gregor",
+    "tier": "HE",
+    "releaseDate": "2023-06-15",
+    "isDefault": false,
+    "affinity": "gloom",
+    "type": "blunt",
+    "cost": {
+      "wrath": 0,
+      "lust": 0,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 3,
+      "pride": 0,
+      "envy": 3
+    },
+    "statusTags": [
+      "charge"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/AEDD_Gregor.png/130px-AEDD_Gregor.png"
+  },
+  {
+    "page": "Solemn_Lament_Gregor",
+    "name": "Solemn Lament Gregor",
+    "sinner": "Gregor",
+    "tier": "HE",
+    "releaseDate": "2024-09-05",
+    "isDefault": false,
+    "affinity": "gloom",
+    "type": "blunt",
+    "cost": {
+      "wrath": 0,
+      "lust": 1,
+      "sloth": 2,
+      "gluttony": 0,
+      "gloom": 2,
+      "pride": 0,
+      "envy": 2
+    },
+    "statusTags": [
+      "sinking"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Solemn_Lament_Gregor.png/130px-Solemn_Lament_Gregor.png"
+  },
+  {
+    "page": "Christmas_Nightmare_Gregor",
+    "name": "Christmas Nightmare Gregor",
+    "sinner": "Gregor",
+    "tier": "HE",
+    "releaseDate": "2024-12-26",
+    "isDefault": false,
+    "affinity": "sloth",
+    "type": "slash",
+    "cost": {
+      "wrath": 0,
+      "lust": 0,
+      "sloth": 2,
+      "gluttony": 2,
+      "gloom": 2,
+      "pride": 2,
+      "envy": 0
+    },
+    "statusTags": [
+      "tremor",
+      "sinking"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Christmas_Nightmare_Gregor.png/130px-Christmas_Nightmare_Gregor.png"
+  },
+  {
+    "page": "Garden_of_Thorns_Gregor",
+    "name": "Garden of Thorns Gregor",
+    "sinner": "Gregor",
+    "tier": "WAW",
+    "releaseDate": "2024-03-14",
+    "isDefault": false,
+    "affinity": "lust",
+    "type": "slash",
+    "cost": {
+      "wrath": 2,
+      "lust": 2,
+      "sloth": 2,
+      "gluttony": 2,
+      "gloom": 2,
+      "pride": 2,
+      "envy": 2
+    },
+    "statusTags": [
+      "rupture"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Garden_of_Thorns_Gregor.png/130px-Garden_of_Thorns_Gregor.png"
+  },
+  {
+    "page": "Unbrilliant_Glory_Gregor",
+    "name": "Unbrilliant Glory Gregor",
+    "sinner": "Gregor",
+    "tier": "WAW",
+    "releaseDate": "2025-09-25",
+    "isDefault": false,
+    "affinity": "sloth",
+    "type": "slash",
+    "cost": {
+      "wrath": 2,
+      "lust": 0,
+      "sloth": 3,
+      "gluttony": 0,
+      "gloom": 0,
+      "pride": 2,
+      "envy": 0
+    },
+    "statusTags": [
+      "burn",
+      "tremor"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Unbrilliant_Glory_Gregor.png/130px-Unbrilliant_Glory_Gregor.png"
+  }
+]

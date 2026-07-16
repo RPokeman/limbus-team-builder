@@ -1,0 +1,34 @@
+{
+  "name": "@limbus/core",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "files": [
+    "dist"
+  ],
+  "exports": {
+    "./types": {
+      "types": "./dist/types.d.ts",
+      "default": "./dist/types.js"
+    },
+    "./teamcode": {
+      "types": "./dist/teamcode.d.ts",
+      "default": "./dist/teamcode.js"
+    },
+    "./baseline": {
+      "types": "./dist/baseline.d.ts",
+      "default": "./dist/baseline.js"
+    }
+  },
+  "scripts": {
+    "build": "tsup src/types.ts src/teamcode.ts src/baseline.ts --dts --format esm --outDir dist",
+    "dev": "tsup src/types.ts src/teamcode.ts src/baseline.ts --dts --format esm --outDir dist --watch"
+  },
+  "dependencies": {
+    "pako": "^2.1.0"
+  },
+  "devDependencies": {
+    "@types/pako": "^2.0.4",
+    "tsup": "^8.5.1"
+  }
+}
