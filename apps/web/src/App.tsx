@@ -103,7 +103,7 @@ export default function App(): JSX.Element {
     (async () => {
       try {
         setDatasetError(null);
-        const res = await fetch("/api/dataset");
+        const res = await fetch(`${import.meta.env.BASE_URL}dataset.json`);
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
         const json = (await res.json()) as Dataset;
         if (cancelled) return;

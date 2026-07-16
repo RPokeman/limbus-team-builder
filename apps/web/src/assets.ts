@@ -1,7 +1,15 @@
 // apps/web/src/assets.ts
 import type { EgoTier } from "@limbus/core/types";
 
-export const API_ORIGIN = (import.meta as any).env?.VITE_API_ORIGIN ?? "";
+const configuredApiOrigin = (import.meta as any).env?.VITE_API_ORIGIN?.toString();
+export const API_ORIGIN =
+  configuredApiOrigin && configuredApiOrigin.length > 0
+    ? configuredApiOrigin.replace(/\/+$/, "")
+    : ((import.meta as any).env?.BASE_URL ?? "/").toString().replace(/\/+$/, "");
+
+function assetUrl(path: string) {
+  return `${API_ORIGIN}/${path.replace(/^\/+/, "")}`;
+}
 
 // Filled at runtime from /dataset
 type Portraits = {
@@ -18,17 +26,17 @@ export function setPortraits(p: Portraits | null) {
 export function identityPortraitUrl(identityPage: string) {
   const url = PORTRAITS?.identities?.[identityPage];
   if (url) return url;
-  return `${API_ORIGIN}/images/identities/${encodeURIComponent(identityPage)}.png`;
+  return assetUrl(`images/identities/${encodeURIComponent(identityPage)}.png`);
 }
 
 export function egoIconUrl(egoPage: string) {
   const url = PORTRAITS?.egos?.[egoPage];
   if (url) return url;
-  return `${API_ORIGIN}/images/egos/${encodeURIComponent(egoPage)}.png`;
+  return assetUrl(`images/egos/${encodeURIComponent(egoPage)}.png`);
 }
 
 export function rarityBorderUrl(rarity: number) {
-  return `${API_ORIGIN}/images/types/rarity_border/rarity_${rarity}.png`;
+  return assetUrl(`images/types/rarity_border/rarity_${rarity}.png`);
 }
 
 function titleCase(s: string) {
@@ -36,11 +44,11 @@ function titleCase(s: string) {
 }
 
 export function sinIconUrl(sin: string) {
-  return `${API_ORIGIN}/images/types/sin/${titleCase(sin)}.png`;
+  return assetUrl(`images/types/sin/${titleCase(sin)}.png`);
 }
 
 export function skillBgUrl(sin: string, skillIndex: 1 | 2 | 3) {
-  return `${API_ORIGIN}/images/types/skill_bg/${sin}_${skillIndex}.png`;
+  return assetUrl(`images/types/skill_bg/${sin}_${skillIndex}.png`);
 }
 
 export function physicalIconUrl(attackType: string) {
@@ -54,7 +62,7 @@ export function physicalIconUrl(attackType: string) {
     clashable_guard: "Clashable_Guard.png",
   };
   const file = map[attackType] ?? "Slash.png";
-  return `${API_ORIGIN}/images/types/physical/${file}`;
+  return assetUrl(`images/types/physical/${file}`);
 }
 
 export const EGO_TIER_ORDER: EgoTier[] = ["ZAYIN", "TETH", "HE", "WAW", "ALEPH"];
