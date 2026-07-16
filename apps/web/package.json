@@ -6,7 +6,7 @@
   "scripts": {
     "prepare:static": "node scripts/prepare-static-assets.mjs",
     "dev": "pnpm prepare:static && vite",
-    "build": "pnpm prepare:static && tsc -p tsconfig.json --noEmit && vite build",
+    "build": "pnpm --filter @limbus/core build && pnpm prepare:static && tsc -p tsconfig.json --noEmit && vite build",
     "typecheck": "tsc -p tsconfig.json --noEmit"
   },
   "dependencies": {
