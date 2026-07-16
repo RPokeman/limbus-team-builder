@@ -7,32 +7,11 @@
     "rarity": 1,
     "releaseDate": "2023-02-27",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/LCB_Sinner_Yi_Sang.png/256px-LCB_Sinner_Yi_Sang.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "gloom",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "envy",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "sloth",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "gloom",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "gloom",
-      "sloth",
-      "envy"
+      "envy",
+      "sloth"
     ],
     "statusTags": [
       "sinking"
@@ -46,28 +25,7 @@
     "rarity": 2,
     "releaseDate": "2023-02-27",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Seven_Assoc._South_Section_6_Yi_Sang_Uptied.png/256px-Seven_Assoc._South_Section_6_Yi_Sang_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "gloom",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill2",
-        "sin": "gluttony",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "sloth",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "gluttony",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "gloom",
       "gluttony",
@@ -85,28 +43,7 @@
     "rarity": 2,
     "releaseDate": "2023-09-14",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Molar_Office_Fixer_Yi_Sang_Uptied.png/256px-Molar_Office_Fixer_Yi_Sang_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "lust",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill2",
-        "sin": "sloth",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "wrath",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "sloth",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "lust",
       "sloth",
@@ -124,36 +61,15 @@
     "rarity": 2,
     "releaseDate": "2023-12-07",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/The_Pequod_First_Mate_Yi_Sang_Uptied.png/256px-The_Pequod_First_Mate_Yi_Sang_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "pride",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill2",
-        "sin": "envy",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "gluttony",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "pride",
-        "type": "evade"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "pride",
       "envy",
       "gluttony"
     ],
     "statusTags": [
-      "poise",
-      "bleed"
+      "bleed",
+      "poise"
     ]
   },
   {
@@ -164,28 +80,7 @@
     "rarity": 2,
     "releaseDate": "2024-01-25",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Dieci_Assoc._South_Section_4_Yi_Sang_Uptied.png/256px-Dieci_Assoc._South_Section_4_Yi_Sang_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "gluttony",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill2",
-        "sin": "lust",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "sloth",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "sloth",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "gluttony",
       "lust",
@@ -203,28 +98,7 @@
     "rarity": 2,
     "releaseDate": "2025-01-23",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/LCE_E.G.O_Lantern_Yi_Sang_Uptied.png/256px-LCE_E.G.O_Lantern_Yi_Sang_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "sloth",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "envy",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "gluttony",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "gluttony",
-        "type": "blunt"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "sloth",
       "envy",
@@ -242,28 +116,7 @@
     "rarity": 3,
     "releaseDate": "2023-02-27",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Blade_Lineage_Salsu_Yi_Sang_Uptied.png/256px-Blade_Lineage_Salsu_Yi_Sang_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "pride",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "wrath",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "envy",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "pride",
-        "type": "slash"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "pride",
       "wrath",
@@ -281,28 +134,7 @@
     "rarity": 3,
     "releaseDate": "2023-06-15",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Effloresced_E.G.O_Spicebush_Yi_Sang_Uptied.png/256px-Effloresced_E.G.O_Spicebush_Yi_Sang_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "gluttony",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill2",
-        "sin": "sloth",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "pride",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "sloth",
-        "type": "evade"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "gluttony",
       "sloth",
@@ -321,36 +153,15 @@
     "rarity": 3,
     "releaseDate": "2023-11-09",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/W_Corp._L3_Cleanup_Agent_Yi_Sang_Uptied.png/256px-W_Corp._L3_Cleanup_Agent_Yi_Sang_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "sloth",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "gluttony",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "gloom",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "gloom",
-        "type": "evade"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "sloth",
       "gluttony",
       "gloom"
     ],
     "statusTags": [
-      "charge",
-      "rupture"
+      "rupture",
+      "charge"
     ]
   },
   {
@@ -361,38 +172,17 @@
     "rarity": 3,
     "releaseDate": "2024-05-16",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/The_Ring_Pointillist_Student_Yi_Sang_Uptied.png/256px-The_Ring_Pointillist_Student_Yi_Sang_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "gloom",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill2",
-        "sin": "lust",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "sloth",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "lust",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "gloom",
       "lust",
       "sloth"
     ],
     "statusTags": [
-      "bleed",
       "burn",
-      "rupture",
+      "bleed",
       "tremor",
+      "rupture",
       "sinking"
     ]
   },
@@ -404,28 +194,7 @@
     "rarity": 3,
     "releaseDate": "2024-09-05",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Lobotomy_E.G.O_Solemn_Lament_Yi_Sang_Uptied.png/256px-Lobotomy_E.G.O_Solemn_Lament_Yi_Sang_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "pride",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill2",
-        "sin": "gloom",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "sloth",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "gloom",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "pride",
       "gloom",
@@ -443,28 +212,7 @@
     "rarity": 3,
     "releaseDate": "2025-02-20",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Liu_Assoc._South_Section_3_Yi_Sang_Uptied.png/256px-Liu_Assoc._South_Section_3_Yi_Sang_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "sloth",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "wrath",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "envy",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "wrath",
-        "type": "slash"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "sloth",
       "wrath",
@@ -482,28 +230,7 @@
     "rarity": 3,
     "releaseDate": "2025-07-03",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/N_Corp._E.G.O_Fell_Bullet_Yi_Sang_Uptied.png/256px-N_Corp._E.G.O_Fell_Bullet_Yi_Sang_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "wrath",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "lust",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "pride",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "pride",
-        "type": "pierce"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "wrath",
       "lust",
@@ -522,28 +249,7 @@
     "rarity": 3,
     "releaseDate": "2025-08-28",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Heishou_Pack_-_Wu_Branch_Adept_Yi_Sang_Uptied.png/256px-Heishou_Pack_-_Wu_Branch_Adept_Yi_Sang_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "sloth",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "envy",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "gluttony",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "gluttony",
-        "type": "clashable_guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "sloth",
       "envy",
@@ -555,6 +261,27 @@
     ]
   },
   {
+    "page": "The_House_of_Spiders:_The_Index_Nursefather_Yi_Sang",
+    "name": "The House of Spiders: The Index Nursefather Yi Sang",
+    "prefix": "The House of Spiders: The Index Nursefather",
+    "sinner": "Yi Sang",
+    "rarity": 3,
+    "releaseDate": "2026-02-19",
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/The_House_of_Spiders_The_Index_Nursefather_Yi_Sang_Uptied.png/256px-The_House_of_Spiders_The_Index_Nursefather_Yi_Sang_Uptied.png",
+    "skills": [],
+    "affinities": [
+      "gluttony",
+      "pride",
+      "gloom",
+      "wrath"
+    ],
+    "statusTags": [
+      "poise",
+      "sinking",
+      "burn"
+    ]
+  },
+  {
     "page": "LCB_Sinner_Faust",
     "name": "LCB Sinner Faust",
     "prefix": "LCB Sinner",
@@ -562,28 +289,7 @@
     "rarity": 1,
     "releaseDate": "2023-02-27",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/LCB_Sinner_Faust.png/256px-LCB_Sinner_Faust.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "pride",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "sloth",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "gluttony",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "pride",
-        "type": "evade"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "pride",
       "sloth",
@@ -599,28 +305,7 @@
     "rarity": 2,
     "releaseDate": "2023-02-27",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/W_Corp._L2_Cleanup_Agent_Faust_Uptied.png/256px-W_Corp._L2_Cleanup_Agent_Faust_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "envy",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "gloom",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "wrath",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "envy",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "envy",
       "gloom",
@@ -638,36 +323,15 @@
     "rarity": 2,
     "releaseDate": "2023-02-27",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Lobotomy_Corp._Remnant_Faust_Uptied.png/256px-Lobotomy_Corp._Remnant_Faust_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "lust",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "gloom",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "envy",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "envy",
-        "type": "evade"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "lust",
       "gloom",
       "envy"
     ],
     "statusTags": [
-      "poise",
-      "rupture"
+      "rupture",
+      "poise"
     ]
   },
   {
@@ -678,28 +342,7 @@
     "rarity": 2,
     "releaseDate": "2023-08-10",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Zwei_Assoc._South_Section_4_Faust_Uptied.png/256px-Zwei_Assoc._South_Section_4_Faust_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "envy",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill2",
-        "sin": "gloom",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "lust",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "gloom",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "envy",
       "gloom",
@@ -715,28 +358,7 @@
     "rarity": 2,
     "releaseDate": "2024-04-04",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Wuthering_Heights_Butler_Faust_Uptied.png/256px-Wuthering_Heights_Butler_Faust_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "gloom",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "lust",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "wrath",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "gloom",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "gloom",
       "lust",
@@ -754,28 +376,7 @@
     "rarity": 3,
     "releaseDate": "2023-03-23",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/The_One_Who_Grips_Faust_Uptied.png/256px-The_One_Who_Grips_Faust_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "envy",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill2",
-        "sin": "lust",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "pride",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "lust",
-        "type": "evade"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "envy",
       "lust",
@@ -793,28 +394,7 @@
     "rarity": 3,
     "releaseDate": "2023-09-07",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Seven_Assoc._South_Section_4_Faust_Uptied.png/256px-Seven_Assoc._South_Section_4_Faust_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "envy",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "gloom",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "gluttony",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "lust",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "envy",
       "gloom",
@@ -834,28 +414,7 @@
     "rarity": 3,
     "releaseDate": "2023-10-26",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Lobotomy_E.G.O_Regret_Faust_Uptied.png/256px-Lobotomy_E.G.O_Regret_Faust_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "sloth",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "pride",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "wrath",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "gloom",
-        "type": "blunt"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "sloth",
       "pride",
@@ -874,28 +433,7 @@
     "rarity": 3,
     "releaseDate": "2024-02-22",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Blade_Lineage_Salsu_Faust_Uptied.png/256px-Blade_Lineage_Salsu_Faust_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "sloth",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "pride",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "gloom",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "gloom",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "sloth",
       "pride",
@@ -913,28 +451,7 @@
     "rarity": 3,
     "releaseDate": "2024-08-08",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/MultiCrack_Office_Rep_Faust_Uptied.png/256px-MultiCrack_Office_Rep_Faust_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "lust",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "envy",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "gloom",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "envy",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "lust",
       "envy",
@@ -952,28 +469,7 @@
     "rarity": 3,
     "releaseDate": "2025-01-23",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/LCE_E.G.O_Ardor_Blossom_Star_Faust_Uptied.png/256px-LCE_E.G.O_Ardor_Blossom_Star_Faust_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "sloth",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "pride",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "wrath",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "wrath",
-        "type": "evade"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "sloth",
       "pride",
@@ -991,28 +487,7 @@
     "rarity": 3,
     "releaseDate": "2025-05-22",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Heishou_Pack_-_Mao_Branch_Adept_Faust_Uptied.png/256px-Heishou_Pack_-_Mao_Branch_Adept_Faust_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "sloth",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "pride",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "gluttony",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "gluttony",
-        "type": "slash"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "sloth",
       "pride",
@@ -1031,28 +506,7 @@
     "rarity": 3,
     "releaseDate": "2025-10-09",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Shi_Assoc._East_Section_3_Faust_Uptied.png/256px-Shi_Assoc._East_Section_3_Faust_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "wrath",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "pride",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "lust",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "lust",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "wrath",
       "pride",
@@ -1071,28 +525,7 @@
     "rarity": 3,
     "releaseDate": "2025-12-31",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/The_Index_Proselyte_Paper_Slip_Faust_Uptied.png/256px-The_Index_Proselyte_Paper_Slip_Faust_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "sloth",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "pride",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "gloom",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "gloom",
-        "type": "slash"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "sloth",
       "pride",
@@ -1104,6 +537,45 @@
     ]
   },
   {
+    "page": "The_House_of_Spiders:_The_Ring_Apprentice_Faust",
+    "name": "The House of Spiders: The Ring Apprentice Faust",
+    "prefix": "The House of Spiders: The Ring Apprentice",
+    "sinner": "Faust",
+    "rarity": 3,
+    "releaseDate": "2026-04-02",
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/The_House_of_Spiders_The_Ring_Apprentice_Faust_Uptied.png/256px-The_House_of_Spiders_The_Ring_Apprentice_Faust_Uptied.png",
+    "skills": [],
+    "affinities": [
+      "gluttony",
+      "envy",
+      "lust"
+    ],
+    "statusTags": [
+      "bleed",
+      "charge"
+    ]
+  },
+  {
+    "page": "Dawn_Office_Fixer_Faust",
+    "name": "Dawn Office Fixer Faust",
+    "prefix": "Dawn Office Fixer",
+    "sinner": "Faust",
+    "rarity": 3,
+    "releaseDate": "2026-07-09",
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Dawn_Office_Fixer_Faust_Uptied.png/256px-Dawn_Office_Fixer_Faust_Uptied.png",
+    "skills": [],
+    "affinities": [
+      "pride",
+      "sloth",
+      "wrath",
+      "gluttony"
+    ],
+    "statusTags": [
+      "burn",
+      "tremor"
+    ]
+  },
+  {
     "page": "LCB_Sinner_Don_Quixote",
     "name": "LCB Sinner Don Quixote",
     "prefix": "LCB Sinner",
@@ -1111,28 +583,7 @@
     "rarity": 1,
     "releaseDate": "2023-02-27",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/LCB_Sinner_Don_Quixote.png/256px-LCB_Sinner_Don_Quixote.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "lust",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill2",
-        "sin": "envy",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "gluttony",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "lust",
-        "type": "evade"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "lust",
       "envy",
@@ -1150,28 +601,7 @@
     "rarity": 2,
     "releaseDate": "2023-02-27",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Shi_Assoc._South_Section_5_Director_Don_Quixote_Uptied.png/256px-Shi_Assoc._South_Section_5_Director_Don_Quixote_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "wrath",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "envy",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "lust",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "wrath",
-        "type": "evade"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "wrath",
       "envy",
@@ -1189,28 +619,7 @@
     "rarity": 2,
     "releaseDate": "2023-05-03",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/N_Corp._Mittelhammer_Don_Quixote_Uptied.png/256px-N_Corp._Mittelhammer_Don_Quixote_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "lust",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill2",
-        "sin": "gluttony",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "wrath",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "lust",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "lust",
       "gluttony",
@@ -1228,28 +637,7 @@
     "rarity": 2,
     "releaseDate": "2024-01-11",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Lobotomy_E.G.O_Lantern_Don_Quixote_Uptied.png/256px-Lobotomy_E.G.O_Lantern_Don_Quixote_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "gluttony",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "lust",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "gloom",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "gluttony",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "gluttony",
       "lust",
@@ -1267,28 +655,7 @@
     "rarity": 2,
     "releaseDate": "2024-02-22",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Blade_Lineage_Salsu_Don_Quixote_Uptied.png/256px-Blade_Lineage_Salsu_Don_Quixote_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "pride",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill2",
-        "sin": "envy",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "sloth",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "pride",
-        "type": "evade"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "pride",
       "envy",
@@ -1306,36 +673,15 @@
     "rarity": 3,
     "releaseDate": "2023-02-27",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/W_Corp._L3_Cleanup_Agent_Don_Quixote_Uptied.png/256px-W_Corp._L3_Cleanup_Agent_Don_Quixote_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "sloth",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "gloom",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "envy",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "gloom",
-        "type": "evade"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "sloth",
       "gloom",
       "envy"
     ],
     "statusTags": [
-      "charge",
-      "rupture"
+      "rupture",
+      "charge"
     ]
   },
   {
@@ -1346,28 +692,7 @@
     "rarity": 3,
     "releaseDate": "2023-07-20",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Cinq_Assoc._South_Section_5_Director_Don_Quixote_Uptied.png/256px-Cinq_Assoc._South_Section_5_Director_Don_Quixote_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "lust",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill2",
-        "sin": "gloom",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "pride",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "pride",
-        "type": "evade"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "lust",
       "gloom",
@@ -1383,28 +708,7 @@
     "rarity": 3,
     "releaseDate": "2023-11-23",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/The_Middle_Little_Sister_Don_Quixote_Uptied.png/256px-The_Middle_Little_Sister_Don_Quixote_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "wrath",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "envy",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "pride",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "envy",
-        "type": "blunt"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "wrath",
       "envy",
@@ -1422,28 +726,7 @@
     "rarity": 3,
     "releaseDate": "2024-06-27",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/T_Corp._Class_3_Collection_Staff_Don_Quixote_Uptied.png/256px-T_Corp._Class_3_Collection_Staff_Don_Quixote_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "gluttony",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "pride",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "sloth",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "sloth",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "gluttony",
       "pride",
@@ -1461,28 +744,7 @@
     "rarity": 3,
     "releaseDate": "2024-12-12",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/The_Manager_of_La_Manchaland_Don_Quixote_Uptied.png/256px-The_Manager_of_La_Manchaland_Don_Quixote_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "sloth",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill2",
-        "sin": "wrath",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "lust",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "lust",
-        "type": "pierce"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "sloth",
       "wrath",
@@ -1500,28 +762,7 @@
     "rarity": 3,
     "releaseDate": "2025-03-06",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Cinq_Assoc._East_Section_3_Don_Quixote_Uptied.png/256px-Cinq_Assoc._East_Section_3_Don_Quixote_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "gluttony",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill2",
-        "sin": "wrath",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "pride",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "wrath",
-        "type": "evade"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "gluttony",
       "wrath",
@@ -1540,28 +781,7 @@
     "rarity": 3,
     "releaseDate": "2025-07-17",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Lobotomy_E.G.O_In_the_Name_of_Love_and_Hate_Don_Quixote_Uptied.png/256px-Lobotomy_E.G.O_In_the_Name_of_Love_and_Hate_Don_Quixote_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "wrath",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "envy",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "envy",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "envy",
-        "type": "clashable_guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "wrath",
       "envy"
@@ -1580,28 +800,7 @@
     "rarity": 3,
     "releaseDate": "2025-11-20",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Heishou_Pack_-_Wei_Branch_Don_Quixote_Uptied.png/256px-Heishou_Pack_-_Wei_Branch_Don_Quixote_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "lust",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "gluttony",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "gloom",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "gluttony",
-        "type": "blunt"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "lust",
       "gluttony",
@@ -1620,28 +819,7 @@
     "rarity": 3,
     "releaseDate": "2026-01-08",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/The_Index_Proxy_-_Effloresced_E.G.O_Procuration_Don_Quixote_Uptied.png/256px-The_Index_Proxy_-_Effloresced_E.G.O_Procuration_Don_Quixote_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "lust",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "pride",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "gloom",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "gloom",
-        "type": "blunt"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "lust",
       "pride",
@@ -1660,28 +838,7 @@
     "rarity": 1,
     "releaseDate": "2023-02-27",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/LCB_Sinner_Ry%C5%8Dsh%C5%AB.png/256px-LCB_Sinner_Ry%C5%8Dsh%C5%AB.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "gluttony",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "lust",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "pride",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "gluttony",
-        "type": "evade"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "gluttony",
       "lust",
@@ -1699,28 +856,7 @@
     "rarity": 2,
     "releaseDate": "2023-02-27",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Seven_Assoc._South_Section_6_Ry%C5%8Dsh%C5%AB_Uptied.png/256px-Seven_Assoc._South_Section_6_Ry%C5%8Dsh%C5%AB_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "sloth",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "pride",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "gluttony",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "gluttony",
-        "type": "slash"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "sloth",
       "pride",
@@ -1738,37 +874,16 @@
     "rarity": 2,
     "releaseDate": "2023-11-16",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/LCCB_Assistant_Manager_Ry%C5%8Dsh%C5%AB_Uptied.png/256px-LCCB_Assistant_Manager_Ry%C5%8Dsh%C5%AB_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "lust",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "gluttony",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "pride",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "gluttony",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "lust",
       "gluttony",
       "pride"
     ],
     "statusTags": [
-      "poise",
       "tremor",
-      "rupture"
+      "rupture",
+      "poise"
     ]
   },
   {
@@ -1779,28 +894,7 @@
     "rarity": 2,
     "releaseDate": "2024-03-07",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Liu_Assoc._South_Section_4_Ry%C5%8Dsh%C5%AB_Uptied.png/256px-Liu_Assoc._South_Section_4_Ry%C5%8Dsh%C5%AB_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "gluttony",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "wrath",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "lust",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "wrath",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "gluttony",
       "wrath",
@@ -1818,28 +912,7 @@
     "rarity": 2,
     "releaseDate": "2024-06-13",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/District_20_Yurodivy_Ry%C5%8Dsh%C5%AB_Uptied.png/256px-District_20_Yurodivy_Ry%C5%8Dsh%C5%AB_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "lust",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "sloth",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "gluttony",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "sloth",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "lust",
       "sloth",
@@ -1857,28 +930,7 @@
     "rarity": 3,
     "releaseDate": "2023-02-27",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Kurokumo_Clan_Wakashu_Ry%C5%8Dsh%C5%AB_Uptied.png/256px-Kurokumo_Clan_Wakashu_Ry%C5%8Dsh%C5%AB_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "gluttony",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill2",
-        "sin": "pride",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "lust",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "lust",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "gluttony",
       "pride",
@@ -1896,28 +948,7 @@
     "rarity": 3,
     "releaseDate": "2023-04-20",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/R.B._Chef_de_Cuisine_Ry%C5%8Dsh%C5%AB_Uptied.png/256px-R.B._Chef_de_Cuisine_Ry%C5%8Dsh%C5%AB_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "wrath",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "envy",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "lust",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "lust",
-        "type": "evade"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "wrath",
       "envy",
@@ -1935,28 +966,7 @@
     "rarity": 3,
     "releaseDate": "2023-08-24",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/W_Corp._L3_Cleanup_Agent_Ry%C5%8Dsh%C5%AB_Uptied.png/256px-W_Corp._L3_Cleanup_Agent_Ry%C5%8Dsh%C5%AB_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "lust",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "pride",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "envy",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "lust",
-        "type": "evade"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "lust",
       "pride",
@@ -1974,28 +984,7 @@
     "rarity": 3,
     "releaseDate": "2024-04-18",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Edgar_Family_Chief_Butler_Ry%C5%8Dsh%C5%AB_Uptied.png/256px-Edgar_Family_Chief_Butler_Ry%C5%8Dsh%C5%AB_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "lust",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "pride",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "wrath",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "lust",
-        "type": "evade"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "lust",
       "pride",
@@ -2013,36 +1002,15 @@
     "rarity": 3,
     "releaseDate": "2024-09-05",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Lobotomy_E.G.O_Red_Eyes_%26_Penitence_Ry%C5%8Dsh%C5%AB_Uptied.png/256px-Lobotomy_E.G.O_Red_Eyes_%26_Penitence_Ry%C5%8Dsh%C5%AB_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "envy",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "gloom",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "lust",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "lust",
-        "type": "blunt"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "envy",
       "gloom",
       "lust"
     ],
     "statusTags": [
-      "charge",
-      "bleed"
+      "bleed",
+      "charge"
     ]
   },
   {
@@ -2053,28 +1021,7 @@
     "rarity": 3,
     "releaseDate": "2025-03-20",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Heishou_Pack_-_Mao_Branch_Ry%C5%8Dsh%C5%AB_Uptied.png/256px-Heishou_Pack_-_Mao_Branch_Ry%C5%8Dsh%C5%AB_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "lust",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "gluttony",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "pride",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "gluttony",
-        "type": "slash"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "lust",
       "gluttony",
@@ -2092,28 +1039,7 @@
     "rarity": 3,
     "releaseDate": "2025-09-11",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/N_Corp._E.G.O_Contempt%2C_Awe_Ry%C5%8Dsh%C5%AB_Uptied.png/256px-N_Corp._E.G.O_Contempt%2C_Awe_Ry%C5%8Dsh%C5%AB_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "envy",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill2",
-        "sin": "wrath",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "lust",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "sloth",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "envy",
       "wrath",
@@ -2133,28 +1059,7 @@
     "rarity": 3,
     "releaseDate": "2025-12-04",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Drifting_Blade_of_Hongyuan_Ry%C5%8Dsh%C5%AB_Uptied.png/256px-Drifting_Blade_of_Hongyuan_Ry%C5%8Dsh%C5%AB_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "gloom",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill2",
-        "sin": "gluttony",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "pride",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "pride",
-        "type": "clashable_guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "gloom",
       "gluttony",
@@ -2166,6 +1071,45 @@
     ]
   },
   {
+    "page": "Lobotomy_E.G.O::Faint_Aroma_&_Solitude_Ryōshū",
+    "name": "Lobotomy E.G.O::Faint Aroma & Solitude Ryōshū",
+    "prefix": "Lobotomy E.G.O::Faint Aroma & Solitude",
+    "sinner": "Ryōshū",
+    "rarity": 3,
+    "releaseDate": "2026-03-05",
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Lobotomy_E.G.O_Faint_Aroma_%26_Solitude_Ry%C5%8Dsh%C5%AB_Uptied.png/256px-Lobotomy_E.G.O_Faint_Aroma_%26_Solitude_Ry%C5%8Dsh%C5%AB_Uptied.png",
+    "skills": [],
+    "affinities": [
+      "sloth",
+      "envy",
+      "gloom"
+    ],
+    "statusTags": [
+      "tremor",
+      "sinking"
+    ]
+  },
+  {
+    "page": "Blade_of_the_House_of_Spiders_Ryōshū",
+    "name": "Blade of the House of Spiders Ryōshū",
+    "prefix": "Blade of the House of Spiders",
+    "sinner": "Ryōshū",
+    "rarity": 3,
+    "releaseDate": "2026-05-14",
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Blade_of_the_House_of_Spiders_Ry%C5%8Dsh%C5%AB_Uptied.png/256px-Blade_of_the_House_of_Spiders_Ry%C5%8Dsh%C5%AB_Uptied.png",
+    "skills": [],
+    "affinities": [
+      "lust",
+      "pride",
+      "wrath"
+    ],
+    "statusTags": [
+      "burn",
+      "bleed",
+      "poise"
+    ]
+  },
+  {
     "page": "LCB_Sinner_Meursault",
     "name": "LCB Sinner Meursault",
     "prefix": "LCB Sinner",
@@ -2173,28 +1117,7 @@
     "rarity": 1,
     "releaseDate": "2023-02-27",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/LCB_Sinner_Meursault.png/256px-LCB_Sinner_Meursault.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "sloth",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "pride",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "gloom",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "sloth",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "sloth",
       "pride",
@@ -2212,28 +1135,7 @@
     "rarity": 2,
     "releaseDate": "2023-02-27",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Liu_Assoc._South_Section_6_Meursault_Uptied.png/256px-Liu_Assoc._South_Section_6_Meursault_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "lust",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "sloth",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "wrath",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "lust",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "lust",
       "sloth",
@@ -2251,36 +1153,15 @@
     "rarity": 2,
     "releaseDate": "2023-06-01",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Rosespanner_Workshop_Fixer_Meursault_Uptied.png/256px-Rosespanner_Workshop_Fixer_Meursault_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "gloom",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "pride",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "sloth",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "sloth",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "gloom",
       "pride",
       "sloth"
     ],
     "statusTags": [
-      "charge",
-      "tremor"
+      "tremor",
+      "charge"
     ]
   },
   {
@@ -2291,28 +1172,7 @@
     "rarity": 2,
     "releaseDate": "2023-11-23",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/The_Middle_Little_Brother_Meursault_Uptied.png/256px-The_Middle_Little_Brother_Meursault_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "sloth",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "envy",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "wrath",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "envy",
-        "type": "blunt"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "sloth",
       "envy",
@@ -2330,28 +1190,7 @@
     "rarity": 2,
     "releaseDate": "2024-03-28",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Dead_Rabbits_Boss_Meursault_Uptied.png/256px-Dead_Rabbits_Boss_Meursault_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "lust",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "wrath",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "gluttony",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "gluttony",
-        "type": "blunt"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "lust",
       "wrath",
@@ -2369,36 +1208,15 @@
     "rarity": 3,
     "releaseDate": "2023-02-27",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/W_Corp._L2_Cleanup_Agent_Meursault_Uptied.png/256px-W_Corp._L2_Cleanup_Agent_Meursault_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "envy",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "gloom",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "pride",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "envy",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "envy",
       "gloom",
       "pride"
     ],
     "statusTags": [
-      "charge",
-      "rupture"
+      "rupture",
+      "charge"
     ]
   },
   {
@@ -2409,28 +1227,7 @@
     "rarity": 3,
     "releaseDate": "2023-03-09",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/N_Corp._Gro%C3%9Fhammer_Meursault_Uptied.png/256px-N_Corp._Gro%C3%9Fhammer_Meursault_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "sloth",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill2",
-        "sin": "wrath",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "pride",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "wrath",
-        "type": "pierce"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "sloth",
       "wrath",
@@ -2446,36 +1243,15 @@
     "rarity": 3,
     "releaseDate": "2023-07-13",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/R_Corp._4th_Pack_Rhino_Meursault_Uptied.png/256px-R_Corp._4th_Pack_Rhino_Meursault_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "envy",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "gloom",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "lust",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "envy",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "envy",
       "gloom",
       "lust"
     ],
     "statusTags": [
-      "charge",
-      "bleed"
+      "bleed",
+      "charge"
     ]
   },
   {
@@ -2486,36 +1262,15 @@
     "rarity": 3,
     "releaseDate": "2024-02-22",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Blade_Lineage_Mentor_Meursault_Uptied.png/256px-Blade_Lineage_Mentor_Meursault_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "pride",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "pride",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "wrath",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "envy",
-        "type": "slash"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "pride",
       "wrath",
       "envy"
     ],
     "statusTags": [
-      "poise",
-      "bleed"
+      "bleed",
+      "poise"
     ]
   },
   {
@@ -2526,28 +1281,7 @@
     "rarity": 3,
     "releaseDate": "2024-07-11",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Dieci_Assoc._South_Section_4_Director_Meursault_Uptied.png/256px-Dieci_Assoc._South_Section_4_Director_Meursault_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "gluttony",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "sloth",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "gloom",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "gloom",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "gluttony",
       "sloth",
@@ -2565,28 +1299,7 @@
     "rarity": 3,
     "releaseDate": "2024-10-10",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Cinq_Assoc._West_Section_3_Meursault_Uptied.png/256px-Cinq_Assoc._West_Section_3_Meursault_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "pride",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill2",
-        "sin": "gluttony",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "gloom",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "gloom",
-        "type": "evade"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "pride",
       "gluttony",
@@ -2605,28 +1318,7 @@
     "rarity": 3,
     "releaseDate": "2025-06-19",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/The_Thumb_East_Capo_IIII_Meursault_Uptied.png/256px-The_Thumb_East_Capo_IIII_Meursault_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "sloth",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "lust",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "wrath",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "sloth",
-        "type": "slash"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "sloth",
       "lust",
@@ -2645,28 +1337,7 @@
     "rarity": 3,
     "releaseDate": "2025-10-23",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/The_Prince_of_La_Manchaland_Meursault_Uptied.png/256px-The_Prince_of_La_Manchaland_Meursault_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "envy",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "pride",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "lust",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "lust",
-        "type": "slash"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "envy",
       "pride",
@@ -2678,6 +1349,43 @@
     ]
   },
   {
+    "page": "Lobotomy_E.G.O::Hornet【Alteration】Meursault",
+    "name": "Lobotomy E.G.O::Hornet【Alteration】Meursault",
+    "prefix": "Lobotomy E.G.O::Hornet【Alteration】",
+    "sinner": "Meursault",
+    "rarity": 3,
+    "releaseDate": "2026-03-05",
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Lobotomy_E.G.O_Hornet_Alteration_Meursault_Uptied.png/256px-Lobotomy_E.G.O_Hornet_Alteration_Meursault_Uptied.png",
+    "skills": [],
+    "affinities": [
+      "lust",
+      "wrath"
+    ],
+    "statusTags": [
+      "burn",
+      "bleed"
+    ]
+  },
+  {
+    "page": "The_Ring_Fauvist_Student_Meursault",
+    "name": "The Ring Fauvist Student Meursault",
+    "prefix": "The Ring Fauvist Student",
+    "sinner": "Meursault",
+    "rarity": 3,
+    "releaseDate": "2026-04-16",
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/The_Ring_Fauvist_Student_Meursault_Uptied.png/256px-The_Ring_Fauvist_Student_Meursault_Uptied.png",
+    "skills": [],
+    "affinities": [
+      "wrath",
+      "pride",
+      "lust"
+    ],
+    "statusTags": [
+      "bleed",
+      "sinking"
+    ]
+  },
+  {
     "page": "LCB_Sinner_Hong_Lu",
     "name": "LCB Sinner Hong Lu",
     "prefix": "LCB Sinner",
@@ -2685,28 +1393,7 @@
     "rarity": 1,
     "releaseDate": "2023-02-27",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/LCB_Sinner_Hong_Lu.png/256px-LCB_Sinner_Hong_Lu.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "pride",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "sloth",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "lust",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "sloth",
-        "type": "evade"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "pride",
       "sloth",
@@ -2725,28 +1412,7 @@
     "rarity": 2,
     "releaseDate": "2023-02-27",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Kurokumo_Clan_Wakashu_Hong_Lu_Uptied.png/256px-Kurokumo_Clan_Wakashu_Hong_Lu_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "lust",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "pride",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "sloth",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "sloth",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "lust",
       "pride",
@@ -2764,28 +1430,7 @@
     "rarity": 2,
     "releaseDate": "2023-04-06",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Liu_Assoc._South_Section_5_Hong_Lu_Uptied.png/256px-Liu_Assoc._South_Section_5_Hong_Lu_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "gloom",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "lust",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "wrath",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "gloom",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "gloom",
       "lust",
@@ -2803,36 +1448,15 @@
     "rarity": 2,
     "releaseDate": "2023-08-24",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/W_Corp._L2_Cleanup_Agent_Hong_Lu_Uptied.png/256px-W_Corp._L2_Cleanup_Agent_Hong_Lu_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "pride",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill2",
-        "sin": "wrath",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "gluttony",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "pride",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "pride",
       "wrath",
       "gluttony"
     ],
     "statusTags": [
-      "charge",
-      "rupture"
+      "rupture",
+      "charge"
     ]
   },
   {
@@ -2843,28 +1467,7 @@
     "rarity": 2,
     "releaseDate": "2023-10-26",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Hook_Office_Fixer_Hong_Lu_Uptied.png/256px-Hook_Office_Fixer_Hong_Lu_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "wrath",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill2",
-        "sin": "lust",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "pride",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "pride",
-        "type": "evade"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "wrath",
       "lust",
@@ -2882,28 +1485,7 @@
     "rarity": 2,
     "releaseDate": "2024-10-17",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Fanghunt_Office_Fixer_Hong_Lu_Uptied.png/256px-Fanghunt_Office_Fixer_Hong_Lu_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "gluttony",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "pride",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "wrath",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "wrath",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "gluttony",
       "pride",
@@ -2921,28 +1503,7 @@
     "rarity": 3,
     "releaseDate": "2023-02-27",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Tingtang_Gang_Gangleader_Hong_Lu_Uptied.png/256px-Tingtang_Gang_Gangleader_Hong_Lu_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "envy",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "lust",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "gluttony",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "gluttony",
-        "type": "evade"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "envy",
       "lust",
@@ -2960,28 +1521,7 @@
     "rarity": 3,
     "releaseDate": "2023-06-29",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/K_Corp._Class_3_Excision_Staff_Hong_Lu_Uptied.png/256px-K_Corp._Class_3_Excision_Staff_Hong_Lu_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "pride",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "gluttony",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "sloth",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "gluttony",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "pride",
       "gluttony",
@@ -2999,28 +1539,7 @@
     "rarity": 3,
     "releaseDate": "2024-01-25",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Dieci_Assoc._South_Section_4_Hong_Lu_Uptied.png/256px-Dieci_Assoc._South_Section_4_Hong_Lu_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "wrath",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "gloom",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "sloth",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "gloom",
-        "type": "evade"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "wrath",
       "gloom",
@@ -3038,28 +1557,7 @@
     "rarity": 3,
     "releaseDate": "2024-06-13",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/District_20_Yurodivy_Hong_Lu_Uptied.png/256px-District_20_Yurodivy_Hong_Lu_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "gloom",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "sloth",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "gluttony",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "sloth",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "gloom",
       "sloth",
@@ -3077,28 +1575,7 @@
     "rarity": 3,
     "releaseDate": "2025-01-09",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Full-Stop_Office_Rep_Hong_Lu_Uptied.png/256px-Full-Stop_Office_Rep_Hong_Lu_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "sloth",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill2",
-        "sin": "gloom",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "pride",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "pride",
-        "type": "evade"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "sloth",
       "gloom",
@@ -3116,28 +1593,7 @@
     "rarity": 3,
     "releaseDate": "2025-04-30",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/R_Corp._4th_Pack_Reindeer_Hong_Lu_Uptied.png/256px-R_Corp._4th_Pack_Reindeer_Hong_Lu_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "gluttony",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "envy",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "wrath",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "envy",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "gluttony",
       "envy",
@@ -3156,28 +1612,7 @@
     "rarity": 3,
     "releaseDate": "2025-08-14",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/The_Lord_of_Hongyuan_Hong_Lu_Uptied.png/256px-The_Lord_of_Hongyuan_Hong_Lu_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "gloom",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "gluttony",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "pride",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "gluttony",
-        "type": "slash"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "gloom",
       "gluttony",
@@ -3189,6 +1624,45 @@
     ]
   },
   {
+    "page": "The_House_of_Spiders:_The_Ring_Nursefather_Hong_Lu",
+    "name": "The House of Spiders: The Ring Nursefather Hong Lu",
+    "prefix": "The House of Spiders: The Ring Nursefather",
+    "sinner": "Hong Lu",
+    "rarity": 3,
+    "releaseDate": "2026-04-02",
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/The_House_of_Spiders_The_Ring_Nursefather_Hong_Lu_Uptied.png/256px-The_House_of_Spiders_The_Ring_Nursefather_Hong_Lu_Uptied.png",
+    "skills": [],
+    "affinities": [
+      "pride",
+      "envy",
+      "lust"
+    ],
+    "statusTags": [
+      "bleed",
+      "charge",
+      "burn"
+    ]
+  },
+  {
+    "page": "S_Corp._Ch'unokkun_Hong_Lu",
+    "name": "S Corp. Ch'unokkun Hong Lu",
+    "prefix": "S Corp. Ch'unokkun",
+    "sinner": "Hong Lu",
+    "rarity": 3,
+    "releaseDate": "2026-06-11",
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/S_Corp._Ch'unokkun_Hong_Lu_Uptied.png/256px-S_Corp._Ch'unokkun_Hong_Lu_Uptied.png",
+    "skills": [],
+    "affinities": [
+      "gluttony",
+      "lust",
+      "pride"
+    ],
+    "statusTags": [
+      "bleed",
+      "poise"
+    ]
+  },
+  {
     "page": "LCB_Sinner_Heathcliff",
     "name": "LCB Sinner Heathcliff",
     "prefix": "LCB Sinner",
@@ -3196,28 +1670,7 @@
     "rarity": 1,
     "releaseDate": "2023-02-27",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/LCB_Sinner_Heathcliff.png/256px-LCB_Sinner_Heathcliff.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "envy",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "wrath",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "lust",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "envy",
-        "type": "blunt"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "envy",
       "wrath",
@@ -3235,28 +1688,7 @@
     "rarity": 2,
     "releaseDate": "2023-02-27",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Shi_Assoc._South_Section_5_Heathcliff_Uptied.png/256px-Shi_Assoc._South_Section_5_Heathcliff_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "lust",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "wrath",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "envy",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "wrath",
-        "type": "slash"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "lust",
       "wrath",
@@ -3274,28 +1706,7 @@
     "rarity": 2,
     "releaseDate": "2023-03-23",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/N_Corp._Kleinhammer_Heathcliff_Uptied.png/256px-N_Corp._Kleinhammer_Heathcliff_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "envy",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill2",
-        "sin": "gloom",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "lust",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "gloom",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "envy",
       "gloom",
@@ -3313,28 +1724,7 @@
     "rarity": 2,
     "releaseDate": "2023-09-07",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Seven_Assoc._South_Section_4_Heathcliff_Uptied.png/256px-Seven_Assoc._South_Section_4_Heathcliff_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "wrath",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "envy",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "gluttony",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "wrath",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "wrath",
       "envy",
@@ -3352,28 +1742,7 @@
     "rarity": 2,
     "releaseDate": "2024-08-08",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/MultiCrack_Office_Fixer_Heathcliff_Uptied.png/256px-MultiCrack_Office_Fixer_Heathcliff_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "wrath",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "envy",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "gloom",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "envy",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "wrath",
       "envy",
@@ -3391,28 +1760,7 @@
     "rarity": 3,
     "releaseDate": "2023-02-27",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/R_Corp._4th_Pack_Rabbit_Heathcliff_Uptied.png/256px-R_Corp._4th_Pack_Rabbit_Heathcliff_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "wrath",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill2",
-        "sin": "gluttony",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "envy",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "wrath",
-        "type": "evade"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "wrath",
       "gluttony",
@@ -3420,8 +1768,8 @@
     ],
     "statusTags": [
       "bleed",
-      "charge",
-      "rupture"
+      "rupture",
+      "charge"
     ]
   },
   {
@@ -3432,28 +1780,7 @@
     "rarity": 3,
     "releaseDate": "2023-06-08",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Lobotomy_E.G.O_Sunshower_Heathcliff_Uptied.png/256px-Lobotomy_E.G.O_Sunshower_Heathcliff_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "envy",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "gloom",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "sloth",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "wrath",
-        "type": "pierce"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "envy",
       "gloom",
@@ -3461,8 +1788,8 @@
       "wrath"
     ],
     "statusTags": [
-      "sinking",
-      "rupture"
+      "rupture",
+      "sinking"
     ]
   },
   {
@@ -3473,36 +1800,15 @@
     "rarity": 3,
     "releaseDate": "2023-12-07",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/The_Pequod_Harpooneer_Heathcliff_Uptied.png/256px-The_Pequod_Harpooneer_Heathcliff_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "pride",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill2",
-        "sin": "envy",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "envy",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "wrath",
-        "type": "pierce"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "pride",
       "envy",
       "wrath"
     ],
     "statusTags": [
-      "poise",
-      "bleed"
+      "bleed",
+      "poise"
     ]
   },
   {
@@ -3513,28 +1819,7 @@
     "rarity": 3,
     "releaseDate": "2024-03-21",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/%C3%96ufi_Assoc._South_Section_3_Heathcliff_Uptied.png/256px-%C3%96ufi_Assoc._South_Section_3_Heathcliff_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "envy",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "gloom",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "pride",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "pride",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "envy",
       "gloom",
@@ -3552,28 +1837,7 @@
     "rarity": 3,
     "releaseDate": "2024-08-22",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Wild_Hunt_Heathcliff_Uptied.png/256px-Wild_Hunt_Heathcliff_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "wrath",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "envy",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "gloom",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "lust",
-        "type": "slash"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "wrath",
       "envy",
@@ -3592,28 +1856,7 @@
     "rarity": 3,
     "releaseDate": "2025-01-09",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Full-Stop_Office_Fixer_Heathcliff_Uptied.png/256px-Full-Stop_Office_Fixer_Heathcliff_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "gloom",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill2",
-        "sin": "envy",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "pride",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "pride",
-        "type": "evade"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "gloom",
       "envy",
@@ -3631,28 +1874,7 @@
     "rarity": 3,
     "releaseDate": "2025-02-06",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Kurokumo_Clan_Wakashu_Heathcliff_Uptied.png/256px-Kurokumo_Clan_Wakashu_Heathcliff_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "wrath",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "pride",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "lust",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "lust",
-        "type": "slash"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "wrath",
       "pride",
@@ -3670,36 +1892,15 @@
     "rarity": 3,
     "releaseDate": "2025-10-23",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/W_Corp._L4_Cleanup_Agent_-_CCA_Heathcliff_Uptied.png/256px-W_Corp._L4_Cleanup_Agent_-_CCA_Heathcliff_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "gluttony",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "gloom",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "envy",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "envy",
-        "type": "clashable_guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "gluttony",
       "gloom",
       "envy"
     ],
     "statusTags": [
-      "charge",
-      "rupture"
+      "rupture",
+      "charge"
     ]
   },
   {
@@ -3710,28 +1911,7 @@
     "rarity": 3,
     "releaseDate": "2025-11-20",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Heishou_Pack_-_You_Branch_Adept_Heathcliff_Uptied.png/256px-Heishou_Pack_-_You_Branch_Adept_Heathcliff_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "envy",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "gluttony",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "wrath",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "gluttony",
-        "type": "slash"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "envy",
       "gluttony",
@@ -3743,6 +1923,45 @@
     ]
   },
   {
+    "page": "The_Middle_Big_Brother_Heathcliff",
+    "name": "The Middle Big Brother Heathcliff",
+    "prefix": "The Middle Big Brother",
+    "sinner": "Heathcliff",
+    "rarity": 3,
+    "releaseDate": "2026-04-30",
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/The_Middle_Big_Brother_Heathcliff_Uptied.png/256px-The_Middle_Big_Brother_Heathcliff_Uptied.png",
+    "skills": [],
+    "affinities": [
+      "wrath",
+      "envy"
+    ],
+    "statusTags": [
+      "burn",
+      "bleed",
+      "tremor"
+    ]
+  },
+  {
+    "page": "The_House_of_Spiders:_The_Thumb_Apprentice_Heathcliff",
+    "name": "The House of Spiders: The Thumb Apprentice Heathcliff",
+    "prefix": "The House of Spiders: The Thumb Apprentice",
+    "sinner": "Heathcliff",
+    "rarity": 3,
+    "releaseDate": "2026-06-25",
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/The_House_of_Spiders_The_Thumb_Apprentice_Heathcliff_Uptied.png/256px-The_House_of_Spiders_The_Thumb_Apprentice_Heathcliff_Uptied.png",
+    "skills": [],
+    "affinities": [
+      "lust",
+      "sloth",
+      "wrath",
+      "gloom"
+    ],
+    "statusTags": [
+      "burn",
+      "tremor"
+    ]
+  },
+  {
     "page": "LCB_Sinner_Ishmael",
     "name": "LCB Sinner Ishmael",
     "prefix": "LCB Sinner",
@@ -3750,28 +1969,7 @@
     "rarity": 1,
     "releaseDate": "2023-02-27",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/LCB_Sinner_Ishmael.png/256px-LCB_Sinner_Ishmael.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "wrath",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "gluttony",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "gloom",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "wrath",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "wrath",
       "gluttony",
@@ -3789,28 +1987,7 @@
     "rarity": 2,
     "releaseDate": "2023-02-27",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Shi_Assoc._South_Section_5_Ishmael_Uptied.png/256px-Shi_Assoc._South_Section_5_Ishmael_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "envy",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill2",
-        "sin": "lust",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "wrath",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "envy",
-        "type": "slash"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "envy",
       "lust",
@@ -3828,36 +2005,15 @@
     "rarity": 2,
     "releaseDate": "2023-02-27",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/LCCB_Assistant_Manager_Ishmael_Uptied.png/256px-LCCB_Assistant_Manager_Ishmael_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "gluttony",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "gloom",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "pride",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "gluttony",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "gluttony",
       "gloom",
       "pride"
     ],
     "statusTags": [
-      "rupture",
-      "tremor"
+      "tremor",
+      "rupture"
     ]
   },
   {
@@ -3868,28 +2024,7 @@
     "rarity": 2,
     "releaseDate": "2023-06-15",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Lobotomy_E.G.O_Sloshing_Ishmael_Uptied.png/256px-Lobotomy_E.G.O_Sloshing_Ishmael_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "gloom",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "wrath",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "gluttony",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "gloom",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "gloom",
       "wrath",
@@ -3908,28 +2043,7 @@
     "rarity": 2,
     "releaseDate": "2024-04-18",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Edgar_Family_Butler_Ishmael_Uptied.png/256px-Edgar_Family_Butler_Ishmael_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "sloth",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "gluttony",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "gloom",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "gloom",
-        "type": "evade"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "sloth",
       "gluttony",
@@ -3948,28 +2062,7 @@
     "rarity": 3,
     "releaseDate": "2023-02-27",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/R_Corp._4th_Pack_Reindeer_Ishmael_Uptied.png/256px-R_Corp._4th_Pack_Reindeer_Ishmael_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "gloom",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "envy",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "wrath",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "gloom",
-        "type": "evade"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "gloom",
       "envy",
@@ -3988,32 +2081,11 @@
     "rarity": 3,
     "releaseDate": "2023-07-06",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Liu_Assoc._South_Section_4_Ishmael_Uptied.png/256px-Liu_Assoc._South_Section_4_Ishmael_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "lust",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "wrath",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "envy",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "wrath",
-        "type": "blunt"
-      }
-    ],
+    "skills": [],
     "affinities": [
-      "envy",
       "lust",
-      "wrath"
+      "wrath",
+      "envy"
     ],
     "statusTags": [
       "burn"
@@ -4027,28 +2099,7 @@
     "rarity": 3,
     "releaseDate": "2023-07-27",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Molar_Boatworks_Fixer_Ishmael_Uptied.png/256px-Molar_Boatworks_Fixer_Ishmael_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "pride",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill2",
-        "sin": "sloth",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "gloom",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "pride",
-        "type": "evade"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "pride",
       "sloth",
@@ -4067,36 +2118,15 @@
     "rarity": 3,
     "releaseDate": "2024-02-08",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/The_Pequod_Captain_Ishmael_Uptied.png/256px-The_Pequod_Captain_Ishmael_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "envy",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill2",
-        "sin": "pride",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "wrath",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "pride",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "envy",
       "pride",
       "wrath"
     ],
     "statusTags": [
-      "bleed",
       "burn",
+      "bleed",
       "poise"
     ]
   },
@@ -4108,28 +2138,7 @@
     "rarity": 3,
     "releaseDate": "2024-10-03",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Zwei_Assoc._West_Section_3_Ishmael_Uptied.png/256px-Zwei_Assoc._West_Section_3_Ishmael_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "pride",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "envy",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "gluttony",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "pride",
-        "type": "clashable_guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "pride",
       "envy",
@@ -4147,28 +2156,7 @@
     "rarity": 3,
     "releaseDate": "2025-02-06",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Kurokumo_Clan_Captain_Ishmael_Uptied.png/256px-Kurokumo_Clan_Captain_Ishmael_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "envy",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "pride",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "lust",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "lust",
-        "type": "evade"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "envy",
       "pride",
@@ -4186,28 +2174,7 @@
     "rarity": 3,
     "releaseDate": "2025-06-05",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Family_Hierarch_Candidate_Ishmael_Uptied.png/256px-Family_Hierarch_Candidate_Ishmael_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "gloom",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "gluttony",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "envy",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "gloom",
-        "type": "evade"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "gloom",
       "gluttony",
@@ -4226,28 +2193,7 @@
     "rarity": 3,
     "releaseDate": "2025-11-06",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Jeong's_Office_Rep_Ishmael_Uptied.png/256px-Jeong's_Office_Rep_Ishmael_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "wrath",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "sloth",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "gloom",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "pride",
-        "type": "slash"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "wrath",
       "sloth",
@@ -4267,29 +2213,8 @@
     "sinner": "Ishmael",
     "rarity": 3,
     "releaseDate": "2026-01-22",
-    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Placeholder_Identity.png/256px-Placeholder_Identity.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "lust",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "wrath",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "envy",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "envy",
-        "type": "blunt"
-      }
-    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/The_House_of_Spiders_The_Middle_Apprentice_Ishmael_Uptied.png/256px-The_House_of_Spiders_The_Middle_Apprentice_Ishmael_Uptied.png",
+    "skills": [],
     "affinities": [
       "lust",
       "wrath",
@@ -4301,6 +2226,25 @@
     ]
   },
   {
+    "page": "LCD_OSIR_Team_Ishmael",
+    "name": "LCD OSIR Team Ishmael",
+    "prefix": "LCD OSIR Team",
+    "sinner": "Ishmael",
+    "rarity": 3,
+    "releaseDate": "2026-06-11",
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/LCD_OSIR_Team_Ishmael_Uptied.png/256px-LCD_OSIR_Team_Ishmael_Uptied.png",
+    "skills": [],
+    "affinities": [
+      "wrath",
+      "gloom",
+      "pride"
+    ],
+    "statusTags": [
+      "bleed",
+      "poise"
+    ]
+  },
+  {
     "page": "LCB_Sinner_Rodion",
     "name": "LCB Sinner Rodion",
     "prefix": "LCB Sinner",
@@ -4308,28 +2252,7 @@
     "rarity": 1,
     "releaseDate": "2023-02-27",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/LCB_Sinner_Rodion.png/256px-LCB_Sinner_Rodion.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "gluttony",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "pride",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "wrath",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "wrath",
-        "type": "slash"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "gluttony",
       "pride",
@@ -4347,28 +2270,7 @@
     "rarity": 2,
     "releaseDate": "2023-02-27",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/LCCB_Assistant_Manager_Rodion_Uptied.png/256px-LCCB_Assistant_Manager_Rodion_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "pride",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "gluttony",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "envy",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "envy",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "pride",
       "gluttony",
@@ -4384,28 +2286,7 @@
     "rarity": 2,
     "releaseDate": "2023-03-09",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/N_Corp._Mittelhammer_Rodion_Uptied.png/256px-N_Corp._Mittelhammer_Rodion_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "pride",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill2",
-        "sin": "lust",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "wrath",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "wrath",
-        "type": "pierce"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "pride",
       "wrath",
@@ -4423,28 +2304,7 @@
     "rarity": 2,
     "releaseDate": "2023-07-13",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Zwei_Assoc._South_Section_5_Rodion_Uptied.png/256px-Zwei_Assoc._South_Section_5_Rodion_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "wrath",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "sloth",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "gloom",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "wrath",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "wrath",
       "sloth",
@@ -4462,28 +2322,7 @@
     "rarity": 2,
     "releaseDate": "2024-06-27",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/T_Corp._Class_2_Collection_Staff_Rodion_Uptied.png/256px-T_Corp._Class_2_Collection_Staff_Rodion_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "envy",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "wrath",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "sloth",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "sloth",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "envy",
       "wrath",
@@ -4501,28 +2340,7 @@
     "rarity": 3,
     "releaseDate": "2023-02-27",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Kurokumo_Clan_Wakashu_Rodion_Uptied.png/256px-Kurokumo_Clan_Wakashu_Rodion_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "gloom",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "lust",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "pride",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "pride",
-        "type": "slash"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "gloom",
       "lust",
@@ -4541,28 +2359,7 @@
     "rarity": 3,
     "releaseDate": "2023-06-01",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Rosespanner_Workshop_Rep_Rodion_Uptied.png/256px-Rosespanner_Workshop_Rep_Rodion_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "pride",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "gloom",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "envy",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "sloth",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "pride",
       "gloom",
@@ -4570,8 +2367,8 @@
       "sloth"
     ],
     "statusTags": [
-      "charge",
-      "tremor"
+      "tremor",
+      "charge"
     ]
   },
   {
@@ -4582,28 +2379,7 @@
     "rarity": 3,
     "releaseDate": "2023-09-21",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Dieci_Assoc._South_Section_4_Rodion_Uptied.png/256px-Dieci_Assoc._South_Section_4_Rodion_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "gloom",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "envy",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "sloth",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "gloom",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "gloom",
       "envy",
@@ -4621,28 +2397,7 @@
     "rarity": 3,
     "releaseDate": "2024-03-07",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Liu_Assoc._South_Section_4_Director_Rodion_Uptied.png/256px-Liu_Assoc._South_Section_4_Director_Rodion_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "pride",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "wrath",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "lust",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "wrath",
-        "type": "blunt"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "pride",
       "wrath",
@@ -4660,28 +2415,7 @@
     "rarity": 3,
     "releaseDate": "2024-09-19",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Devyat'_Assoc._North_Section_3_Rodion_Uptied.png/256px-Devyat'_Assoc._North_Section_3_Rodion_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "lust",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "wrath",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "gluttony",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "gluttony",
-        "type": "slash"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "lust",
       "wrath",
@@ -4699,28 +2433,7 @@
     "rarity": 3,
     "releaseDate": "2024-11-14",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/The_Princess_of_La_Manchaland_Rodion_Uptied.png/256px-The_Princess_of_La_Manchaland_Rodion_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "pride",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill2",
-        "sin": "envy",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "lust",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "lust",
-        "type": "pierce"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "pride",
       "envy",
@@ -4739,28 +2452,7 @@
     "rarity": 3,
     "releaseDate": "2025-05-15",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Heishou_Pack_-_Si_Branch_Rodion_Uptied.png/256px-Heishou_Pack_-_Si_Branch_Rodion_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "envy",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "gluttony",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "gloom",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "gluttony",
-        "type": "clashable_guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "envy",
       "gluttony",
@@ -4779,28 +2471,7 @@
     "rarity": 3,
     "releaseDate": "2025-07-17",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Lobotomy_E.G.O_The_Sword_Sharpened_with_Tears_Rodion_Uptied.png/256px-Lobotomy_E.G.O_The_Sword_Sharpened_with_Tears_Rodion_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "gloom",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill2",
-        "sin": "envy",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "pride",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "gloom",
-        "type": "clashable_guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "gloom",
       "envy",
@@ -4819,28 +2490,7 @@
     "rarity": 3,
     "releaseDate": "2025-12-18",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/R_Corp._4th_Pack_Reindeer_Rodion_Uptied.png/256px-R_Corp._4th_Pack_Reindeer_Rodion_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "gloom",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "envy",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "wrath",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "envy",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "gloom",
       "envy",
@@ -4852,6 +2502,47 @@
     ]
   },
   {
+    "page": "The_Ring_Fauvist_Docent_Rodion",
+    "name": "The Ring Fauvist Docent Rodion",
+    "prefix": "The Ring Fauvist Docent",
+    "sinner": "Rodion",
+    "rarity": 3,
+    "releaseDate": "2026-04-16",
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/The_Ring_Fauvist_Docent_Rodion_Uptied.png/256px-The_Ring_Fauvist_Docent_Rodion_Uptied.png",
+    "skills": [],
+    "affinities": [
+      "gloom",
+      "envy",
+      "lust"
+    ],
+    "statusTags": [
+      "bleed",
+      "sinking"
+    ]
+  },
+  {
+    "page": "The_House_of_Spiders:_The_Thumb_Nursefather_Rodion",
+    "name": "The House of Spiders: The Thumb Nursefather Rodion",
+    "prefix": "The House of Spiders: The Thumb Nursefather",
+    "sinner": "Rodion",
+    "rarity": 3,
+    "releaseDate": "2026-06-25",
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/The_House_of_Spiders_The_Thumb_Nursefather_Rodion_Uptied.png/256px-The_House_of_Spiders_The_Thumb_Nursefather_Rodion_Uptied.png",
+    "skills": [],
+    "affinities": [
+      "pride",
+      "sloth",
+      "wrath",
+      "lust",
+      "gloom"
+    ],
+    "statusTags": [
+      "burn",
+      "tremor",
+      "poise"
+    ]
+  },
+  {
     "page": "LCB_Sinner_Sinclair",
     "name": "LCB Sinner Sinclair",
     "prefix": "LCB Sinner",
@@ -4859,28 +2550,7 @@
     "rarity": 1,
     "releaseDate": "2023-02-27",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/LCB_Sinner_Sinclair.png/256px-LCB_Sinner_Sinclair.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "pride",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "wrath",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "envy",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "pride",
-        "type": "slash"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "pride",
       "wrath",
@@ -4898,28 +2568,7 @@
     "rarity": 2,
     "releaseDate": "2023-02-27",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Zwei_Assoc._South_Section_6_Sinclair_Uptied.png/256px-Zwei_Assoc._South_Section_6_Sinclair_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "gloom",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "wrath",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "sloth",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "gloom",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "gloom",
       "wrath",
@@ -4937,36 +2586,15 @@
     "rarity": 2,
     "releaseDate": "2023-02-27",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Los_Mariachis_Jefe_Sinclair_Uptied.png/256px-Los_Mariachis_Jefe_Sinclair_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "sloth",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "envy",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "gloom",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "gloom",
-        "type": "evade"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "sloth",
       "envy",
       "gloom"
     ],
     "statusTags": [
-      "poise",
-      "sinking"
+      "sinking",
+      "poise"
     ]
   },
   {
@@ -4977,28 +2605,7 @@
     "rarity": 2,
     "releaseDate": "2023-06-29",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Lobotomy_E.G.O_Red_Sheet_Sinclair_Uptied.png/256px-Lobotomy_E.G.O_Red_Sheet_Sinclair_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "gluttony",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "pride",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "lust",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "gluttony",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "gluttony",
       "pride",
@@ -5016,28 +2623,7 @@
     "rarity": 2,
     "releaseDate": "2023-07-27",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Molar_Boatworks_Fixer_Sinclair_Uptied.png/256px-Molar_Boatworks_Fixer_Sinclair_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "gloom",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "envy",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "gluttony",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "gloom",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "gloom",
       "envy",
@@ -5055,28 +2641,7 @@
     "rarity": 2,
     "releaseDate": "2024-10-10",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Zwei_Assoc._West_Section_3_Sinclair_Uptied.png/256px-Zwei_Assoc._West_Section_3_Sinclair_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "lust",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "gloom",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "sloth",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "sloth",
-        "type": "clashable_guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "lust",
       "gloom",
@@ -5094,28 +2659,7 @@
     "rarity": 3,
     "releaseDate": "2023-02-27",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Blade_Lineage_Salsu_Sinclair_Uptied.png/256px-Blade_Lineage_Salsu_Sinclair_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "gluttony",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill2",
-        "sin": "wrath",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "pride",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "wrath",
-        "type": "pierce"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "gluttony",
       "wrath",
@@ -5134,28 +2678,7 @@
     "rarity": 3,
     "releaseDate": "2023-05-03",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/The_One_Who_Shall_Grip_Sinclair_Uptied.png/256px-The_One_Who_Shall_Grip_Sinclair_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "gloom",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "lust",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "wrath",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "pride",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "gloom",
       "lust",
@@ -5175,28 +2698,7 @@
     "rarity": 3,
     "releaseDate": "2023-12-21",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Cinq_Assoc._South_Section_4_Director_Sinclair_Uptied.png/256px-Cinq_Assoc._South_Section_4_Director_Sinclair_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "gluttony",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill2",
-        "sin": "pride",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "lust",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "gluttony",
-        "type": "evade"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "gluttony",
       "pride",
@@ -5214,28 +2716,7 @@
     "rarity": 3,
     "releaseDate": "2024-05-02",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Dawn_Office_Fixer_Sinclair_Uptied.png/256px-Dawn_Office_Fixer_Sinclair_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "gloom",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "envy",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "wrath",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "lust",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "gloom",
       "envy",
@@ -5253,28 +2734,7 @@
     "rarity": 3,
     "releaseDate": "2024-11-28",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Devyat'_Assoc._North_Section_3_Sinclair_Uptied.png/256px-Devyat'_Assoc._North_Section_3_Sinclair_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "lust",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "gluttony",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "wrath",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "gluttony",
-        "type": "blunt"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "lust",
       "gluttony",
@@ -5292,28 +2752,7 @@
     "rarity": 3,
     "releaseDate": "2025-04-03",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/The_Middle_Little_Brother_Sinclair_Uptied.png/256px-The_Middle_Little_Brother_Sinclair_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "gluttony",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "envy",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "envy",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "envy",
-        "type": "blunt"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "gluttony",
       "envy"
@@ -5330,28 +2769,7 @@
     "rarity": 3,
     "releaseDate": "2025-06-19",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/The_Thumb_East_Soldato_II_Sinclair_Uptied.png/256px-The_Thumb_East_Soldato_II_Sinclair_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "lust",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill2",
-        "sin": "sloth",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "wrath",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "pride",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "lust",
       "sloth",
@@ -5371,28 +2789,7 @@
     "rarity": 3,
     "releaseDate": "2025-08-28",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Heishou_Pack_-_You_Branch_Sinclair_Uptied.png/256px-Heishou_Pack_-_You_Branch_Sinclair_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "lust",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "gluttony",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "wrath",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "gluttony",
-        "type": "slash"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "lust",
       "gluttony",
@@ -5404,6 +2801,25 @@
     ]
   },
   {
+    "page": "The_House_of_Spiders:_The_Pinky_Apprentice_Sinclair",
+    "name": "The House of Spiders: The Pinky Apprentice Sinclair",
+    "prefix": "The House of Spiders: The Pinky Apprentice",
+    "sinner": "Sinclair",
+    "rarity": 3,
+    "releaseDate": "2026-02-05",
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/The_House_of_Spiders_The_Pinky_Apprentice_Sinclair_Uptied.png/256px-The_House_of_Spiders_The_Pinky_Apprentice_Sinclair_Uptied.png",
+    "skills": [],
+    "affinities": [
+      "gloom",
+      "pride",
+      "wrath"
+    ],
+    "statusTags": [
+      "poise",
+      "bleed"
+    ]
+  },
+  {
     "page": "LCB_Sinner_Outis",
     "name": "LCB Sinner Outis",
     "prefix": "LCB Sinner",
@@ -5411,28 +2827,7 @@
     "rarity": 1,
     "releaseDate": "2023-02-27",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/LCB_Sinner_Outis.png/256px-LCB_Sinner_Outis.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "sloth",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill2",
-        "sin": "pride",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "gloom",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "sloth",
-        "type": "evade"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "sloth",
       "pride",
@@ -5450,28 +2845,7 @@
     "rarity": 2,
     "releaseDate": "2023-02-27",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Blade_Lineage_Salsu_Outis_Uptied.png/256px-Blade_Lineage_Salsu_Outis_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "wrath",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "lust",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "pride",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "pride",
-        "type": "evade"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "wrath",
       "lust",
@@ -5489,28 +2863,7 @@
     "rarity": 2,
     "releaseDate": "2023-02-27",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/G_Corp._Head_Manager_Outis_Uptied.png/256px-G_Corp._Head_Manager_Outis_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "sloth",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill2",
-        "sin": "gluttony",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "gloom",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "sloth",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "sloth",
       "gluttony",
@@ -5528,28 +2881,7 @@
     "rarity": 2,
     "releaseDate": "2023-12-21",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Cinq_Assoc._South_Section_4_Outis_Uptied.png/256px-Cinq_Assoc._South_Section_4_Outis_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "pride",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill2",
-        "sin": "gloom",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "lust",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "pride",
-        "type": "evade"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "pride",
       "gloom",
@@ -5567,38 +2899,17 @@
     "rarity": 2,
     "releaseDate": "2024-05-16",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/The_Ring_Pointillist_Student_Outis_Uptied.png/256px-The_Ring_Pointillist_Student_Outis_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "lust",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill2",
-        "sin": "wrath",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "gluttony",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "lust",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "lust",
       "wrath",
       "gluttony"
     ],
     "statusTags": [
-      "bleed",
       "burn",
-      "rupture",
+      "bleed",
       "tremor",
+      "rupture",
       "sinking"
     ]
   },
@@ -5610,28 +2921,7 @@
     "rarity": 3,
     "releaseDate": "2023-04-06",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Seven_Assoc._South_Section_6_Director_Outis_Uptied.png/256px-Seven_Assoc._South_Section_6_Director_Outis_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "gluttony",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "sloth",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "lust",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "gluttony",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "gluttony",
       "sloth",
@@ -5649,28 +2939,7 @@
     "rarity": 3,
     "releaseDate": "2023-09-14",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Molar_Office_Fixer_Outis_Uptied.png/256px-Molar_Office_Fixer_Outis_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "wrath",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "lust",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "sloth",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "sloth",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "wrath",
       "lust",
@@ -5688,28 +2957,7 @@
     "rarity": 3,
     "releaseDate": "2024-01-11",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Lobotomy_E.G.O_Magic_Bullet_Outis_Uptied.png/256px-Lobotomy_E.G.O_Magic_Bullet_Outis_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "wrath",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "pride",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "pride",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "pride",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "wrath",
       "pride"
@@ -5727,28 +2975,7 @@
     "rarity": 3,
     "releaseDate": "2024-03-28",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Wuthering_Heights_Chief_Butler_Outis_Uptied.png/256px-Wuthering_Heights_Chief_Butler_Outis_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "pride",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "gloom",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "lust",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "gloom",
-        "type": "evade"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "pride",
       "gloom",
@@ -5766,36 +2993,15 @@
     "rarity": 3,
     "releaseDate": "2024-07-25",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/W_Corp._L3_Cleanup_Captain_Outis_Uptied.png/256px-W_Corp._L3_Cleanup_Captain_Outis_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "pride",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "envy",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "gloom",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "pride",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "pride",
       "envy",
       "gloom"
     ],
     "statusTags": [
-      "charge",
-      "rupture"
+      "rupture",
+      "charge"
     ]
   },
   {
@@ -5806,28 +3012,7 @@
     "rarity": 3,
     "releaseDate": "2024-10-17",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/The_Barber_of_La_Manchaland_Outis_Uptied.png/256px-The_Barber_of_La_Manchaland_Outis_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "gluttony",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "lust",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "wrath",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "gluttony",
-        "type": "slash"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "gluttony",
       "lust",
@@ -5845,28 +3030,7 @@
     "rarity": 3,
     "releaseDate": "2025-03-20",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Heishou_Pack_-_Mao_Branch_Outis_Uptied.png/256px-Heishou_Pack_-_Mao_Branch_Outis_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "sloth",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "gluttony",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "gloom",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "gluttony",
-        "type": "slash"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "sloth",
       "gluttony",
@@ -5884,28 +3048,7 @@
     "rarity": 3,
     "releaseDate": "2025-07-31",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/T_Corp._Class_3_VDCU_Staff_Outis_Uptied.png/256px-T_Corp._Class_3_VDCU_Staff_Outis_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "pride",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "sloth",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "lust",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "sloth",
-        "type": "clashable_guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "pride",
       "sloth",
@@ -5923,28 +3066,7 @@
     "rarity": 3,
     "releaseDate": "2025-12-31",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/LCA_Udjat_Vanguard_Team_3_Leader_Outis_Uptied.png/256px-LCA_Udjat_Vanguard_Team_3_Leader_Outis_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "pride",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "sloth",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "gloom",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "gloom",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "pride",
       "sloth",
@@ -5956,6 +3078,24 @@
     ]
   },
   {
+    "page": "The_House_of_Spiders:_The_Middle_Nursefather_Outis",
+    "name": "The House of Spiders: The Middle Nursefather Outis",
+    "prefix": "The House of Spiders: The Middle Nursefather",
+    "sinner": "Outis",
+    "rarity": 3,
+    "releaseDate": "2026-05-28",
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/The_House_of_Spiders_The_Middle_Nursefather_Outis_Uptied.png/256px-The_House_of_Spiders_The_Middle_Nursefather_Outis_Uptied.png",
+    "skills": [],
+    "affinities": [
+      "lust",
+      "envy"
+    ],
+    "statusTags": [
+      "burn",
+      "bleed"
+    ]
+  },
+  {
     "page": "LCB_Sinner_Gregor",
     "name": "LCB Sinner Gregor",
     "prefix": "LCB Sinner",
@@ -5963,28 +3103,7 @@
     "rarity": 1,
     "releaseDate": "2023-02-27",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/LCB_Sinner_Gregor.png/256px-LCB_Sinner_Gregor.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "gloom",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "gluttony",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "sloth",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "gloom",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "gloom",
       "gluttony",
@@ -6002,28 +3121,7 @@
     "rarity": 2,
     "releaseDate": "2023-02-27",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Liu_Assoc._South_Section_6_Gregor_Uptied.png/256px-Liu_Assoc._South_Section_6_Gregor_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "wrath",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "lust",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "sloth",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "sloth",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "wrath",
       "lust",
@@ -6041,28 +3139,7 @@
     "rarity": 2,
     "releaseDate": "2023-04-20",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/R.B._Sous-chef_Gregor_Uptied.png/256px-R.B._Sous-chef_Gregor_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "lust",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "gluttony",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "envy",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "lust",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "lust",
       "gluttony",
@@ -6080,37 +3157,16 @@
     "rarity": 2,
     "releaseDate": "2023-06-08",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Rosespanner_Workshop_Fixer_Gregor_Uptied.png/256px-Rosespanner_Workshop_Fixer_Gregor_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "gluttony",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "envy",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "gloom",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "gluttony",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "gluttony",
       "envy",
       "gloom"
     ],
     "statusTags": [
-      "charge",
       "tremor",
-      "rupture"
+      "rupture",
+      "charge"
     ]
   },
   {
@@ -6121,28 +3177,7 @@
     "rarity": 2,
     "releaseDate": "2024-02-22",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Kurokumo_Clan_Captain_Gregor_Uptied.png/256px-Kurokumo_Clan_Captain_Gregor_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "sloth",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "lust",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "gloom",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "lust",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "sloth",
       "lust",
@@ -6160,28 +3195,7 @@
     "rarity": 3,
     "releaseDate": "2023-02-27",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/G_Corp._Manager_Corporal_Gregor_Uptied.png/256px-G_Corp._Manager_Corporal_Gregor_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "gluttony",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "sloth",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "lust",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "gluttony",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "gluttony",
       "sloth",
@@ -6199,28 +3213,7 @@
     "rarity": 3,
     "releaseDate": "2023-08-10",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Zwei_Assoc._South_Section_4_Gregor_Uptied.png/256px-Zwei_Assoc._South_Section_4_Gregor_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "sloth",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "gluttony",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "gloom",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "sloth",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "sloth",
       "gluttony",
@@ -6236,28 +3229,7 @@
     "rarity": 3,
     "releaseDate": "2023-11-16",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Twinhook_Pirates_First_Mate_Gregor_Uptied.png/256px-Twinhook_Pirates_First_Mate_Gregor_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "sloth",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill2",
-        "sin": "pride",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "gloom",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "gloom",
-        "type": "evade"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "sloth",
       "pride",
@@ -6276,28 +3248,7 @@
     "rarity": 3,
     "releaseDate": "2024-04-04",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Edgar_Family_Heir_Gregor_Uptied.png/256px-Edgar_Family_Heir_Gregor_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "envy",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "gloom",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "lust",
-        "type": "slash"
-      },
-      {
-        "slot": "defense",
-        "sin": "gloom",
-        "type": "evade"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "envy",
       "gloom",
@@ -6315,28 +3266,7 @@
     "rarity": 3,
     "releaseDate": "2024-10-31",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/The_Priest_of_La_Manchaland_Gregor_Uptied.png/256px-The_Priest_of_La_Manchaland_Gregor_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "gluttony",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "pride",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "lust",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "lust",
-        "type": "guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "gluttony",
       "pride",
@@ -6355,28 +3285,7 @@
     "rarity": 3,
     "releaseDate": "2025-03-06",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Firefist_Office_Survivor_Gregor_Uptied.png/256px-Firefist_Office_Survivor_Gregor_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "lust",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "wrath",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "wrath",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "gloom",
-        "type": "blunt"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "lust",
       "wrath",
@@ -6394,28 +3303,7 @@
     "rarity": 3,
     "releaseDate": "2025-05-15",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Heishou_Pack_-_Si_Branch_Gregor_Uptied.png/256px-Heishou_Pack_-_Si_Branch_Gregor_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "pride",
-        "type": "slash"
-      },
-      {
-        "slot": "skill2",
-        "sin": "gluttony",
-        "type": "slash"
-      },
-      {
-        "slot": "skill3",
-        "sin": "envy",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "gluttony",
-        "type": "clashable_guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "pride",
       "gluttony",
@@ -6434,28 +3322,7 @@
     "rarity": 3,
     "releaseDate": "2025-11-06",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Night_Awls_Capitano_Gregor_Uptied.png/256px-Night_Awls_Capitano_Gregor_Uptied.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "sloth",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill2",
-        "sin": "lust",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "pride",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "lust",
-        "type": "clashable_guard"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "sloth",
       "lust",
@@ -6463,6 +3330,63 @@
     ],
     "statusTags": [
       "bleed",
+      "tremor"
+    ]
+  },
+  {
+    "page": "Lobotomy_E.G.O::Lamp_Gregor",
+    "name": "Lobotomy E.G.O::Lamp Gregor",
+    "prefix": "Lobotomy E.G.O::Lamp",
+    "sinner": "Gregor",
+    "rarity": 3,
+    "releaseDate": "2026-02-05",
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Lobotomy_E.G.O_Lamp_Gregor_Uptied.png/256px-Lobotomy_E.G.O_Lamp_Gregor_Uptied.png",
+    "skills": [],
+    "affinities": [
+      "wrath",
+      "gloom",
+      "pride"
+    ],
+    "statusTags": [
+      "burn",
+      "sinking"
+    ]
+  },
+  {
+    "page": "LCE_E.G.O::AEDD_Gregor",
+    "name": "LCE E.G.O::AEDD Gregor",
+    "prefix": "LCE E.G.O::AEDD",
+    "sinner": "Gregor",
+    "rarity": 3,
+    "releaseDate": "2026-03-19",
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/LCE_E.G.O_AEDD_Gregor_Uptied.png/256px-LCE_E.G.O_AEDD_Gregor_Uptied.png",
+    "skills": [],
+    "affinities": [
+      "gluttony",
+      "gloom",
+      "envy"
+    ],
+    "statusTags": [
+      "charge",
+      "rupture"
+    ]
+  },
+  {
+    "page": "Dawn_Office_Rep_Gregor",
+    "name": "Dawn Office Rep Gregor",
+    "prefix": "Dawn Office Rep",
+    "sinner": "Gregor",
+    "rarity": 3,
+    "releaseDate": "2026-07-09",
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Dawn_Office_Rep_Gregor_Uptied.png/256px-Dawn_Office_Rep_Gregor_Uptied.png",
+    "skills": [],
+    "affinities": [
+      "sloth",
+      "pride",
+      "wrath"
+    ],
+    "statusTags": [
+      "burn",
       "tremor"
     ]
   }

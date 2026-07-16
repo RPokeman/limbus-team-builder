@@ -14,7 +14,8 @@
       "LCE_E.G.O::Lantern_Yi_Sang": 11,
       "Liu_Assoc._South_Section_3_Yi_Sang": 12,
       "N_Corp._E.G.O::Fell_Bullet_Yi_Sang": 13,
-      "Heishou_Pack_-_Wu_Branch_Adept_Yi_Sang": 14
+      "Heishou_Pack_-_Wu_Branch_Adept_Yi_Sang": 14,
+      "The_House_of_Spiders:_The_Index_Nursefather_Yi_Sang": 15
     },
     "Faust": {
       "LCB_Sinner_Faust": 1,
@@ -30,7 +31,9 @@
       "LCE_E.G.O::Ardor_Blossom_Star_Faust": 11,
       "Heishou_Pack_-_Mao_Branch_Adept_Faust": 12,
       "Shi_Assoc._East_Section_3_Faust": 13,
-      "The_Index_Proselyte:【Paper_Slip】Faust": 14
+      "The_Index_Proselyte:【Paper_Slip】Faust": 14,
+      "The_House_of_Spiders:_The_Ring_Apprentice_Faust": 15,
+      "Dawn_Office_Fixer_Faust": 16
     },
     "Don Quixote": {
       "LCB_Sinner_Don_Quixote": 1,
@@ -61,7 +64,9 @@
       "Lobotomy_E.G.O::Red_Eyes_&_Penitence_Ryōshū": 10,
       "Heishou_Pack_-_Mao_Branch_Ryōshū": 11,
       "N_Corp._E.G.O::Contempt,_Awe_Ryōshū": 12,
-      "Drifting_Blade_of_Hongyuan_Ryōshū": 13
+      "Drifting_Blade_of_Hongyuan_Ryōshū": 13,
+      "Lobotomy_E.G.O::Faint_Aroma_&_Solitude_Ryōshū": 14,
+      "Blade_of_the_House_of_Spiders_Ryōshū": 15
     },
     "Meursault": {
       "LCB_Sinner_Meursault": 1,
@@ -76,7 +81,9 @@
       "Dieci_Assoc._South_Section_4_Director_Meursault": 10,
       "Cinq_Assoc._West_Section_3_Meursault": 11,
       "The_Thumb_East_Capo_IIII_Meursault": 12,
-      "The_Prince_of_La_Manchaland_Meursault": 13
+      "The_Prince_of_La_Manchaland_Meursault": 13,
+      "Lobotomy_E.G.O::Hornet【Alteration】Meursault": 14,
+      "The_Ring_Fauvist_Student_Meursault": 15
     },
     "Hong Lu": {
       "LCB_Sinner_Hong_Lu": 1,
@@ -91,7 +98,9 @@
       "Fanghunt_Office_Fixer_Hong_Lu": 10,
       "Full-Stop_Office_Rep_Hong_Lu": 11,
       "R_Corp._4th_Pack_Reindeer_Hong_Lu": 12,
-      "The_Lord_of_Hongyuan_Hong_Lu": 13
+      "The_Lord_of_Hongyuan_Hong_Lu": 13,
+      "The_House_of_Spiders:_The_Ring_Nursefather_Hong_Lu": 14,
+      "S_Corp._Ch'unokkun_Hong_Lu": 15
     },
     "Heathcliff": {
       "LCB_Sinner_Heathcliff": 1,
@@ -107,7 +116,9 @@
       "Full-Stop_Office_Fixer_Heathcliff": 11,
       "Kurokumo_Clan_Wakashu_Heathcliff": 12,
       "W_Corp._L4_Cleanup_Agent_-_CCA_Heathcliff": 13,
-      "Heishou_Pack_-_You_Branch_Adept_Heathcliff": 14
+      "Heishou_Pack_-_You_Branch_Adept_Heathcliff": 14,
+      "The_Middle_Big_Brother_Heathcliff": 15,
+      "The_House_of_Spiders:_The_Thumb_Apprentice_Heathcliff": 16
     },
     "Ishmael": {
       "LCB_Sinner_Ishmael": 1,
@@ -123,7 +134,8 @@
       "Kurokumo_Clan_Captain_Ishmael": 11,
       "Family_Hierarch_Candidate_Ishmael": 12,
       "Jeong's_Office_Rep_Ishmael": 13,
-      "The_House_of_Spiders:_The_Middle_Apprentice_Ishmael": 14
+      "The_House_of_Spiders:_The_Middle_Apprentice_Ishmael": 14,
+      "LCD_OSIR_Team_Ishmael": 15
     },
     "Rodion": {
       "LCB_Sinner_Rodion": 1,
@@ -139,7 +151,9 @@
       "The_Princess_of_La_Manchaland_Rodion": 11,
       "Heishou_Pack_-_Si_Branch_Rodion": 12,
       "Lobotomy_E.G.O::The_Sword_Sharpened_with_Tears_Rodion": 13,
-      "R_Corp._4th_Pack_Reindeer_Rodion": 14
+      "R_Corp._4th_Pack_Reindeer_Rodion": 14,
+      "The_Ring_Fauvist_Docent_Rodion": 15,
+      "The_House_of_Spiders:_The_Thumb_Nursefather_Rodion": 16
     },
     "Sinclair": {
       "LCB_Sinner_Sinclair": 1,
@@ -155,7 +169,8 @@
       "Devyat'_Assoc._North_Section_3_Sinclair": 11,
       "The_Middle_Little_Brother_Sinclair": 12,
       "The_Thumb_East_Soldato_II_Sinclair": 13,
-      "Heishou_Pack_-_You_Branch_Sinclair": 14
+      "Heishou_Pack_-_You_Branch_Sinclair": 14,
+      "The_House_of_Spiders:_The_Pinky_Apprentice_Sinclair": 15
     },
     "Outis": {
       "LCB_Sinner_Outis": 1,
@@ -171,7 +186,8 @@
       "The_Barber_of_La_Manchaland_Outis": 11,
       "Heishou_Pack_-_Mao_Branch_Outis": 12,
       "T_Corp._Class_3_VDCU_Staff_Outis": 13,
-      "LCA_Udjat_Vanguard_Team_3_Leader_Outis": 14
+      "LCA_Udjat_Vanguard_Team_3_Leader_Outis": 14,
+      "The_House_of_Spiders:_The_Middle_Nursefather_Outis": 15
     },
     "Gregor": {
       "LCB_Sinner_Gregor": 1,
@@ -186,7 +202,10 @@
       "The_Priest_of_La_Manchaland_Gregor": 10,
       "Firefist_Office_Survivor_Gregor": 11,
       "Heishou_Pack_-_Si_Branch_Gregor": 12,
-      "Night_Awls_Capitano_Gregor": 13
+      "Night_Awls_Capitano_Gregor": 13,
+      "Lobotomy_E.G.O::Lamp_Gregor": 14,
+      "LCE_E.G.O::AEDD_Gregor": 15,
+      "Dawn_Office_Rep_Gregor": 16
     }
   },
   "egoOrdinal": {
@@ -201,7 +220,8 @@
       },
       "HE": {
         "Dimension_Shredder_Yi_Sang": 1,
-        "Fell_Bullet_Yi_Sang": 2
+        "Fell_Bullet_Yi_Sang": 2,
+        "Solemn_Lament_Yi_Sang": 3
       },
       "WAW": {
         "Sunshower_Yi_Sang": 1,
@@ -221,7 +241,8 @@
         "Fluid_Sac_Faust": 1,
         "Telepole_Faust": 2,
         "Thoracalgia_Faust": 3,
-        "Command_:_Meltdown_Faust": 4
+        "Command_:_Meltdown_Faust": 4,
+        "Ardor_Blossom_Star_Faust": 5
       },
       "WAW": {
         "Everlasting_Faust": 1
@@ -276,7 +297,8 @@
       },
       "HE": {
         "Pursuance_Meursault": 1,
-        "Capote_Meursault": 2
+        "Capote_Meursault": 2,
+        "Shadow-vested_Bladesinger_着影揮刀_Meursault": 3
       },
       "WAW": {
         "Yearning-Mircalla_Meursault": 1,
@@ -343,7 +365,8 @@
     },
     "Rodion": {
       "ZAYIN": {
-        "What_is_Cast_Rodion": 1
+        "What_is_Cast_Rodion": 1,
+        "Into_the_Sunset_Rodion": 2
       },
       "TETH": {
         "Rime_Shank_Rodion": 1,
@@ -371,7 +394,8 @@
       },
       "HE": {
         "Lantern_Sinclair": 1,
-        "9:2_Sinclair": 2
+        "9:2_Sinclair": 2,
+        "Harmony_Sinclair": 3
       },
       "WAW": {
         "Tears_of_the_Tarnished_Blood_汚血泣淚_Sinclair": 1
@@ -398,8 +422,8 @@
     },
     "Gregor": {
       "ZAYIN": {
-        "Suddenly,_One_Day_Gregor": 1,
-        "Legerdemain_Gregor": 2
+        "Legerdemain_Gregor": 1,
+        "Suddenly,_One_Day_Gregor": 2
       },
       "TETH": {
         "Lantern_Gregor": 1,

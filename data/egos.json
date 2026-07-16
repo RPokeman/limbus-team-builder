@@ -4,8 +4,8 @@
     "name": "Crow's Eye View Yi Sang",
     "sinner": "Yi Sang",
     "tier": "ZAYIN",
-    "releaseDate": null,
-    "isDefault": true,
+    "releaseDate": "2023-02-27",
+    "isDefault": false,
     "affinity": "sloth",
     "type": "pierce",
     "cost": {
@@ -136,11 +136,35 @@
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Fell_Bullet_Yi_Sang.png/130px-Fell_Bullet_Yi_Sang.png"
   },
   {
+    "page": "Solemn_Lament_Yi_Sang",
+    "name": "Solemn Lament Yi Sang",
+    "sinner": "Yi Sang",
+    "tier": "HE",
+    "releaseDate": "2026-07-09",
+    "isDefault": false,
+    "affinity": "gloom",
+    "type": "pierce",
+    "cost": {
+      "wrath": 0,
+      "lust": 0,
+      "sloth": 1,
+      "gluttony": 0,
+      "gloom": 4,
+      "pride": 2,
+      "envy": 0
+    },
+    "statusTags": [
+      "sinking",
+      "tremor"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Solemn_Lament_Yi_Sang.png/130px-Solemn_Lament_Yi_Sang.png"
+  },
+  {
     "page": "Sunshower_Yi_Sang",
     "name": "Sunshower Yi Sang",
     "sinner": "Yi Sang",
     "tier": "WAW",
-    "releaseDate": "2023-06-16",
+    "releaseDate": "2023-06-15",
     "isDefault": false,
     "affinity": "sloth",
     "type": "pierce",
@@ -186,8 +210,8 @@
     "name": "Representation Emitter Faust",
     "sinner": "Faust",
     "tier": "ZAYIN",
-    "releaseDate": null,
-    "isDefault": true,
+    "releaseDate": "2023-02-27",
+    "isDefault": false,
     "affinity": "pride",
     "type": "blunt",
     "cost": {
@@ -361,6 +385,29 @@
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Command_-_Meltdown_Faust.png/130px-Command_-_Meltdown_Faust.png"
   },
   {
+    "page": "Ardor_Blossom_Star_Faust",
+    "name": "Ardor Blossom Star Faust",
+    "sinner": "Faust",
+    "tier": "HE",
+    "releaseDate": "2026-03-19",
+    "isDefault": false,
+    "affinity": "wrath",
+    "type": "blunt",
+    "cost": {
+      "wrath": 3,
+      "lust": 0,
+      "sloth": 2,
+      "gluttony": 0,
+      "gloom": 0,
+      "pride": 2,
+      "envy": 0
+    },
+    "statusTags": [
+      "burn"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Ardor_Blossom_Star_Faust.png/130px-Ardor_Blossom_Star_Faust.png"
+  },
+  {
     "page": "Everlasting_Faust",
     "name": "Everlasting Faust",
     "sinner": "Faust",
@@ -388,8 +435,8 @@
     "name": "La Sangre de Sancho Don Quixote",
     "sinner": "Don Quixote",
     "tier": "ZAYIN",
-    "releaseDate": null,
-    "isDefault": true,
+    "releaseDate": "2023-02-27",
+    "isDefault": false,
     "affinity": "lust",
     "type": "pierce",
     "cost": {
@@ -601,8 +648,8 @@
     "name": "Forest for the Flames Ryōshū",
     "sinner": "Ryōshū",
     "tier": "ZAYIN",
-    "releaseDate": null,
-    "isDefault": true,
+    "releaseDate": "2023-02-27",
+    "isDefault": false,
     "affinity": "lust",
     "type": "slash",
     "cost": {
@@ -807,8 +854,8 @@
     "name": "Chains of Others Meursault",
     "sinner": "Meursault",
     "tier": "ZAYIN",
-    "releaseDate": null,
-    "isDefault": true,
+    "releaseDate": "2023-02-27",
+    "isDefault": false,
     "affinity": "pride",
     "type": "blunt",
     "cost": {
@@ -937,6 +984,30 @@
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Capote_Meursault.png/130px-Capote_Meursault.png"
   },
   {
+    "page": "Shadow-vested_Bladesinger_着影揮刀_Meursault",
+    "name": "Shadow-vested Bladesinger 着影揮刀 Meursault",
+    "sinner": "Meursault",
+    "tier": "HE",
+    "releaseDate": "2026-06-11",
+    "isDefault": false,
+    "affinity": "pride",
+    "type": "slash",
+    "cost": {
+      "wrath": 1,
+      "lust": 0,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 0,
+      "pride": 4,
+      "envy": 1
+    },
+    "statusTags": [
+      "poise",
+      "bleed"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Shadow-vested_Bladesinger_%E7%9D%80%E5%BD%B1%E6%8F%AE%E5%88%80_Meursault.png/130px-Shadow-vested_Bladesinger_%E7%9D%80%E5%BD%B1%E6%8F%AE%E5%88%80_Meursault.png"
+  },
+  {
     "page": "Yearning-Mircalla_Meursault",
     "name": "Yearning-Mircalla Meursault",
     "sinner": "Meursault",
@@ -987,8 +1058,8 @@
     "name": "Land of Illusion Hong Lu",
     "sinner": "Hong Lu",
     "tier": "ZAYIN",
-    "releaseDate": null,
-    "isDefault": true,
+    "releaseDate": "2023-02-27",
+    "isDefault": false,
     "affinity": "gloom",
     "type": "blunt",
     "cost": {
@@ -1194,8 +1265,8 @@
     "name": "Bodysack Heathcliff",
     "sinner": "Heathcliff",
     "tier": "ZAYIN",
-    "releaseDate": null,
-    "isDefault": true,
+    "releaseDate": "2023-02-27",
+    "isDefault": false,
     "affinity": "envy",
     "type": "blunt",
     "cost": {
@@ -1407,8 +1478,8 @@
     "name": "Snagharpoon Ishmael",
     "sinner": "Ishmael",
     "tier": "ZAYIN",
-    "releaseDate": null,
-    "isDefault": true,
+    "releaseDate": "2023-02-27",
+    "isDefault": false,
     "affinity": "gloom",
     "type": "blunt",
     "cost": {
@@ -1640,8 +1711,8 @@
     "name": "What is Cast Rodion",
     "sinner": "Rodion",
     "tier": "ZAYIN",
-    "releaseDate": null,
-    "isDefault": true,
+    "releaseDate": "2023-02-27",
+    "isDefault": false,
     "affinity": "pride",
     "type": "slash",
     "cost": {
@@ -1657,6 +1728,30 @@
       "bleed"
     ],
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/What_is_Cast_Rodion.png/130px-What_is_Cast_Rodion.png"
+  },
+  {
+    "page": "Into_the_Sunset_Rodion",
+    "name": "Into the Sunset Rodion",
+    "sinner": "Rodion",
+    "tier": "ZAYIN",
+    "releaseDate": "2026-04-30",
+    "isDefault": false,
+    "affinity": "lust",
+    "type": "blunt",
+    "cost": {
+      "wrath": 2,
+      "lust": 3,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 0,
+      "pride": 0,
+      "envy": 0
+    },
+    "statusTags": [
+      "burn",
+      "bleed"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Into_the_Sunset_Rodion.png/130px-Into_the_Sunset_Rodion.png"
   },
   {
     "page": "Rime_Shank_Rodion",
@@ -1822,8 +1917,8 @@
     "name": "Branch of Knowledge Sinclair",
     "sinner": "Sinclair",
     "tier": "ZAYIN",
-    "releaseDate": null,
-    "isDefault": true,
+    "releaseDate": "2023-02-27",
+    "isDefault": false,
     "affinity": "gluttony",
     "type": "slash",
     "cost": {
@@ -1979,6 +2074,30 @@
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/9-2_Sinclair.png/130px-9-2_Sinclair.png"
   },
   {
+    "page": "Harmony_Sinclair",
+    "name": "Harmony Sinclair",
+    "sinner": "Sinclair",
+    "tier": "HE",
+    "releaseDate": "2026-03-05",
+    "isDefault": false,
+    "affinity": "wrath",
+    "type": "slash",
+    "cost": {
+      "wrath": 3,
+      "lust": 2,
+      "sloth": 1,
+      "gluttony": 0,
+      "gloom": 0,
+      "pride": 1,
+      "envy": 1
+    },
+    "statusTags": [
+      "burn",
+      "bleed"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Harmony_Sinclair.png/130px-Harmony_Sinclair.png"
+  },
+  {
     "page": "Tears_of_the_Tarnished_Blood_汚血泣淚_Sinclair",
     "name": "Tears of the Tarnished Blood 汚血泣淚 Sinclair",
     "sinner": "Sinclair",
@@ -2006,8 +2125,8 @@
     "name": "To Páthos Máthos Outis",
     "sinner": "Outis",
     "tier": "ZAYIN",
-    "releaseDate": null,
-    "isDefault": true,
+    "releaseDate": "2023-02-27",
+    "isDefault": false,
     "affinity": "pride",
     "type": "pierce",
     "cost": {
@@ -2086,7 +2205,8 @@
     },
     "statusTags": [
       "sinking",
-      "poise"
+      "poise",
+      "rupture"
     ],
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Sunshower_Outis.png/130px-Sunshower_Outis.png"
   },
@@ -2215,8 +2335,8 @@
     "name": "Suddenly, One Day Gregor",
     "sinner": "Gregor",
     "tier": "ZAYIN",
-    "releaseDate": null,
-    "isDefault": true,
+    "releaseDate": "2023-02-27",
+    "isDefault": false,
     "affinity": "sloth",
     "type": "blunt",
     "cost": {
