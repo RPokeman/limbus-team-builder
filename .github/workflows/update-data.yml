@@ -1,4 +1,4 @@
-name: Update Wiki Data
+name: Get updated IDs and EGOs
 
 on:
   schedule:
@@ -8,6 +8,8 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
   group: update-wiki-data
@@ -35,6 +37,11 @@ jobs:
       - name: Scrape wiki data
         run: pnpm scrape
 
+      - name: Build web app
+        run: pnpm -C apps/web build
+        env:
+          VITE_BASE_PATH: /${{ github.event.repository.name }}/
+
       - name: Commit data changes
         run: |
           git config user.name "github-actions[bot]"
@@ -46,3 +53,12 @@ jobs:
             git commit -m "Update wiki data"
             git push
           fi
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: apps/web/dist
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

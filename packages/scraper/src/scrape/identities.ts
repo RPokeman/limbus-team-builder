@@ -35,18 +35,12 @@ export async function scrapeIdentityIndex(wiki: WikiClient): Promise<IdentityInd
   const out: IdentityIndexEntry[] = [];
   const seen = new Set<string>();
 
-  $("img[src*='/images/thumb/']").each((_, img) => {
-    const $img = $(img);
-    const src = $img.attr("src");
-    if (!src) return;
+  $(".IDRec").each((_, card) => {
+    const $card = $(card);
+    const $pageLink = $card.find("a[href^='/wiki/']").first();
+    if ($pageLink.length === 0) return;
 
-    const fileName = fileNameFromThumbSrc(src);
-    if (!fileName) return;
-
-    const $a = $img.closest("a[href^='/wiki/']");
-    if ($a.length === 0) return;
-
-    const href = $a.attr("href");
+    const href = $pageLink.attr("href");
     if (!href) return;
 
     const page = decodeURIComponent(href.replace(/^\/wiki\//, "")).split("#")[0];
@@ -60,9 +54,23 @@ export async function scrapeIdentityIndex(wiki: WikiClient): Promise<IdentityInd
     if (isBadNamespaceTitle(page)) return;
 
     if (seen.has(page)) return;
+
+    // Prefer the normal identity art when both normal and uptied art are present.
+    let $img = $card.find("img.IDArt:not(.IDUptieArt)[src*='/images/thumb/']").first();
+    if ($img.length === 0) {
+      $img = $card.find("img[src*='/images/thumb/']").first();
+    }
+    if ($img.length === 0) return;
+
+    const src = $img.attr("src");
+    if (!src) return;
+
+    const fileName = fileNameFromThumbSrc(src);
+    if (!fileName) return;
+
     seen.add(page);
 
-    const name = ($a.attr("title") ?? page.replace(/_/g, " ")).trim();
+    const name = ($pageLink.attr("title") ?? page.replace(/_/g, " ")).trim();
 
     out.push({
       page,
