@@ -66,11 +66,12 @@ export default function PreviewScreen(props: {
   return (
     <div
       style={{
-        height: "100vh",
+        width: "100%",
+        height: "100%",
         background: "#0b0b0d",
         color: "#eee",
         display: "grid",
-        gridTemplateColumns: "260px 1fr 300px",
+        gridTemplateColumns: "260px minmax(0, 1fr) 300px",
         gap: 12,
         padding: 12,
         boxSizing: "border-box",
@@ -88,6 +89,7 @@ export default function PreviewScreen(props: {
           display: "grid",
           gridTemplateRows: "54px 1fr",
           minHeight: 0,
+          minWidth: 0,
         }}
       >
         <div
@@ -111,7 +113,7 @@ export default function PreviewScreen(props: {
           <TeamReset onReset={onResetTeam} />
         </div>
 
-        <div style={{ padding: 12, minHeight: 0, overflow: "auto" }}>
+        <div className="hide-scrollbar" style={{ padding: 12, minHeight: 0, minWidth: 0, overflow: "auto" }}>
           <TeamPane
             dataset={dataset}
             team={teamState}

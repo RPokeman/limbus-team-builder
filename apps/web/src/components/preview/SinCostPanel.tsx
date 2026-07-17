@@ -69,7 +69,14 @@ export default function SinCostPanel(props: { dataset: Dataset; team: TeamState 
               alignItems: "center",
             }}
           >
-            <img src={sinIconUrl(sin)} alt={sin} style={{ width: 28, height: 28 }} />
+            <img
+              src={sinIconUrl(sin)}
+              alt=""
+              draggable={false}
+              loading="eager"
+              decoding="async"
+              style={{ width: 28, height: 28, display: "block" }}
+            />
             <div
               style={{
                 textAlign: "center",

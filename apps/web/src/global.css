@@ -12,3 +12,38 @@ body,
 * {
   box-sizing: border-box;
 }
+
+button,
+input,
+textarea,
+select {
+  font: inherit;
+}
+
+.game-viewport {
+  position: fixed;
+  inset: 0;
+  overflow: hidden;
+  background: #050507;
+}
+
+.game-stage {
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+  transform-origin: top left;
+  backface-visibility: hidden;
+  contain: layout paint size;
+  background: #0b0b0d;
+  color: #eee;
+}
+
+.hide-scrollbar {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}

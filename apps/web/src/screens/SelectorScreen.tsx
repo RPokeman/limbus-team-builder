@@ -264,14 +264,16 @@ export default function SelectorScreen(props: {
   return (
     <div
       style={{
-        height: "100vh",
+        width: "100%",
+        height: "100%",
         background: "#0b0b0d",
         color: "#eee",
         display: "grid",
-        gridTemplateColumns: "200px 1fr 340px",
+        gridTemplateColumns: "200px minmax(0, 1fr) 340px",
         gap: 12,
         padding: 12,
         boxSizing: "border-box",
+        minHeight: 0,
       }}
     >
       <SinnerRail
@@ -290,6 +292,8 @@ export default function SelectorScreen(props: {
           background: "#0f0f13",
           display: "grid",
           gridTemplateRows: "54px 1fr",
+          minHeight: 0,
+          minWidth: 0,
         }}
       >
         <div
@@ -310,7 +314,7 @@ export default function SelectorScreen(props: {
           <MiniFilterButton open={filterPanelOpen} onToggle={() => setFilterPanelOpen((v) => !v)} />
         </div>
 
-        <div style={{ position: "relative" }}>
+        <div style={{ position: "relative", minHeight: 0, minWidth: 0 }}>
           <CatalogGrid
             mode={mode}
             sinnerSelected={selectedSinnerIndex != null}
@@ -326,7 +330,7 @@ export default function SelectorScreen(props: {
       </div>
 
       {/* Right column wrapper so FilterPanel can overlay the right side area */}
-      <div style={{ position: "relative" }}>
+      <div style={{ position: "relative", minHeight: 0 }}>
         {selectedSinnerIndex != null ? (
           <SelectedIdentityPanel
             sinnerIndex={selectedSinnerIndex}

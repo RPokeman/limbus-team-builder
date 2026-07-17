@@ -147,8 +147,8 @@ export function CatalogGrid(props: {
   };
 
   return (
-    <div style={{ padding: 12 }}>
-      <VerticalDragScroll height={"calc(100vh - 54px - 24px - 24px)"}>
+    <div style={{ padding: 12, height: "100%", minHeight: 0 }}>
+      <VerticalDragScroll height="100%">
         <div
           style={{
             display: "grid",

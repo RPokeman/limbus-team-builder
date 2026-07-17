@@ -1,24 +1,24 @@
-// apps/web/src/App.tsx
 import React, { useEffect, useRef, useState } from "react";
 
 import type { EgoRecord, IdentityRecord, OrdinalTables, TeamState } from "@limbus/core/types";
 import { DEFAULT_RESET_TEAM_CODE } from "@limbus/core/baseline";
 
-import { setPortraits } from "./assets";
+import { setPortraits } from "../assets";
 
-import PreviewScreen from "./screens/PreviewScreen";
-import SelectorScreen from "./screens/SelectorScreen";
+import GameViewport from "./GameViewport";
+import PreviewScreen from "../screens/PreviewScreen";
+import SelectorScreen from "../screens/SelectorScreen";
 
-import type { StoredTeam } from "./state/teamsStorage";
+import type { StoredTeam } from "../state/teamsStorage";
 import {
   DEFAULT_TEAMS_COUNT,
   createDefaultTeams,
   loadTeamsFromStorage,
   saveTeamsToStorage,
-} from "./state/teamsStorage";
+} from "../state/teamsStorage";
 
-import { decodeTeamStateFromOuterCodeSafe, encodeTeamStateToOuterCode } from "./lib/teamcode/codec";
-import { normalizeTeamState } from "./lib/teamcode/normalize";
+import { decodeTeamStateFromOuterCodeSafe, encodeTeamStateToOuterCode } from "../lib/teamcode/codec";
+import { normalizeTeamState } from "../lib/teamcode/normalize";
 
 type Dataset = {
   identities: (IdentityRecord & { portraitUrl?: string })[];
@@ -86,18 +86,15 @@ export default function App(): JSX.Element {
   const teamName = activeTeam.name;
   const teamCode = activeTeam.code;
 
-  // Load teams from localStorage once
   useEffect(() => {
     const loaded = loadTeamsFromStorage();
     if (loaded) setTeams(loaded);
   }, []);
 
-  // Persist teams
   useEffect(() => {
     saveTeamsToStorage(teams);
   }, [teams]);
 
-  // Fetch dataset
   useEffect(() => {
     let cancelled = false;
     (async () => {
@@ -120,7 +117,6 @@ export default function App(): JSX.Element {
     };
   }, []);
 
-  // Decode active team code -> teamState (only for user-supplied codes or team switches)
   useEffect(() => {
     if (!dataset) return;
 
@@ -166,12 +162,10 @@ export default function App(): JSX.Element {
   }
 
   function setTeamCodeSafe(nextCode: string) {
-    // user-supplied code => allow decode effect to run
     lastInternallyEncodedCodeRef.current = null;
     updateActiveTeam({ code: nextCode });
   }
 
-  // Keep TeamState + teamCode in sync by encoding on each change.
   const setTeamStateAndSync: React.Dispatch<React.SetStateAction<TeamState>> = (updater) => {
     const targetIdx = activeTeamIndexRef.current;
 
@@ -194,7 +188,6 @@ export default function App(): JSX.Element {
   };
 
   const onSelectTeam = (idx: number) => {
-    // Switching teams should decode new team code; clear internal-code guard.
     lastInternallyEncodedCodeRef.current = null;
     setActiveTeamIndex(idx);
   };
@@ -212,14 +205,26 @@ export default function App(): JSX.Element {
 
   if (!dataset || datasetError) {
     return (
-      <div style={{ padding: 16, color: "white", fontFamily: "system-ui, sans-serif" }}>
-        {datasetError ? `Dataset error: ${datasetError}` : "Loading dataset..."}
-      </div>
+      <GameViewport>
+        <div
+          style={{
+            width: "100%",
+            height: "100%",
+            display: "grid",
+            placeItems: "center",
+            color: "white",
+            fontFamily: "system-ui, sans-serif",
+            background: "#0b0b0d",
+          }}
+        >
+          {datasetError ? `Dataset error: ${datasetError}` : "Loading dataset..."}
+        </div>
+      </GameViewport>
     );
   }
 
   return (
-    <>
+    <GameViewport>
       {scene === "preview" ? (
         <PreviewScreen
           dataset={dataset}
@@ -248,6 +253,6 @@ export default function App(): JSX.Element {
           initialMode={selectorInitialMode}
         />
       )}
-    </>
+    </GameViewport>
   );
 }

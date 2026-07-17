@@ -63,6 +63,7 @@ export default function TeamsList(props: {
       </div>
 
       <div
+        className="hide-scrollbar"
         ref={scrollerRef}
         onPointerDown={onPointerDown}
         onPointerMove={onPointerMove}
