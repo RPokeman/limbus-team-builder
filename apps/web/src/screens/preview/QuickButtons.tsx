@@ -1,4 +1,4 @@
-// apps/web/src/components/preview/QuickButtons.tsx
+// apps/web/src/screens/preview/QuickButtons.tsx
 import React from "react";
 
 export default function QuickButtons(props: {

@@ -1,4 +1,4 @@
-// apps/web/src/components/preview/DetailsToggle.tsx
+// apps/web/src/screens/preview/DetailsToggle.tsx
 import React from "react";
 
 export default function DetailsToggle(props: {

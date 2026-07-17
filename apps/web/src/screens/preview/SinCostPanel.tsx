@@ -1,4 +1,4 @@
-// apps/web/src/components/preview/SinCostPanel.tsx
+// apps/web/src/screens/preview/SinCostPanel.tsx
 import React, { useMemo } from "react";
 import type { EgoRecord, IdentityRecord, OrdinalTables, Sin, TeamState } from "@limbus/core/types";
 

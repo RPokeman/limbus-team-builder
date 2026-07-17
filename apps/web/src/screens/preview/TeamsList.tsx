@@ -1,4 +1,4 @@
-// apps/web/src/components/preview/TeamsList.tsx
+// apps/web/src/screens/preview/TeamsList.tsx
 import React, { useRef } from "react";
 import type { StoredTeam } from "../../state/teamsStorage";
 

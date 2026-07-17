@@ -1,4 +1,4 @@
-// apps/web/src/components/preview/TeamPane.tsx
+// apps/web/src/screens/preview/TeamPane.tsx
 import React, { useMemo, useState } from "react";
 import type { EgoRecord, IdentityRecord, OrdinalTables, TeamState } from "@limbus/core/types";
 import { SINNER_ORDER } from "@limbus/core/types";
@@ -12,7 +12,7 @@ type Dataset = {
   assetBaseUrl?: string;
 };
 
-export default function TeamPaneuint_pane(props: {
+export default function TeamPane(props: {
   dataset: Dataset;
   team: TeamState;
   detailsMode: "min" | "skills" | "ego";

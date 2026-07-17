@@ -1,4 +1,4 @@
-// apps/web/src/components/selector/FilterPanel.tsx
+// apps/web/src/screens/selector/FilterPanel.tsx
 import React from "react";
 
 import type { SelectorMode, IdentityFilterState, EgoFilterState } from "./filtering";

@@ -1,4 +1,4 @@
-// apps/web/src/components/preview/TeamReset.tsx
+// apps/web/src/screens/preview/TeamReset.tsx
 import React from "react";
 
 export default function TeamReset(props: { onReset: () => void }) {

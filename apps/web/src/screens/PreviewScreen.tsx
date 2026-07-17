@@ -3,14 +3,14 @@ import React from "react";
 
 import type { EgoRecord, IdentityRecord, OrdinalTables, TeamState } from "@limbus/core/types";
 
-import TeamsList from "../components/preview/TeamsList";
-import TeamName from "../components/preview/TeamName";
-import TeamCopyPaste from "../components/preview/TeamCopyPaste";
-import DetailsToggle from "../components/preview/DetailsToggle";
-import TeamReset from "../components/preview/TeamReset";
-import TeamPane from "../components/preview/TeamPane";
-import SinCostPanel from "../components/preview/SinCostPanel";
-import QuickButtons from "../components/preview/QuickButtons";
+import TeamsList from "./preview/TeamsList";
+import TeamName from "./preview/TeamName";
+import TeamCopyPaste from "./preview/TeamCopyPaste";
+import DetailsToggle from "./preview/DetailsToggle";
+import TeamReset from "./preview/TeamReset";
+import TeamPane from "./preview/TeamPane";
+import SinCostPanel from "./preview/SinCostPanel";
+import QuickButtons from "./preview/QuickButtons";
 
 import type { StoredTeam } from "../state/teamsStorage";
 

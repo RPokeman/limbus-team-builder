@@ -1,4 +1,4 @@
-// apps/web/src/components/selector/filtering.ts
+// apps/web/src/screens/selector/filtering.ts
 import type { EgoTier } from "@limbus/core/types";
 
 export type SelectorMode = "identities" | "ego";

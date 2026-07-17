@@ -10,7 +10,7 @@ import { MiniFilterButton } from "./selector/MiniFilterButton";
 import { SelectedIdentityPanel } from "./selector/SelectedIdentityPanel";
 import { CatalogGrid } from "./selector/CatalogGrid";
 
-import FilterPanel from "../components/selector/FilterPanel";
+import FilterPanel from "./selector/FilterPanel";
 import {
   type SelectorMode,
   type IdentityFilterState,
@@ -20,7 +20,7 @@ import {
   emptyEgoFilters,
   recordMatchesIdentityFilters,
   recordMatchesEgoFilters,
-} from "../components/selector/filtering";
+} from "./selector/filtering";
 
 type Dataset = {
   identities: IdentityRecord[];

@@ -1,6 +1,6 @@
-// apps/web/src/components/preview/TeamCopyPaste.tsx
+// apps/web/src/screens/preview/TeamCopyPaste.tsx
 import React, { useState } from "react";
-import TeamCodeModal from "../modals/TeamCodeModal";
+import TeamCodeModal from "../../components/modals/TeamCodeModal";
 
 export default function TeamCopyPaste(props: {
   teamCode: string;

@@ -1,4 +1,4 @@
-// apps/web/src/components/preview/TeamName.tsx
+// apps/web/src/screens/preview/TeamName.tsx
 import React, { useState } from "react";
 
 export default function TeamName(props: { name: string; onRename: (name: string) => void }) {
