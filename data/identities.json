@@ -282,6 +282,46 @@
     ]
   },
   {
+    "page": "LCE_E.G.O::Dimension_Shredder_Yi_Sang",
+    "name": "LCE E.G.O::Dimension Shredder Yi Sang",
+    "prefix": "LCE E.G.O::Dimension Shredder",
+    "sinner": "Yi Sang",
+    "rarity": 3,
+    "releaseDate": "2026-07-23",
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Placeholder_Identity.png/256px-Placeholder_Identity.png",
+    "skills": [
+      {
+        "slot": "skill1",
+        "sin": "pride",
+        "type": "slash"
+      },
+      {
+        "slot": "skill2",
+        "sin": "gluttony",
+        "type": "slash"
+      },
+      {
+        "slot": "skill3",
+        "sin": "envy",
+        "type": "slash"
+      },
+      {
+        "slot": "defense",
+        "sin": "envy",
+        "type": "evade"
+      }
+    ],
+    "affinities": [
+      "pride",
+      "gluttony",
+      "envy"
+    ],
+    "statusTags": [
+      "charge",
+      "rupture"
+    ]
+  },
+  {
     "page": "LCB_Sinner_Faust",
     "name": "LCB Sinner Faust",
     "prefix": "LCB Sinner",
