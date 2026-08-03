@@ -454,6 +454,29 @@
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/La_Sangre_de_Sancho_Don_Quixote.png/130px-La_Sangre_de_Sancho_Don_Quixote.png"
   },
   {
+    "page": "I'll_Go_fer_Scissors._How_'Bout_You?_Don_Quixote",
+    "name": "I'll Go fer Scissors. How 'Bout You? Don Quixote",
+    "sinner": "Don Quixote",
+    "tier": "ZAYIN",
+    "releaseDate": "2026-08-06",
+    "isDefault": false,
+    "affinity": "envy",
+    "type": "slash",
+    "cost": {
+      "wrath": 0,
+      "lust": 0,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 0,
+      "pride": 0,
+      "envy": 0
+    },
+    "statusTags": [
+      "bleed"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Placeholder_E.G.O.png/130px-Placeholder_E.G.O.png"
+  },
+  {
     "page": "Lifetime_Stew_Don_Quixote",
     "name": "Lifetime Stew Don Quixote",
     "sinner": "Don Quixote",
