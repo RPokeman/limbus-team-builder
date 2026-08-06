@@ -469,12 +469,12 @@
       "gluttony": 0,
       "gloom": 0,
       "pride": 0,
-      "envy": 0
+      "envy": 5
     },
     "statusTags": [
       "bleed"
     ],
-    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Placeholder_E.G.O.png/130px-Placeholder_E.G.O.png"
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/I'll_Go_fer_Scissors._How_'Bout_You%3F_Don_Quixote.png/130px-I'll_Go_fer_Scissors._How_'Bout_You%3F_Don_Quixote.png"
   },
   {
     "page": "Lifetime_Stew_Don_Quixote",
@@ -495,7 +495,8 @@
       "envy": 0
     },
     "statusTags": [
-      "burn"
+      "burn",
+      "bleed"
     ],
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Lifetime_Stew_Don_Quixote.png/130px-Lifetime_Stew_Don_Quixote.png"
   },
