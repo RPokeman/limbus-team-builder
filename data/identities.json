@@ -1682,6 +1682,46 @@
     ]
   },
   {
+    "page": "Cinq_Assoc._East_Section_3_Hong_Lu",
+    "name": "Cinq Assoc. East Section 3 Hong Lu",
+    "prefix": "Cinq Assoc. East Section 3",
+    "sinner": "Hong Lu",
+    "rarity": 3,
+    "releaseDate": "2026-08-20",
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Placeholder_Identity.png/256px-Placeholder_Identity.png",
+    "skills": [
+      {
+        "slot": "skill1",
+        "sin": "gloom",
+        "type": "pierce"
+      },
+      {
+        "slot": "skill2",
+        "sin": "wrath",
+        "type": "pierce"
+      },
+      {
+        "slot": "skill3",
+        "sin": "pride",
+        "type": "pierce"
+      },
+      {
+        "slot": "defense",
+        "sin": "wrath",
+        "type": "evade"
+      }
+    ],
+    "affinities": [
+      "gloom",
+      "wrath",
+      "pride"
+    ],
+    "statusTags": [
+      "burn",
+      "poise"
+    ]
+  },
+  {
     "page": "LCB_Sinner_Heathcliff",
     "name": "LCB Sinner Heathcliff",
     "prefix": "LCB Sinner",
