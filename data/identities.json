@@ -1689,28 +1689,7 @@
     "rarity": 3,
     "releaseDate": "2026-08-20",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Cinq_Assoc._East_Section_3_Hong_Lu.png/256px-Cinq_Assoc._East_Section_3_Hong_Lu.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "gloom",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill2",
-        "sin": "wrath",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "pride",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "wrath",
-        "type": "evade"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "gloom",
       "wrath",
