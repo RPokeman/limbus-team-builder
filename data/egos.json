@@ -2452,6 +2452,30 @@
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Bygone_Days_Gregor.png/130px-Bygone_Days_Gregor.png"
   },
   {
+    "page": "Move-in_Reg._Gregor",
+    "name": "Move-in Reg. Gregor",
+    "sinner": "Gregor",
+    "tier": "TETH",
+    "releaseDate": "2026-09-03",
+    "isDefault": false,
+    "affinity": "envy",
+    "type": "blunt",
+    "cost": {
+      "wrath": 0,
+      "lust": 0,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 0,
+      "pride": 0,
+      "envy": 0
+    },
+    "statusTags": [
+      "burn",
+      "charge"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Placeholder_E.G.O.png/130px-Placeholder_E.G.O.png"
+  },
+  {
     "page": "AEDD_Gregor",
     "name": "AEDD Gregor",
     "sinner": "Gregor",
