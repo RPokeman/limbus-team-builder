@@ -709,7 +709,8 @@
       "envy": 2
     },
     "statusTags": [
-      "sinking"
+      "sinking",
+      "tremor"
     ],
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Soda_Ry%C5%8Dsh%C5%AB.png/130px-Soda_Ry%C5%8Dsh%C5%AB.png"
   },
@@ -2461,19 +2462,19 @@
     "affinity": "envy",
     "type": "blunt",
     "cost": {
-      "wrath": 0,
+      "wrath": 1,
       "lust": 0,
       "sloth": 0,
       "gluttony": 0,
       "gloom": 0,
       "pride": 0,
-      "envy": 0
+      "envy": 5
     },
     "statusTags": [
       "burn",
       "charge"
     ],
-    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Placeholder_E.G.O.png/130px-Placeholder_E.G.O.png"
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Move-in_Reg._Gregor.png/130px-Move-in_Reg._Gregor.png"
   },
   {
     "page": "AEDD_Gregor",
