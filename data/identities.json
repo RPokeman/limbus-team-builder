@@ -1129,6 +1129,46 @@
     ]
   },
   {
+    "page": "Haute_Couture::Le_Noir_Footwear_Hall_Ryōshū",
+    "name": "Haute Couture::Le Noir Footwear Hall Ryōshū",
+    "prefix": "Haute Couture::Le Noir Footwear Hall",
+    "sinner": "Ryōshū",
+    "rarity": 3,
+    "releaseDate": "2026-09-17",
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Placeholder_Identity.png/256px-Placeholder_Identity.png",
+    "skills": [
+      {
+        "slot": "skill1",
+        "sin": "envy",
+        "type": "blunt"
+      },
+      {
+        "slot": "skill2",
+        "sin": "pride",
+        "type": "blunt"
+      },
+      {
+        "slot": "skill3",
+        "sin": "sloth",
+        "type": "blunt"
+      },
+      {
+        "slot": "defense",
+        "sin": "sloth",
+        "type": "blunt"
+      }
+    ],
+    "affinities": [
+      "envy",
+      "pride",
+      "sloth"
+    ],
+    "statusTags": [
+      "tremor",
+      "charge"
+    ]
+  },
+  {
     "page": "LCB_Sinner_Meursault",
     "name": "LCB Sinner Meursault",
     "prefix": "LCB Sinner",
@@ -2280,6 +2320,46 @@
     "statusTags": [
       "bleed",
       "poise"
+    ]
+  },
+  {
+    "page": "Haute_Couture::Boutique_du_Rouge_Ishmael",
+    "name": "Haute Couture::Boutique du Rouge Ishmael",
+    "prefix": "Haute Couture::Boutique du Rouge",
+    "sinner": "Ishmael",
+    "rarity": 3,
+    "releaseDate": "2026-09-17",
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Placeholder_Identity.png/256px-Placeholder_Identity.png",
+    "skills": [
+      {
+        "slot": "skill1",
+        "sin": "wrath",
+        "type": "pierce"
+      },
+      {
+        "slot": "skill2",
+        "sin": "envy",
+        "type": "pierce"
+      },
+      {
+        "slot": "skill3",
+        "sin": "lust",
+        "type": "pierce"
+      },
+      {
+        "slot": "defense",
+        "sin": "lust",
+        "type": "pierce"
+      }
+    ],
+    "affinities": [
+      "wrath",
+      "envy",
+      "lust"
+    ],
+    "statusTags": [
+      "bleed",
+      "charge"
     ]
   },
   {
