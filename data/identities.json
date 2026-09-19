@@ -1136,28 +1136,7 @@
     "rarity": 3,
     "releaseDate": "2026-09-17",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Haute_Couture_Le_Noir_Footwear_Hall_Ry%C5%8Dsh%C5%AB.png/256px-Haute_Couture_Le_Noir_Footwear_Hall_Ry%C5%8Dsh%C5%AB.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "envy",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "pride",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "sloth",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "sloth",
-        "type": "blunt"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "envy",
       "pride",
@@ -2330,28 +2309,7 @@
     "rarity": 3,
     "releaseDate": "2026-09-17",
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Haute_Couture_Boutique_du_Rouge_Ishmael.png/256px-Haute_Couture_Boutique_du_Rouge_Ishmael.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "wrath",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill2",
-        "sin": "envy",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "lust",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "lust",
-        "type": "pierce"
-      }
-    ],
+    "skills": [],
     "affinities": [
       "wrath",
       "envy",
