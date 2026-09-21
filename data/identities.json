@@ -2619,6 +2619,46 @@
     ]
   },
   {
+    "page": "Haute_Couture::Alteration_Shop_Rodion",
+    "name": "Haute Couture::Alteration Shop Rodion",
+    "prefix": "Haute Couture::Alteration Shop",
+    "sinner": "Rodion",
+    "rarity": 3,
+    "releaseDate": "2026-09-24",
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Placeholder_Identity.png/256px-Placeholder_Identity.png",
+    "skills": [
+      {
+        "slot": "skill1",
+        "sin": "pride",
+        "type": "slash"
+      },
+      {
+        "slot": "skill2",
+        "sin": "envy",
+        "type": "slash"
+      },
+      {
+        "slot": "skill3",
+        "sin": "sloth",
+        "type": "slash"
+      },
+      {
+        "slot": "defense",
+        "sin": "sloth",
+        "type": "slash"
+      }
+    ],
+    "affinities": [
+      "pride",
+      "envy",
+      "sloth"
+    ],
+    "statusTags": [
+      "tremor",
+      "charge"
+    ]
+  },
+  {
     "page": "LCB_Sinner_Sinclair",
     "name": "LCB Sinner Sinclair",
     "prefix": "LCB Sinner",
