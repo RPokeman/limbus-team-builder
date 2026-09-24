@@ -1102,6 +1102,29 @@
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Land_of_Illusion_Hong_Lu.png/130px-Land_of_Illusion_Hong_Lu.png"
   },
   {
+    "page": "Repudiation_Hong_Lu",
+    "name": "Repudiation Hong Lu",
+    "sinner": "Hong Lu",
+    "tier": "ZAYIN",
+    "releaseDate": "2026-09-24",
+    "isDefault": false,
+    "affinity": "envy",
+    "type": "blunt",
+    "cost": {
+      "wrath": 0,
+      "lust": 2,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 0,
+      "pride": 1,
+      "envy": 2
+    },
+    "statusTags": [
+      "charge"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Repudiation_Hong_Lu.png/130px-Repudiation_Hong_Lu.png"
+  },
+  {
     "page": "Roseate_Desire_Hong_Lu",
     "name": "Roseate Desire Hong Lu",
     "sinner": "Hong Lu",
@@ -1823,6 +1846,30 @@
       "tremor"
     ],
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Effervescent_Corrosion_Rodion.png/130px-Effervescent_Corrosion_Rodion.png"
+  },
+  {
+    "page": "Mirror-touch_Rodion",
+    "name": "Mirror-touch Rodion",
+    "sinner": "Rodion",
+    "tier": "TETH",
+    "releaseDate": "2026-09-24",
+    "isDefault": false,
+    "affinity": "sloth",
+    "type": "blunt",
+    "cost": {
+      "wrath": 2,
+      "lust": 0,
+      "sloth": 2,
+      "gluttony": 0,
+      "gloom": 1,
+      "pride": 1,
+      "envy": 0
+    },
+    "statusTags": [
+      "tremor",
+      "poise"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Mirror-touch_Rodion.png/130px-Mirror-touch_Rodion.png"
   },
   {
     "page": "4th_Match_Flame_Rodion",

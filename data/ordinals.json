@@ -313,7 +313,8 @@
     },
     "Hong Lu": {
       "ZAYIN": {
-        "Land_of_Illusion_Hong_Lu": 1
+        "Land_of_Illusion_Hong_Lu": 1,
+        "Repudiation_Hong_Lu": 2
       },
       "TETH": {
         "Roseate_Desire_Hong_Lu": 1,
@@ -376,7 +377,8 @@
       },
       "TETH": {
         "Rime_Shank_Rodion": 1,
-        "Effervescent_Corrosion_Rodion": 2
+        "Effervescent_Corrosion_Rodion": 2,
+        "Mirror-touch_Rodion": 3
       },
       "HE": {
         "4th_Match_Flame_Rodion": 1,
