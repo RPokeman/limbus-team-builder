@@ -850,6 +850,46 @@
     ]
   },
   {
+    "page": "Haute_Couture::Le_Noir_Brand_Manager_Don_Quixote",
+    "name": "Haute Couture::Le Noir Brand Manager Don Quixote",
+    "prefix": "Haute Couture::Le Noir Brand Manager",
+    "sinner": "Don Quixote",
+    "rarity": 3,
+    "releaseDate": "2026-10-01",
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Placeholder_Identity.png/256px-Placeholder_Identity.png",
+    "skills": [
+      {
+        "slot": "skill1",
+        "sin": "pride",
+        "type": "blunt"
+      },
+      {
+        "slot": "skill2",
+        "sin": "envy",
+        "type": "blunt"
+      },
+      {
+        "slot": "skill3",
+        "sin": "sloth",
+        "type": "blunt"
+      },
+      {
+        "slot": "defense",
+        "sin": "sloth",
+        "type": "blunt"
+      }
+    ],
+    "affinities": [
+      "pride",
+      "envy",
+      "sloth"
+    ],
+    "statusTags": [
+      "tremor",
+      "charge"
+    ]
+  },
+  {
     "page": "LCB_Sinner_Ryōshū",
     "name": "LCB Sinner Ryōshū",
     "prefix": "LCB Sinner",
