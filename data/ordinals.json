@@ -251,7 +251,8 @@
         "Ardor_Blossom_Star_Faust": 5
       },
       "WAW": {
-        "Everlasting_Faust": 1
+        "Everlasting_Faust": 1,
+        "Hollow_Faust": 2
       }
     },
     "Don Quixote": {
@@ -309,7 +310,8 @@
       },
       "WAW": {
         "Yearning-Mircalla_Meursault": 1,
-        "Crushbound_Past_Meursault": 2
+        "Crushbound_Past_Meursault": 2,
+        "Hollow_Meursault": 3
       }
     },
     "Hong Lu": {

@@ -856,29 +856,8 @@
     "sinner": "Don Quixote",
     "rarity": 3,
     "releaseDate": "2026-10-01",
-    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Placeholder_Identity.png/256px-Placeholder_Identity.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "pride",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "envy",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "sloth",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "sloth",
-        "type": "blunt"
-      }
-    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Haute_Couture_Le_Noir_Brand_Manager_Don_Quixote.png/256px-Haute_Couture_Le_Noir_Brand_Manager_Don_Quixote.png",
+    "skills": [],
     "affinities": [
       "pride",
       "envy",

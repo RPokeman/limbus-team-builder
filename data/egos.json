@@ -431,6 +431,31 @@
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Everlasting_Faust.png/130px-Everlasting_Faust.png"
   },
   {
+    "page": "Hollow_Faust",
+    "name": "Hollow Faust",
+    "sinner": "Faust",
+    "tier": "WAW",
+    "releaseDate": "2026-10-01",
+    "isDefault": false,
+    "affinity": "pride",
+    "type": "pierce",
+    "cost": {
+      "wrath": 0,
+      "lust": 0,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 2,
+      "pride": 4,
+      "envy": 2
+    },
+    "statusTags": [
+      "sinking",
+      "poise",
+      "charge"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Hollow_Faust.png/130px-Hollow_Faust.png"
+  },
+  {
     "page": "La_Sangre_de_Sancho_Don_Quixote",
     "name": "La Sangre de Sancho Don Quixote",
     "sinner": "Don Quixote",
@@ -1077,6 +1102,31 @@
       "tremor"
     ],
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Crushbound_Past_Meursault.png/130px-Crushbound_Past_Meursault.png"
+  },
+  {
+    "page": "Hollow_Meursault",
+    "name": "Hollow Meursault",
+    "sinner": "Meursault",
+    "tier": "WAW",
+    "releaseDate": "2026-10-01",
+    "isDefault": false,
+    "affinity": "pride",
+    "type": "pierce",
+    "cost": {
+      "wrath": 0,
+      "lust": 0,
+      "sloth": 2,
+      "gluttony": 0,
+      "gloom": 2,
+      "pride": 4,
+      "envy": 4
+    },
+    "statusTags": [
+      "sinking",
+      "poise",
+      "charge"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Hollow_Meursault.png/130px-Hollow_Meursault.png"
   },
   {
     "page": "Land_of_Illusion_Hong_Lu",
