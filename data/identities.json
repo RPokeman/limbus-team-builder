@@ -2940,29 +2940,8 @@
     "sinner": "Sinclair",
     "rarity": 3,
     "releaseDate": "2026-10-15",
-    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Placeholder_Identity.png/256px-Placeholder_Identity.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "gluttony",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill2",
-        "sin": "wrath",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "lust",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "lust",
-        "type": "evade"
-      }
-    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Haute_Couture_The_Crimson_God_of_Le_Rouge_Sinclair.png/256px-Haute_Couture_The_Crimson_God_of_Le_Rouge_Sinclair.png",
+    "skills": [],
     "affinities": [
       "gluttony",
       "wrath",
