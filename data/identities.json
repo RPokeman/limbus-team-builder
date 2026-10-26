@@ -1739,6 +1739,46 @@
     ]
   },
   {
+    "page": "Haute_Couture::Le_Noir_3F_Public_Address_Room_Hong_Lu",
+    "name": "Haute Couture::Le Noir 3F Public Address Room Hong Lu",
+    "prefix": "Haute Couture::Le Noir 3F Public Address Room",
+    "sinner": "Hong Lu",
+    "rarity": 3,
+    "releaseDate": "2026-10-29",
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Placeholder_Identity.png/256px-Placeholder_Identity.png",
+    "skills": [
+      {
+        "slot": "skill1",
+        "sin": "gloom",
+        "type": "blunt"
+      },
+      {
+        "slot": "skill2",
+        "sin": "envy",
+        "type": "blunt"
+      },
+      {
+        "slot": "skill3",
+        "sin": "sloth",
+        "type": "blunt"
+      },
+      {
+        "slot": "defense",
+        "sin": "sloth",
+        "type": "blunt"
+      }
+    ],
+    "affinities": [
+      "gloom",
+      "envy",
+      "sloth"
+    ],
+    "statusTags": [
+      "tremor",
+      "charge"
+    ]
+  },
+  {
     "page": "LCB_Sinner_Heathcliff",
     "name": "LCB Sinner Heathcliff",
     "prefix": "LCB Sinner",
@@ -2035,6 +2075,46 @@
     "statusTags": [
       "burn",
       "tremor"
+    ]
+  },
+  {
+    "page": "Haute_Couture::Le_Rouge_King_of_Needleworks_Heathcliff",
+    "name": "Haute Couture::Le Rouge King of Needleworks Heathcliff",
+    "prefix": "Haute Couture::Le Rouge King of Needleworks",
+    "sinner": "Heathcliff",
+    "rarity": 3,
+    "releaseDate": "2026-10-29",
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Placeholder_Identity.png/256px-Placeholder_Identity.png",
+    "skills": [
+      {
+        "slot": "skill1",
+        "sin": "envy",
+        "type": "pierce"
+      },
+      {
+        "slot": "skill2",
+        "sin": "lust",
+        "type": "pierce"
+      },
+      {
+        "slot": "skill3",
+        "sin": "wrath",
+        "type": "pierce"
+      },
+      {
+        "slot": "defense",
+        "sin": "lust",
+        "type": "pierce"
+      }
+    ],
+    "affinities": [
+      "envy",
+      "lust",
+      "wrath"
+    ],
+    "statusTags": [
+      "bleed",
+      "charge"
     ]
   },
   {
