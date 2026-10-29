@@ -1745,29 +1745,8 @@
     "sinner": "Hong Lu",
     "rarity": 3,
     "releaseDate": "2026-10-29",
-    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Placeholder_Identity.png/256px-Placeholder_Identity.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "gloom",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "envy",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "sloth",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "sloth",
-        "type": "blunt"
-      }
-    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Haute_Couture_Le_Noir_3F_Public_Address_Room_Hong_Lu.png/256px-Haute_Couture_Le_Noir_3F_Public_Address_Room_Hong_Lu.png",
+    "skills": [],
     "affinities": [
       "gloom",
       "envy",
@@ -2084,29 +2063,8 @@
     "sinner": "Heathcliff",
     "rarity": 3,
     "releaseDate": "2026-10-29",
-    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Placeholder_Identity.png/256px-Placeholder_Identity.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "envy",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill2",
-        "sin": "lust",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "wrath",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "lust",
-        "type": "pierce"
-      }
-    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Haute_Couture_Le_Rouge_King_of_Needleworks_Heathcliff.png/256px-Haute_Couture_Le_Rouge_King_of_Needleworks_Heathcliff.png",
+    "skills": [],
     "affinities": [
       "envy",
       "lust",
