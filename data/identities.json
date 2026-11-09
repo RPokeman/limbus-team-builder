@@ -869,6 +869,46 @@
     ]
   },
   {
+    "page": "Wedge_Office_Fixer_Don_Quixote",
+    "name": "Wedge Office Fixer Don Quixote",
+    "prefix": "Wedge Office Fixer",
+    "sinner": "Don Quixote",
+    "rarity": 3,
+    "releaseDate": "2026-11-12",
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Placeholder_Identity.png/256px-Placeholder_Identity.png",
+    "skills": [
+      {
+        "slot": "skill1",
+        "sin": "sloth",
+        "type": "pierce"
+      },
+      {
+        "slot": "skill2",
+        "sin": "gluttony",
+        "type": "pierce"
+      },
+      {
+        "slot": "skill3",
+        "sin": "pride",
+        "type": "pierce"
+      },
+      {
+        "slot": "defense",
+        "sin": "pride",
+        "type": "evade"
+      }
+    ],
+    "affinities": [
+      "sloth",
+      "gluttony",
+      "pride"
+    ],
+    "statusTags": [
+      "poise",
+      "tremor"
+    ]
+  },
+  {
     "page": "LCB_Sinner_Ryōshū",
     "name": "LCB Sinner Ryōshū",
     "prefix": "LCB Sinner",
@@ -2992,6 +3032,46 @@
     ]
   },
   {
+    "page": "Wedge_Office_Fixer_Sinclair",
+    "name": "Wedge Office Fixer Sinclair",
+    "prefix": "Wedge Office Fixer",
+    "sinner": "Sinclair",
+    "rarity": 3,
+    "releaseDate": "2026-11-12",
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Placeholder_Identity.png/256px-Placeholder_Identity.png",
+    "skills": [
+      {
+        "slot": "skill1",
+        "sin": "gluttony",
+        "type": "pierce"
+      },
+      {
+        "slot": "skill2",
+        "sin": "sloth",
+        "type": "pierce"
+      },
+      {
+        "slot": "skill3",
+        "sin": "pride",
+        "type": "pierce"
+      },
+      {
+        "slot": "defense",
+        "sin": "pride",
+        "type": "evade"
+      }
+    ],
+    "affinities": [
+      "gluttony",
+      "sloth",
+      "pride"
+    ],
+    "statusTags": [
+      "poise",
+      "tremor"
+    ]
+  },
+  {
     "page": "LCB_Sinner_Outis",
     "name": "LCB Sinner Outis",
     "prefix": "LCB Sinner",
@@ -3265,6 +3345,47 @@
     "statusTags": [
       "burn",
       "bleed"
+    ]
+  },
+  {
+    "page": "Wedge_Office_Rep_Outis",
+    "name": "Wedge Office Rep Outis",
+    "prefix": "Wedge Office Rep",
+    "sinner": "Outis",
+    "rarity": 3,
+    "releaseDate": "2026-11-12",
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Placeholder_Identity.png/256px-Placeholder_Identity.png",
+    "skills": [
+      {
+        "slot": "skill1",
+        "sin": "lust",
+        "type": "pierce"
+      },
+      {
+        "slot": "skill2",
+        "sin": "sloth",
+        "type": "pierce"
+      },
+      {
+        "slot": "skill3",
+        "sin": "pride",
+        "type": "pierce"
+      },
+      {
+        "slot": "defense",
+        "sin": "pride",
+        "type": "evade"
+      }
+    ],
+    "affinities": [
+      "lust",
+      "sloth",
+      "pride",
+      "envy"
+    ],
+    "statusTags": [
+      "poise",
+      "tremor"
     ]
   },
   {

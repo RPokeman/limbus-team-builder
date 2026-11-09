@@ -1336,6 +1336,30 @@
     "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/To_Remain_Oneself_%E5%AE%81%E4%BD%9C%E5%90%BE_Hong_Lu.png/130px-To_Remain_Oneself_%E5%AE%81%E4%BD%9C%E5%90%BE_Hong_Lu.png"
   },
   {
+    "page": "The_Sword_Sharpened_with_Tears_Hong_Lu",
+    "name": "The Sword Sharpened with Tears Hong Lu",
+    "sinner": "Hong Lu",
+    "tier": "HE",
+    "releaseDate": "2026-11-12",
+    "isDefault": false,
+    "affinity": "pride",
+    "type": "pierce",
+    "cost": {
+      "wrath": 0,
+      "lust": 0,
+      "sloth": 0,
+      "gluttony": 0,
+      "gloom": 0,
+      "pride": 0,
+      "envy": 0
+    },
+    "statusTags": [
+      "poise",
+      "charge"
+    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Placeholder_E.G.O.png/130px-Placeholder_E.G.O.png"
+  },
+  {
     "page": "Tears_of_the_Tarnished_Blood_汚血泣淚_Hong_Lu",
     "name": "Tears of the Tarnished Blood 汚血泣淚 Hong Lu",
     "sinner": "Hong Lu",

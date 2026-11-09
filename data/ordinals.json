@@ -51,7 +51,8 @@
       "Lobotomy_E.G.O::In_the_Name_of_Love_and_Hate_Don_Quixote": 12,
       "Heishou_Pack_-_Wei_Branch_Don_Quixote": 13,
       "The_Index_Proxy_-_Effloresced_E.G.O::Procuration_Don_Quixote": 14,
-      "Haute_Couture::Le_Noir_Brand_Manager_Don_Quixote": 15
+      "Haute_Couture::Le_Noir_Brand_Manager_Don_Quixote": 15,
+      "Wedge_Office_Fixer_Don_Quixote": 16
     },
     "Ryōshū": {
       "LCB_Sinner_Ryōshū": 1,
@@ -179,7 +180,8 @@
       "The_Thumb_East_Soldato_II_Sinclair": 13,
       "Heishou_Pack_-_You_Branch_Sinclair": 14,
       "The_House_of_Spiders:_The_Pinky_Apprentice_Sinclair": 15,
-      "Haute_Couture::The_Crimson_God_of_Le_Rouge_Sinclair": 16
+      "Haute_Couture::The_Crimson_God_of_Le_Rouge_Sinclair": 16,
+      "Wedge_Office_Fixer_Sinclair": 17
     },
     "Outis": {
       "LCB_Sinner_Outis": 1,
@@ -196,7 +198,8 @@
       "Heishou_Pack_-_Mao_Branch_Outis": 12,
       "T_Corp._Class_3_VDCU_Staff_Outis": 13,
       "LCA_Udjat_Vanguard_Team_3_Leader_Outis": 14,
-      "The_House_of_Spiders:_The_Middle_Nursefather_Outis": 15
+      "The_House_of_Spiders:_The_Middle_Nursefather_Outis": 15,
+      "Wedge_Office_Rep_Outis": 16
     },
     "Gregor": {
       "LCB_Sinner_Gregor": 1,
@@ -331,7 +334,8 @@
       "HE": {
         "Dimension_Shredder_Hong_Lu": 1,
         "Effervescent_Corrosion_Hong_Lu": 2,
-        "To_Remain_Oneself_宁作吾_Hong_Lu": 3
+        "To_Remain_Oneself_宁作吾_Hong_Lu": 3,
+        "The_Sword_Sharpened_with_Tears_Hong_Lu": 4
       },
       "WAW": {
         "Tears_of_the_Tarnished_Blood_汚血泣淚_Hong_Lu": 1
