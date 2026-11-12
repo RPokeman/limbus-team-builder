@@ -1347,17 +1347,17 @@
     "cost": {
       "wrath": 0,
       "lust": 0,
-      "sloth": 0,
+      "sloth": 2,
       "gluttony": 0,
-      "gloom": 0,
-      "pride": 0,
+      "gloom": 2,
+      "pride": 2,
       "envy": 0
     },
     "statusTags": [
       "poise",
       "charge"
     ],
-    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Placeholder_E.G.O.png/130px-Placeholder_E.G.O.png"
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/The_Sword_Sharpened_with_Tears_Hong_Lu.png/130px-The_Sword_Sharpened_with_Tears_Hong_Lu.png"
   },
   {
     "page": "Tears_of_the_Tarnished_Blood_汚血泣淚_Hong_Lu",

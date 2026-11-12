@@ -875,7 +875,7 @@
     "sinner": "Don Quixote",
     "rarity": 3,
     "releaseDate": "2026-11-12",
-    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Placeholder_Identity.png/256px-Placeholder_Identity.png",
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Wedge_Office_Fixer_Don_Quixote.png/256px-Wedge_Office_Fixer_Don_Quixote.png",
     "skills": [
       {
         "slot": "skill1",
@@ -3038,7 +3038,7 @@
     "sinner": "Sinclair",
     "rarity": 3,
     "releaseDate": "2026-11-12",
-    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Placeholder_Identity.png/256px-Placeholder_Identity.png",
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Wedge_Office_Fixer_Sinclair.png/256px-Wedge_Office_Fixer_Sinclair.png",
     "skills": [
       {
         "slot": "skill1",
@@ -3354,29 +3354,8 @@
     "sinner": "Outis",
     "rarity": 3,
     "releaseDate": "2026-11-12",
-    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Placeholder_Identity.png/256px-Placeholder_Identity.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "lust",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill2",
-        "sin": "sloth",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "pride",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "pride",
-        "type": "evade"
-      }
-    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Wedge_Office_Rep_Outis.png/256px-Wedge_Office_Rep_Outis.png",
+    "skills": [],
     "affinities": [
       "lust",
       "sloth",
