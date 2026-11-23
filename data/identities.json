@@ -301,6 +301,46 @@
     ]
   },
   {
+    "page": "Haute_Couture::Le_Noir_B3F_Drying_Room_Yi_Sang",
+    "name": "Haute Couture::Le Noir B3F Drying Room Yi Sang",
+    "prefix": "Haute Couture::Le Noir B3F Drying Room",
+    "sinner": "Yi Sang",
+    "rarity": 3,
+    "releaseDate": "2026-11-26",
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Placeholder_Identity.png/256px-Placeholder_Identity.png",
+    "skills": [
+      {
+        "slot": "skill1",
+        "sin": "gluttony",
+        "type": "blunt"
+      },
+      {
+        "slot": "skill2",
+        "sin": "gloom",
+        "type": "blunt"
+      },
+      {
+        "slot": "skill3",
+        "sin": "sloth",
+        "type": "blunt"
+      },
+      {
+        "slot": "defense",
+        "sin": "sloth",
+        "type": "clashable_guard"
+      }
+    ],
+    "affinities": [
+      "gluttony",
+      "gloom",
+      "sloth"
+    ],
+    "statusTags": [
+      "tremor",
+      "charge"
+    ]
+  },
+  {
     "page": "LCB_Sinner_Faust",
     "name": "LCB Sinner Faust",
     "prefix": "LCB Sinner",
@@ -3618,6 +3658,47 @@
     "statusTags": [
       "burn",
       "tremor"
+    ]
+  },
+  {
+    "page": "Haute_Couture::Le_Rouge_B2F_Skein_Nest_Gregor",
+    "name": "Haute Couture::Le Rouge B2F Skein Nest Gregor",
+    "prefix": "Haute Couture::Le Rouge B2F Skein Nest",
+    "sinner": "Gregor",
+    "rarity": 3,
+    "releaseDate": "2026-11-26",
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Placeholder_Identity.png/256px-Placeholder_Identity.png",
+    "skills": [
+      {
+        "slot": "skill1",
+        "sin": "gluttony",
+        "type": "pierce"
+      },
+      {
+        "slot": "skill2",
+        "sin": "lust",
+        "type": "pierce"
+      },
+      {
+        "slot": "skill3",
+        "sin": "lust",
+        "type": "pierce"
+      },
+      {
+        "slot": "defense",
+        "sin": "lust",
+        "type": "clashable_guard"
+      }
+    ],
+    "affinities": [
+      "gluttony",
+      "lust",
+      "envy",
+      "pride"
+    ],
+    "statusTags": [
+      "bleed",
+      "charge"
     ]
   }
 ]
