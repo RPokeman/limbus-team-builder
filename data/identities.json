@@ -307,29 +307,8 @@
     "sinner": "Yi Sang",
     "rarity": 3,
     "releaseDate": "2026-11-26",
-    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Placeholder_Identity.png/256px-Placeholder_Identity.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "gluttony",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill2",
-        "sin": "gloom",
-        "type": "blunt"
-      },
-      {
-        "slot": "skill3",
-        "sin": "sloth",
-        "type": "blunt"
-      },
-      {
-        "slot": "defense",
-        "sin": "sloth",
-        "type": "clashable_guard"
-      }
-    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Haute_Couture_Le_Noir_B3F_Drying_Room_Yi_Sang.png/256px-Haute_Couture_Le_Noir_B3F_Drying_Room_Yi_Sang.png",
+    "skills": [],
     "affinities": [
       "gluttony",
       "gloom",
@@ -3667,29 +3646,8 @@
     "sinner": "Gregor",
     "rarity": 3,
     "releaseDate": "2026-11-26",
-    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Placeholder_Identity.png/256px-Placeholder_Identity.png",
-    "skills": [
-      {
-        "slot": "skill1",
-        "sin": "gluttony",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill2",
-        "sin": "lust",
-        "type": "pierce"
-      },
-      {
-        "slot": "skill3",
-        "sin": "lust",
-        "type": "pierce"
-      },
-      {
-        "slot": "defense",
-        "sin": "lust",
-        "type": "clashable_guard"
-      }
-    ],
+    "portraitUrl": "https://limbuscompany.wiki.gg/images/thumb/Haute_Couture_Le_Rouge_B2F_Skein_Nest_Gregor.png/256px-Haute_Couture_Le_Rouge_B2F_Skein_Nest_Gregor.png",
+    "skills": [],
     "affinities": [
       "gluttony",
       "lust",
